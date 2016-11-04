@@ -1271,32 +1271,32 @@ window.details = {
         captain: "Multiplica el RCV de todos los personajes x5 si el HP está por debajo de 30% al inicio del turno"
     },
     332: {
-        special: "Changes [STR] orbs into [RCV] orbs, changes [RCV] orbs into [DEX] orbs",
+        special: "Cambia los orbes [STR] en orbes [RCV], cambia los orbes [RCV] en orbes [DEX]",
         specialName: "Snow-Slicing Blade",
-        captain: "Boosts ATK, HP and RCV of Striker characters by 1.2x"
+        captain: "Multiplica el ATK, HP y RCV de Strikers x1.2"
     },
     333: {
-        special: "Recovers a random amount of HP",
+        special: "Regenera una cantidad aleatoria de HP",
         specialName: "Doctor Stop",
-        captain: "Boosts ATK and RCV of PSY and INT characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY y INT x1.5
     },
     334: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     335: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     336: {
-        special: "Switches orbs between slots twice",
+        special: "Cambia orbes entre ranuras libremente dos veces",
         specialName: "Franky Centaur",
-        captain: "Reduces damage received by 10% if HP is above 50% at the start of the turn, boosts ATK of PSY characters by 2x and reduces ATK of every other character by 20% if HP is above 50% at the start of the turn"
+        captain: "Reduce el daño recibido en un 10% si el HP está por encima del 50% al inicio del turno, multiplica el ATK de los personajes PSY x2 y reduce el ATK de cualquier otro personaje en un 20% si el HP está por encima del 50% al inicio del turno"
     },
     337: {
-        special: "Switches orbs between slots twice",
+        special: "Cambia orbes entre ranuras libremente dos veces",
         specialName: "Franky Centaur",
-        captain: "Reduces damage received by 10% if HP is above 50% at the start of the turn, boosts ATK of PSY characters by 2.5x and reduces ATK of every other character by 20% if HP is above 50% at the start of the turn"
+        captain: "Reduce el daño recibido en un 10% si el HP está por encima del 50% al inicio del turno, multiplica el ATK de los personajes PSY x2 y reduce el ATK de cualquier otro personaje en un 20% si el HP está por encima del 50% al inicio del turno"
     },
     338: {
         special: "Changes [QCK] orbs into [PSY] orbs",
