@@ -1349,121 +1349,121 @@ window.details = {
         captain: "Multiplica el ATK de los personajes Striker x2.5"
     },
     358: {
-        special: "Changes [TND] and [RCV] orbs into [DEX] orbs, deals random DEX damage to all enemies",
+        special: "Cambia los orbes [TND] y [RCV] en orbes [DEX], hace daño DEX aleatorio a todos los enemigos",
         specialName: "Scratch Body",
-        captain: "Boosts ATK of DEX characters by 2.5x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes DEX x2.5 si el HP es superior al 99% al inicio del turno",
         specialNotes: "#{random : 5,000 : 20,000}"
     },
     359: {
-        special: "Changes [TND] and [RCV] orbs into [DEX] orbs, deals random DEX damage to all enemies",
+        special: "Cambia los orbes [TND] y [RCV] en orbes [DEX], hace daño DEX aleatorio a todos los enemigos",
         specialName: "Scratch Body",
         specialNotes: "#{random : 5,000 : 20,000}",
-        captain: "Boosts ATK of DEX characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes DEX x3 si el HP es superior al 99% al inicio del turno"
     },
     360: {
-        special: "Deals 10x character's ATK in INT damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Hace 10x ATK en daño INT a todos los enemigos, protege de la derrota mientras el HP esté por encima del 50% durante 1 turno",
         specialName: "Prehistoric Power",
         specialNotes: "#{zombie}",
-        captain: "Boosts ATK of INT characters by 3x if HP is below 30% at the start of the turn",
-        sailor: "Boosts HP of Powerhouse characters by 100"
+        captain: "Multiplica el ATK de los personajes INT x3 si el HP es inferior al 30% al inicio del turno",
+        sailor: "Incrementa el HP de los personajes Powerhouse en 100 unidades"
     },
     361: {
-        special: "Deals 10x character's ATK in INT damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Hace 10x ATK en daño INT a todos los enemigos, protege de la derrota mientras el HP esté por encima del 50% durante 1 turno",
         specialName: "Prehistoric Power",
         specialNotes: "#{zombie}",
-        captain: "Boosts ATK of INT characters by 3x if HP is below 30% at the start of the turn",
-        sailor: "Boosts HP of Powerhouse characters by 100"
+        captain: "Multiplica el ATK de los personajes INT x3 si el HP es inferior al 30% al inicio del turno",
+        sailor: "Incrementa el HP de los personajes Powerhouse en 100 unidades"
     },
     362: {
-        special: "For 2 turns, boosts the amount healed by RCV orbs by 1.5x, then 2x, then 2.5x from the third crew member onward",
+        special: "Durante 2 turnos, incrementa la cantidad curada por los orbes [RCV] x1.5, luego x2, luego x2.5, y así consecutivamente",
         specialName: "Big Eater",
-        captain: "Boosts ATK and RCV of PSY characters by 2x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x2"
     },
     363: {
-        special: "For 2 turns, boosts the amount healed by RCV orbs by 1.5x, then 2x, then 2.5x from the third crew member onward",
+        special: "Durante 2 turnos, incrementa la cantidad curada por los orbes [RCV] x1.5, luego x2, luego x2.5, y así consecutivamente",
         specialName: "Big Eater",
-        captain: "Boosts ATK and RCV of PSY characters by 2x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x2"
     },
     364: {
-        special: "Changes [STR] and [DEX] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] y [DEX] en orbes [QCK]",
         specialName: "Gang Fortress",
-        captain: "Boosts ATK and RCV of QCK characters by 2x",
-        sailor: "Boosts RCV of Crew by 10"
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x2",
+        sailor: "Incrementa el RCV de la tripulación en 10 unidades"
     },
     365: {
-        special: "Changes [STR] and [DEX] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] y [DEX] en orbes [QCK]",
         specialName: "Gang Fortress",
-        captain: "Boosts ATK and RCV of QCK characters by 2x",
-        sailor: "Boosts RCV of Crew by 10"
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x2",
+        sailor: "Incrementa el RCV de la tripulación en 10 unidades"
     },
     366: {
-        special: "Deals 20x character's ATK in INT damage to all enemies, reduces Bind duration by 5 turns",
+        special: "Hace 20x ATK en daño INT a todos los enemigos, reduce la duración de las cadenas en 5 turnos",
         specialName: "Dark King's Aura",
-        captain: "Boosts chain multiplier by 4x"
+        captain: "Potencia el multiplicador de combo x4"
     },
     367: {
-        special: "Deals 20x character's ATK in INT damage to all enemies, reduces Bind duration by 5 turns",
+        special: "Hace 20x ATK en daño INT a todos los enemigos, reduce la duración de las cadenas en 5 turnos",
         specialName: "Dark King's Aura",
-        captain: "Boosts chain multiplier by 4x"
+        captain: "Potencia el multiplicador de combo x4"
     },
     368: {
-        special: "Reduces damage received from DEX enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos DEX en un 50% durante 1 turno",
         specialName: "Crystal Shield DEX"
     },
     369: {
-        special: "Reduces damage received from STR enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos STR en un 50% durante 1 turno",
         specialName: "Crystal Shield STR"
     },
     370: {
-        special: "Reduces damage received from QCK enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos QCK en un 50% durante 1 turno",
         specialName: "Crystal Shield QCK"
     },
     371: {
-        special: "Reduces damage received from INT enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos INT en un 50% durante 1 turno",
         specialName: "Crystal Shield INT"
     },
     372: {
-        special: "Reduces damage received from PSY enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos PSY en un 50% durante 1 turno",
         specialName: "Crystal Shield PSY"
     },
     373: {
-        special: "Reduces damage received from DEX enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos DEX en un 50% durante 1 turno",
         specialName: "Crystal Shield DEX",
-        captain: "Boosts ATK of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5"
     },
     374: {
-        special: "Reduces damage received from STR enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos STR en un 50% durante 1 turno",
         specialName: "Crystal Shield STR",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     375: {
-        special: "Reduces damage received from QCK enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos QCK en un 50% durante 1 turno",
         specialName: "Crystal Shield QCK",
-        captain: "Boosts HP of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     376: {
-        special: "Reduces damage received from INT enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos INT en un 50% durante 1 turno",
         specialName: "Crystal Shield INT",
-        captain: "Boosts ATK of Fighter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.5"
     },
     377: {
-        special: "Reduces damage received from PSY enemies by 50% for 1 turn",
+        special: "Reduce el daño recibido de enemigos PSY en un 50% durante 1 turno",
         specialName: "Crystal Shield PSY",
-        captain: "Boosts ATK of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     378: {
-        special: "Recovers 3x character's RCV in HP",
+        special: "Regenera 3x RCV en HP",
         specialName: "Quick Healing",
-        captain: "Boosts RCV of all characters by 1.5x"
+        captain: "Multiplica el RCV de todos los personajes x1.5"
     },
     379: {
-        special: "Removes poison",
+        special: "Elimina el envenenamiento",
         specialName: "Dugong Kung Fu Fist of Healing"
     },
     380: {
-        special: "Removes poison",
+        special: "Elimina el envenenamiento",
         specialName: "Dugong Kung Fu Fist of Healing",
-        captain: "Boosts ATK and RCV of STR characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes STR x1.5"
     },
     381: {
         special: "Reduces damage received by 20% for 1 turn",
