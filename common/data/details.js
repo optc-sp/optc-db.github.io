@@ -1299,54 +1299,54 @@ window.details = {
         captain: "Reduce el daño recibido en un 10% si el HP está por encima del 50% al inicio del turno, multiplica el ATK de los personajes PSY x2 y reduce el ATK de cualquier otro personaje en un 20% si el HP está por encima del 50% al inicio del turno"
     },
     338: {
-        special: "Changes [QCK] orbs into [PSY] orbs",
+        special: "Cambia los orbes [QCK] en orbes [PSY]",
         specialName: "Wavy Square Hair"
     },
     339: {
-        special: "Changes [INT] orbs into [TND] orbs",
+        special: "Cambia los orbes [INT] en orbes [TND]",
         specialName: "Straight Square Hair"
     },
     340: {
-        special: "Randomly changes all orbs into either [STR] or [QCK] orbs, deals random STR damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR] O [QCK], hace daño STR aleatorio a todos los enemigos",
         specialName: "Kraken Tentacle Crush",
         specialNotes: "#{random : 1 : 15,000}",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     341: {
-        special: "Randomly changes all orbs into either [STR] or [QCK] orbs, deals random STR damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR] O [QCK], hace daño STR aleatorio a todos los enemigos",
         specialName: "Kraken Tentacle Crush",
         specialNotes: "#{random : 1 : 15,000}",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     352: {
-        special: "Boosts ATK of Shooter characters by 1.75x for 2 turns",
+        special: "Multiplica el ATK de los personajes Shooter x1.75 durante 2 turnos",
         specialName: "Smash Buster",
-        captain: "Boosts ATK of Shooter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Shooter x2"
     },
     353: {
-        special: "Boosts ATK of Shooter characters by 1.75x for 2 turns",
+        special: "Multiplica el ATK de los personajes Shooter x1.75 durante 2 turnos",
         specialName: "Smash Buster",
-        captain: "Boosts ATK of Shooter characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x2.5"
     },
     354: {
-        special: "Reduces Bind and Despair duration by 3 turns",
+        special: "Reduce las cadenas y la anulación de capitán en 3 turnos",
         specialName: "Two-Sword Dance"
     },
     355: {
-        special: "Reduces Bind and Despair duration by 3 turns",
+        special: "Reduce las cadenas y la anulación de capitán en 3 turnos",
         specialName: "Two-Sword Dance"
     },
     356: {
-        special: "Changes own orb into [STR], deals 9x character's ATK in STR damage to all enemies",
-        specialNotes: "The in-game description is wrong, the special does not deal 7x damage",
+        special: "Cambia su propio orbe a [STR], hace 9x ATK en daño STR a todos los enemigos",
+        specialNotes: "Las descripción del juego es erronea, el especial no hace 7x ATK",
         specialName: "Steel Magnetic Arm",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     357: {
-        special: "Changes own orb into [STR], deals 9x character's ATK in STR damage to all enemies",
-        specialNotes: "The in-game description is wrong, the special does not deal 7x damage",
+        special: "Cambia su propio orbe a [STR], hace 9x ATK en daño STR a todos los enemigos",
+        specialNotes: "Las descripción del juego es erronea, el especial no hace 7x ATK",
         specialName: "Steel Magnetic Arm",
-        captain: "Boosts ATK of Striker characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Striker x2.5"
     },
     358: {
         special: "Changes [TND] and [RCV] orbs into [DEX] orbs, deals random DEX damage to all enemies",
