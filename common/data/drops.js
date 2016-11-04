@@ -6,7 +6,7 @@ window.drops = {
             name: "Fushia Village",
             thumb: 28,
             global: true,
-            completion: '5x Rainbow Gems',	
+            completion: '5x Gemas',	
             "01": [ 119, 120 ],
             "02": [ 27, 115, 119, 120 ],
             "03": [ 28, 78, 79, 80, 119, 120 ]
@@ -16,7 +16,7 @@ window.drops = {
             name: "Alvida's Hideout",
             thumb: 29,
             global: true,
-            "Completion Units": [31, 105 ],
+            "Unidades Recompensa": [31, 105 ],
             "01": [ 121, 123, 127, 131, 136 ],
             "02": [ 78, 79, 80, 121, 122, 123, 126, 131, 132, 137, 138, 141 ],
             "03": [ 29, 115, 121, 122, 123, 126, 127, 128, 131, 132, 133, 136, 137, 138, 141, 171 ]
