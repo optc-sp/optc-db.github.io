@@ -979,7 +979,7 @@ window.details = {
         captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     263: {
-        special: "Amplifica el efecto de los orbes x1.5 durante dos turnos",
+        special: "Amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Shave",
         captain: "Multiplica el ATK de los personajes Fighter x2"
@@ -1203,72 +1203,72 @@ window.details = {
         sailor: "Reduce su propia Parálisis en 2 turnos"
     },
     317: {
-        special: "Randomly changes all orbs into either [DEX] or [STR] orbs, deals random DEX damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [DEX] o [STR], hace una cantidad aleatoria de daño DEX a todos los enemigos",
         specialName: "Beautiful Secretary's Job",
         specialNotes: "#{random : 1 : 15,000}",
-        captain: "Recovers 500 HP at end of turn, reduces damage received by 10%"
+        captain: "Regenera 500 HP al final de cada turno, reduce el daño recibido en un 10%"
     },
     318: {
-        special: "Randomly changes all orbs into either [DEX] or [STR] orbs, deals random DEX damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [DEX] o [STR], hace una cantidad aleatoria de daño DEX a todos los enemigos",
         specialName: "Beautiful Secretary's Job",
         specialNotes: "#{random : 1 : 15,000}",
-        captain: "Recovers 1,000 HP at end of turn, reduces damage received by 15%"
+        captain: "Regenera 1000 HP al final de cada turno, reduce el daño recibido en un 15%"
     },
     319: {
-        special: "Locks all orbs for 1 turn",
+        special: "Bloquea todos los orbes por 1 turno",
         specialName: "Hook, Line, and Sinker",
-        captain: "Boosts ATK of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     320: {
-        special: "Locks all orbs for 1 turn",
+        special: "Bloquea todos los orbes por 1 turno",
         specialName: "Hook, Line, and Sinker",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     321: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Taciturn Combo",
-        captain: "Boosts ATK of QCK type characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     322: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Taciturn Combo",
-        captain: "Boosts ATK of QCK type characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     323: {
-        special: "Amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Mountain Wind",
-        captain: "Boosts HP and RCV of QCK characters by 1.5x"
+        captain: "Multiplica el HP y el RCV de los personajes QCK x1.5"
     },
     324: {
-        special: "Amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Mountain Wind",
-        captain: "Boosts HP and RCV of QCK characters by 1.5x"
+        captain: "Multiplica el HP y el RCV de los personajes QCK x1.5"
     },
     325: {
-        special: "Changes [TND] orbs into [RCV] orbs, changes [RCV] orbs into [QCK] orbs",
+        special: "Cambia los orbes [TND] en orbes [RCV], cambia los orbes [RCV] en orbes [QCK]",
         specialName: "Red-Hot Shipwright Soul"
     },
     326: {
-        special: "Empties all slots, deals 25x character's ATK in STR damage to one enemy",
+        special: "Vacía todas las ranuras, hace 25x ATK en daño STR a un enemigo",
         specialName: "Munch-Munch Tongue Cannon",
-        captain: "Recovers 10x character's RCV in HP at the end of each turn"
+        captain: "Regenera 10x RCV en HP al final de cada turno"
     },
     327: {
-        special: "Empties all slots, deals 25x character's ATK in STR damage to one enemy",
+        special: "Vacía todas las ranuras, hace 25x ATK en daño STR a un enemigo",
         specialName: "Munch-Munch Tongue Cannon",
-        captain: "Recovers 10x character's RCV in HP at the end of each turn"
+        captain: "Regenera 10x RCV en HP al final de cada turno"
     },
     328: {
-        special: "Deals 20x character's ATK in QCK damage to all enemies",
+        special: "Hace 20x ATK en daño QCK a todos los enemigos",
         specialName: "Fiddle Banff",
-        captain: "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el RCV de todos los personajes x5 si el HP está por debajo de 30% al inicio del turno"
     },
     329: {
-        special: "Deals 20x character's ATK in QCK damage to all enemies",
+        special: "Hace 20x ATK en daño QCK a todos los enemigos",
         specialName: "Fiddle Banff",
-        captain: "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el RCV de todos los personajes x5 si el HP está por debajo de 30% al inicio del turno"
     },
     332: {
         special: "Changes [STR] orbs into [RCV] orbs, changes [RCV] orbs into [DEX] orbs",
