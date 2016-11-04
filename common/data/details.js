@@ -1466,109 +1466,109 @@ window.details = {
         captain: "Multiplica el ATK y el RCV de los personajes STR x1.5"
     },
     381: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     382: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 20% durante 1 turno",
         specialName: "Shield Crusher"
     },
     383: {
-        special: "Strongly poisons one enemy",
-        specialNotes: "Strong poison deals 5x character's ATK in fixed damage at the end of each turn",
+        special: "Envenena gravemente a un enemigo",
+        specialNotes: "El veneno grave hace 5x ATK en daño fijo al final de cada turno",
         specialName: "Poison Needle",
-        captain: "Reduces damage received by 10%, boosts ATK of INT characters by 2x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de los personajes INT x2"
     },
     384: {
-        special: "Strongly poisons one enemy",
-        specialNotes: "Strong poison deals 5x character's ATK in fixed damage at the end of each turn",
+        special: "Envenena gravemente a un enemigo",
+        specialNotes: "El veneno grave hace 5x ATK en daño fijo al final de cada turno",
         specialName: "Poison Needle",
-        captain: "Reduces damage received by 20%, boosts ATK of INT characters by 2x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de los personajes INT x2"
     },
     385: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Fighter characters by 1.25x for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, multiplica el ATK de los personajes Fighter x1.25 durante 1 turno",
         specialName: "Zombie Marionette Operation",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     386: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Fighter characters by 1.25x for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, multiplica el ATK de los personajes Fighter x1.25 durante 1 turno",
         specialName: "Zombie Marionette Operation",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     387: {
-        special: "Randomly changes all orbs into either [PSY] or [INT] orbs, deals random PSY damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [PSY] o [INT], hace daño PSY aleatorio a todos los enemigos",
         specialName: "Square Plate Sword",
         specialNotes: "#{random : 1 : 10,000}",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     388: {
-        special: "Randomly changes all orbs into either [PSY] or [INT] orbs, deals random PSY damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [PSY] o [INT], hace daño PSY aleatorio a todos los enemigos",
         specialName: "Square Plate Sword",
         specialNotes: "#{random : 1 : 10,000}",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     389: {
-        special: "Changes own orb into [QCK] and every other orb into either [RCV], [STR], [DEX] or [QCK] orbs",
+        special: "Cambia su propio orbe a [QCK] y el resto a [RCV], [STR], [DEX] or [QCK]",
         specialName: "Hell Wink",
-        captain: "Boosts ATK by 2.25x following a chain of DEX > INT > QCK attacks no lower than Good"
+        captain: "Multiplica el ATK x2.25 siguiendo una cadena de ataques DEX > INT > QCK sin ser ninguno por debajo de Good"
     },
     390: {
-        special: "Changes own orb into [QCK] and every other orb into either [RCV], [STR], [DEX] or [QCK] orbs",
+        special: "Cambia su propio orbe a [QCK] y el resto a [RCV], [STR], [DEX] or [QCK]",
         specialName: "Hell Wink",
-        captain: "Boosts ATK by 2.75x following a chain of DEX > INT > QCK attacks no lower than Good"
+        captain: "Multiplica el ATK x2.75 siguiendo una cadena de ataques DEX > INT > QCK sin ser ninguno por debajo de Good"
     },
     391: {
-        special: "Reduces damage received by 90% for 1 turn, reduces the defense of all enemies by 80% for 1 turn, poisons enemies for 1,000 damage for a single turn",
+        special: "Reduce el daño recibido en un 90% durante 1 turno, reduce la defensa de todos los enemigos en un 80% durante 1 turno, envenena a los enemigos haciéndolos 1000 de daño durante 1 turno",
         specialName: "Negative Hollow",
-        specialNotes: "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        specialNotes: "El veneno hace 1000 de daño fijo e ignora la armadura del enemigo al final del turno",
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     392: {
-        special: "Reduces damage received by 90% for 1 turn, reduces the defense of all enemies by 80% for 1 turn, poisons enemies for 1,000 damage for a single turn",
+        special: "Reduce el daño recibido en un 90% durante 1 turno, reduce la defensa de todos los enemigos en un 80% durante 1 turno, envenena a los enemigos haciéndolos 1000 de daño durante 1 turno",
         specialName: "Negative Hollow",
-        specialNotes: "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-        captain: "Boosts RCV of DEX characters by 2x"
+        specialNotes: "El veneno hace 1000 de daño fijo e ignora la armadura del enemigo al final del turno",
+        captain: "Multiplica el RCV de los personajes DEX x2"
     },
     393: {
-        special: "Deals 35x character's ATK in STR damage to one enemy",
+        special: "Hace 35x ATK en daño STR a un enemigo",
         specialName: "Kumacy Knuckle"
     },
     394: {
-        special: "Deals 500 fixed damage to all enemies",
+        special: "Hace 500 en daño fijo a todos los enemigos",
         specialName: "The Tempest Called Love",
         specialNotes: "#{fixed}"
     },
     395: {
-        special: "Empties adjacent slots, amplifies the effect of orbs by 1.25x for 1 turn",
+        special: "Vacía los orbes adyacentes, amplifica el efecto de los orbes x1.25 durante 1 turno",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Mole Banana",
-        captain: "Boosts ATK and RCV of QCK characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x1.2"
     },
     396: {
-        special: "Empties adjacent slots, amplifies the effect of orbs by 1.25x for 1 turn",
+        special: "Vacía los orbes adyacentes, amplifica el efecto de los orbes x1.25 durante 1 turno",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Mole Banana",
-        captain: "Boosts ATK and RCV of QCK characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x1.2"
     },
     397: {
-        special: "Fills [EMPTY] orbs with [STR] orbs with a 50% probability, deals 15x character's ATK in damage to all enemies",
+        special: "Llena los orbes [EMPTY] con orbes [STR] con un 50% de probabilidad, hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Four Hundred Base Hits",
-        captain: "Boosts ATK by 3x after scoring 5 Perfects in a row"
+        captain: "Multiplica el ATK x3 después de acertar 3 Perfect seguidos"
     },
     398: {
-        special: "Fills [EMPTY] orbs with [STR] orbs with a 50% probability, deals 15x character's ATK in damage to all enemies",
+        special: "Llena los orbes [EMPTY] con orbes [STR] con un 50% de probabilidad, hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Four Hundred Base Hits",
-        captain: "Boosts ATK by 4x after scoring 5 Perfects in a row"
+        captain: "Multiplica el ATK x4 después de acertar 3 Perfect seguidos"
     },
     399: {
-        special: "Boosts ATK of DEX characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes DEX x1.5 durante 1 turno",
         specialName: "Spike-U-Puncture",
-        captain: "Boosts HP of Striker characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Striker x1.5"
     },
     400: {
-        special: "Boosts ATK of DEX characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes DEX x1.5 durante 1 turno",
         specialName: "Spike-U-Puncture",
-        captain: "Boosts HP of Striker characters by 2x"
+        captain: "Multiplica el HP de los personajes Striker x2"
     },
     401: {
         special: "Reduces damage received by 50% for 1 turn, boosts ATK of Slasher characters by 1.25x for 1 turn",
