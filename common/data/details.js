@@ -785,153 +785,153 @@ window.details = {
         captain: "Multiplica el ATK de los personajes INT x2.5"
     },
     222: {
-        special: "Boosts ATK of PSY characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes PSY x1.5 durante 1 turno",
         specialName: "Usopp Hammer",
-        captain: "Boosts ATK of PSY characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes PSY x1.2"
     },
     223: {
-        special: "Boosts ATK of PSY characters by 2x for 1 turn",
+        special: "Multiplica el ATK de los personajes PSY x2 durante 1 turno",
         specialName: "Impact",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     224: {
-        special: "Deals 15x character's ATK in QCK damage to one enemy",
+        special: "Hace 15x ATK en daño QCK a un enemigo",
         specialName: "Mutton Shot",
-        captain: "Boosts ATK by 2x after scoring 2 Perfects in a row"
+        captain: "Multiplica el ATK x2 después de acertar 2 Perfect seguidos"
     },
     225: {
-        special: "Deals 20x character's ATK in QCK damage to one enemy",
+        special: "Hace 20x ATK en daño QCK a un enemigo",
         specialName: "Veau Shot",
-        captain: "Boosts ATK by 2.5x after scoring 2 Perfects in a row"
+        captain: "Multiplica el ATK x2.5 después de acertar 2 Perfect seguidos"
     },
     226: {
-        special: "Cuts the current HP of each enemy by 30%",
+        special: "Corta un 30% del HP actual del enemigo",
         specialName: "Black Blade Ship Cutter",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica el ATK de los personajes Slasher x2"
     },
     227: {
-        special: "Cuts the current HP of each enemy by 30%",
+        special: "Corta un 30% del HP actual del enemigo",
         specialName: "Black Blade Ship Cutter",
-        captain: "Boosts ATK of Slasher characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Slasher x2.5"
     },
     228: {
-        special: "Reduces Bind duration by 2 turns",
+        special: "Reduce la duración de las cadenas en dos turnos",
         specialName: "Escapee Axe-Hand",
-        captain: "Boosts HP of Slasher characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Slasher x1.5"
     },
     229: {
-        special: "Changes [INT] orbs into [PSY] orbs",
+        special: "Cambia los orbes [INT] en orbes [PSY]",
         specialName: "Double Cross Dance",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     230: {
-        special: "Deals 200 fixed damage to one enemy",
+        special: "Hace 200 en daño fijo a un enemigo",
         specialName: "Double Hyper Straight",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     231: {
-        special: "Locks all orbs for 1 turn",
+        special: "Bloquea todos los orbes durante 1 turno",
         specialName: "Kimono Sleeve Cage",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     232: {
-        special: "Locks all orbs for 1 turn",
+        special: "Bloquea todos los orbes durante 1 turno",
         specialName: "Kimono Sleeve Cage",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     233: {
-        captain: "Boosts HP of PSY characters by 1.5x"
+        captain: "Multiplica el HP de los personajes PSY x1.5"
     },
     234: {
-        special: "Deals 5x character's ATK in PSY damage to all enemies",
+        special: "Hace 5x ATK en daño PSY a todos los enemigos",
         specialName: "Igarappapa",
-        captain: "Boosts HP of PSY characters by 2x"
+        captain: "Multiplica el HP de los personajes PSY x2"
     },
     235: {
-        captain: "Boosts ATK of Fighter characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.2"
     },
     236: {
-        special: "Deals 20x character's ATK in STR damage to one enemy",
+        special: "Hace 20x ATK en daño STR a un enemigo",
         specialName: "Superhuman Brass Knuckles",
-        captain: "Boosts ATK of Fighter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.5"
     },
     237: {
-        special: "Changes [DEX] orbs into [STR] orbs",
+        special: "Cambia los orbes [DEX] en orbes [STR]",
         specialName: "[DEX] Slot Change [STR]"
     },
     238: {
-        special: "Changes [TND] orbs into [DEX] orbs",
+        special: "Cambia los orbes [TND] en orbes [DEX] orbs",
         specialName: "[TND] Slot Change [DEX]"
     },
     239: {
-        special: "Changes [TND] orbs into [QCK] orbs",
+        special: "Cambia los orbes [TND] en orbes [QCK]",
         specialName: "[TND] Slot Change [QCK]"
     },
     240: {
-        special: "Changes [STR] orbs into [PSY] orbs",
+        special: "Cambia los orbes [STR] en orbes [PSY]",
         specialName: "[STR] Slot Change [PSY]"
     },
     241: {
-        special: "Changes [QCK] orbs into [INT] orbs",
+        special: "Cambia los orbes [QCK] en orbes [INT]",
         specialName: "[QCK] Slot Change [INT]"
     },
     242: {
-        special: "Changes [DEX] orbs into [STR] orbs",
+        special: "Cambia los orbes [DEX] en orbes [STR]",
         specialName: "[DEX] Slot Change [STR]"
     },
     243: {
-        special: "Changes [TND] orbs into [DEX] orbs",
+        special: "Cambia los orbes [TND] en orbes [DEX]",
         specialName: "[TND] Slot Change [DEX]"
     },
     244: {
-        special: "Changes [TND] orbs into [QCK] orbs",
+        special: "Cambia los orbes [TND] en orbes [QCK]",
         specialName: "[TND] Slot Change [QCK]"
     },
     245: {
-        special: "Changes [STR] orbs into [PSY] orbs",
+        special: "Cambia los orbes [STR] en orbes [PSY]",
         specialName: "[STR] Slot Change [PSY]"
     },
     246: {
-        special: "Changes [QCK] orbs into [INT] orbs",
+        special: "Cambia los orbes [QCK] en orbes [INT]",
         specialName: "[QCK] Slot Change [INT]"
     },
     247: {
-        special: "Recovers 1,224 HP",
+        special: "Regenera 1224 HP",
         specialName: "Kyuun Spark",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     248: {
-        special: "Deals random STR damage to one enemy",
+        special: "Hace una cantidad aleatoria de ATK en daño STR a un enemigo",
         specialName: "Rampage",
         specialNotes: "#{random : 2,000 : 200,000}",
-        captain: "Boosts ATK of STR characters by 2.5x and reduces their HP by 60%"
+        captain: "Multiplica el ATK de los personajes STR x2.5 y reduce su vida en un 60%"
     },
     249: {
-        special: "Deals random STR damage to one enemy",
+        special: "Hace una cantidad aleatoria de ATK en daño STR a un enemigo",
         specialName: "Rampage",
         specialNotes: "#{random : 2,000 : 200,000}",
-        captain: "Boosts ATK of STR characters by 3x and reduces their HP by 60%"
+        captain: "Multiplica el ATK de los personajes STR x3 y reduce su vida en un 60%"
     },
     250: {
-        special: "Recovers all HP",
+        special: "Regenera todo el HP",
         specialName: "Blue Flame Rebirth",
-        captain: "Boosts ATK of PSY characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes PSY x3 si el HP es superior a 99% al principio del turno"
     },
     251: {
-        special: "Recovers all HP",
+        special: "Regenera todo el HP",
         specialName: "Blue Flame Rebirth",
-        captain: "Boosts ATK of PSY characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes PSY x3 si el HP es superior a 99% al principio del turno"
     },
     252: {
-        special: "Reduces damage received from DEX enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos DEX en un 100%",
         specialName: "Brilliant Punk",
-        captain: "Boosts ATK and HP of QCK characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes QCK x2"
     },
     253: {
-        special: "Reduces damage received from DEX enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos DEX en un 100%",
         specialName: "Brilliant Punk",
-        captain: "Boosts ATK and HP of QCK characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes QCK x2"
     },
     254: {
         special: "Deals 5,000 fixed damage to all enemies",
