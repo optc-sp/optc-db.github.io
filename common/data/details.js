@@ -1278,7 +1278,7 @@ window.details = {
     333: {
         special: "Regenera una cantidad aleatoria de HP",
         specialName: "Doctor Stop",
-        captain: "Multiplica el ATK y el RCV de los personajes PSY y INT x1.5
+        captain: "Multiplica el ATK y el RCV de los personajes PSY y INT x1.5"
     },
     334: {
         special: "Regenera 5x RCV en HP",
