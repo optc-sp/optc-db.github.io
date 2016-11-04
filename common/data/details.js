@@ -1137,70 +1137,70 @@ window.details = {
         captain: "Multiplica el ATK de los personajes DEX x2"
     },
     305: {
-        special: "Randomly changes all orbs into either [PSY] or [RCV] orbs",
+        special: "Cambia aleatoriamente todos los orbes en [PSY] o [RCV]",
         specialName: "Meteor Fist Shower",
-        captain: "Boosts ATK and HP of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes PSY x1.5"
     },
     306: {
-        special: "Randomly changes all orbs into either [PSY] or [RCV] orbs",
+        special: "Cambia aleatoriamente todos los orbes en [PSY] o [RCV]",
         specialName: "Meteor Fist Shower",
-        captain: "Boosts ATK and HP of PSY characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes PSY x2"
     },
     307: {
-        special: "Randomly changes all orbs other than [DEX] into either [DEX], [RCV] or [TND] orbs",
+        special: "Cambia aleatoriamente todos los orbes distintos de [DEX] en [DEX], [RCV] o [TND]",
         specialName: "ROOM – Chambres",
-        captain: "Boosts ATK of DEX characters by 2.5x"
+        captain: "Multiplica el ataque de los personajes DEX x2.5"
     },
     308: {
-        special: "Randomly changes all orbs other than [DEX] into either [DEX], [RCV] or [TND] orbs",
+        special: "Cambia aleatoriamente todos los orbes distintos de [DEX] en [DEX], [RCV] o [TND]",
         specialName: "ROOM – Chambres",
-        captain: "Boosts ATK of DEX characters by 2.5x"
+        captain: "Multiplica el ataque de los personajes DEX x2.5"
     },
     309: {
-        special: "Cuts the current HP of each enemy by 10%, reduces the defense of all enemies by 50% for 3 turns",
+        special: "Corta un 10% del HP actual de cada enemigo, reduce la defensa de todos los enemigos en un 50% durante tres turnos",
         specialName: "Demon Face",
-        captain: "Reduces RCV of all characters by 90%, reduces damage received by 40%"
+        captain: "Reduce el RCV de todos los personajes en un 90%, reduce el daño recibido en un 40%"
     },
     310: {
-        special: "Cuts the current HP of each enemy by 10%, reduces the defense of all enemies by 50% for 3 turns",
+        special: "Corta un 10% del HP actual de cada enemigo, reduce la defensa de todos los enemigos en un 50% durante tres turnos",
         specialName: "Demon Face",
-        captain: "Reduces RCV of all characters by 90%, reduces damage received by 40%"
+        captain: "Reduce el RCV de todos los personajes en un 90%, reduce el daño recibido en un 40%"
     },
     311: {
-        special: "Deals 100x character's ATK in fixed damage to one enemy, reduces crew's HP to 1",
+        special: "Hace 100x ATK en daño fijo a un enemigo, reduce la vida de la tripulación a 1",
         specialName: "Massacre Soldier",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK by 3.5x after scoring 3 hits below Good in a row",
-        sailor: "When HP is below x%, boosts ATK of Cerebral Characters by 50"
+        captain: "Multiplica el ATK x3.5 después de acertar 3 golpes por debajo de Good seguidos",
+        sailor: "Cuando el HP está por debajo de x%, aumenta el ataque de los personajes Cerebral en 50 unidades"
     },
     312: {
-        special: "Deals 100x character's ATK in fixed damage to one enemy, reduces crew's HP to 1",
+        special: "Hace 100x ATK en daño fijo a un enemigo, reduce la vida de la tripulación a 1",
         specialName: "Massacre Soldier",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK by 3.5x after scoring 3 hits below Good in a row",
-        sailor: "When HP is below x%, boosts ATK of Cerebral Characters by 50"
+        captain: "Multiplica el ATK x3.5 después de acertar 3 golpes por debajo de Good seguidos",
+        sailor: "Cuando el HP está por debajo de x%, aumenta el ataque de los personajes Cerebral en 50 unidades"
     },
     313: {
-        special: "Boosts ATK of Striker characters by 1.5x for 1 turn, deals 25x character's ATK in PSY damage to one enemy",
+        special: "Multiplica el ATK de los personajes Striker x1.5 durante 1 turno, hace 25x ATK en daño PSY a un enemigo",
         specialName: "Karmic Punishment",
-        captain: "Boosts ATK of Striker characters by 2x and their HP by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x2 y su HP x1.5"
     },
     314: {
-        special: "Boosts ATK of Striker characters by 1.5x for 1 turn, deals 25x character's ATK in PSY damage to one enemy",
+        special: "Multiplica el ATK de los personajes Striker x1.5 durante 1 turno, hace 25x ATK en daño PSY a un enemigo",
         specialName: "Karmic Punishment",
-        captain: "Boosts ATK of Striker characters by 2x and their HP by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x2 y su HP x1.5"
     },
     315: {
-        special: "Changes [PSY] and [INT] orbs into [STR] orbs, empties slots with [DEX] and [QCK] orbs",
+        special: "Cambia los orbes [PSY] y [INT] en orbes [STR], vacía las ranuras con orbes [DEX] y [QCK]",
         specialName: "Aye Aye, Captain!",
-        captain: "Boosts ATK, HP and RCV of Fighter characters by 1.5x",
-        sailor: "Reduces Paralysis for 2 turns for himself"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes Fighter x1.5",
+        sailor: "Reduce su propia Parálisis en 2 turnos"
     },
     316: {
-        special: "Changes [PSY] and [INT] orbs into [STR] orbs, empties slots with [DEX] and [QCK] orbs",
+        special: "Cambia los orbes [PSY] y [INT] en orbes [STR], vacía las ranuras con orbes [DEX] y [QCK]",
         specialName: "Aye Aye, Captain!",
-        captain: "Boosts ATK, HP and RCV of Fighter characters by 1.5x",
-        sailor: "Reduces Paralysis for 2 turns for himself"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes Fighter x1.5",
+        sailor: "Reduce su propia Parálisis en 2 turnos"
     },
     317: {
         special: "Randomly changes all orbs into either [DEX] or [STR] orbs, deals random DEX damage to all enemies",
