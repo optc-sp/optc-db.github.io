@@ -1,788 +1,788 @@
 window.details = {
     1: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "Spinning Gum Punch"
     },
     2: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Pistol",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica  el ATK de los personajes STR x1.5"
     },
     3: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Bazooka",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     4: {
-        captain: "Boosts ATK of STR characters by 2x, and ATK of all others by 1.5x",
-        special: "Deals 25x character's ATK in STR damage to one enemy",
+        captain: "Multiplica el ATK de los personajes STR por 2, y el del resto de personajes x1.5",
+        special: "Hace 25x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Twin Jet Pistol"
     },
     5: {
-        special: "Deals 7x character's ATK in DEX damage to one enemy",
+        special: "Hace 7x ATK en daño DEX a un enemigo",
         specialName: "Oni Giri",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     6: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "Three Thousand Worlds",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     7: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "108 Pound Phoenix",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     8: {
-        special: "Deals 15x character's ATK in DEX damage to all enemies",
+        special: "Hace 15x ATK en daño DEX a todos los enemigos",
         specialName: "Ashura Ichibugin",
-        captain: "Boosts ATK and HP of DEX characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes DEX x2 "
     },
     9: {
-        special: "Recovers 1,000 HP",
+        special: "Recupera 1.000 HP",
         specialName: "Cat Burglar",
-        captain: "Reduces damage received from INT enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos INT en un 20%"
     },
     10: {
-        special: "Deals 15x character's ATK in INT damage to one enemy",
+        special: "Hace 15x ATK en daño INT a un enemigo",
         specialName: "Tornado Tempo",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ataque de los personajes INT x1.5"
     },
     11: {
-        special: "Reduces damage received from INT enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos INT en un 100% por 1 turno",
         specialName: "Mirage Tempo",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes INT X1.5"
     },
     12: {
-        special: "Deals 15x character's ATK in INT damage to all enemies",
+        special: "Hace 15x ATK en daño INT a todos los enemigos",
         specialName: "Thunderbolt Tempo",
-        captain: "Boosts ATK and HP of INT characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes INT x1.5"
     },
     13: {
-        special: "Delays all enemies for 1 turn",
+        special: "Retarda a todos los enemigos un turno",
         specialName: "Liar",
-        captain: "Boosts ATK of Shooter characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.2"
     },
     14: {
-        special: "Delays all enemies for 2 turns",
+        special: "Retarda a todos los enemigos 2 turnos",
         specialName: "Tabasco Star",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY X1.5"
     },
     15: {
-        special: "Delays all enemies for 3 turns",
+        special: "Retarda a todos los enemigos 3 turnos",
         specialName: "Usopp Golden Pound",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     16: {
-        special: "Delays all enemies for 3 turns, deals 15x character's ATK in PSY damage to all enemies",
+        special: "Retrasa a todos los enemigos 3 turnos y hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Fire Bird Star",
-        captain: "Boosts ATK and HP of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes PSY X1.5"
     },
     17: {
-        special: "Recovers 10x character's RCV in HP",
+        special: "Regenera 10x RCV en HP",
         specialName: "Special Fried Rice",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     18: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Plastic Surgery Shot",
-        captain: "Boosts HP of QCK characters by 1.5x"
+        captain: "Multiplica el HP de los personajes QCK x1.5"
     },
     19: {
-        special: "Recovers 10x character's RCV in HP",
+        special: "Regenera 10x RCV en HP",
         specialName: "Hot Rock Stew",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     20: {
-        special: "Deals 5,000 fixed damage to all enemies",
+        special: "Hace 5.000 en daño fijo a todos los enemigos",
         specialName: "Diable Jambe",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK and HP of QCK characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes QCK x1.5"
     },
     21: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en RCV",
         specialName: "Hearty Yell",
-        captain: "Boosts RCV of PSY characters by 1.2x"
+        captain: "Multiplica el RCV de los personajes PSY X1.2"
     },
     22: {
-        special: "Deals 15x character's ATK in PSY damage to one enemy",
+        special: "Hace 15x ATK en daño PSY a un enemigo",
         specialName: "Heavy Gong",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     23: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en RCV",
         specialName: "Scope",
-        captain: "Boosts RCV of INT characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes INT x1.5"
     },
     24: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante dos turnos",
         specialName: "Hoofprint Roseo",
-        captain: "Boosts RCV of STR characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes STR x1.5"
     },
     25: {
-        special: "Deals 7x character's ATK in QCK damage to all enemies",
+        special: "Hace 7x ATK en daño QCK a todos los enemigos",
         specialName: "Horn Point Roseo Colonnade",
-        captain: "Boosts RCV of QCK characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes QCK x1.5"
     },
     26: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante tres turnos",
         specialName: "Guard Point",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     27: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash",
-        captain: "Boosts HP of QCK characters by 1.2x"
+        captain: "Multiplica el HP de los personajes QCK x1.2"
     },
     28: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight",
-        captain: "Boosts ATK of Fighter characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.2"
     },
     29: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Iron Mace Beauty",
-        captain: "Reduces damage received from STR enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 30%"
     },
     30: {
-        special: "Reduces damage received by 80% for 1 turn",
+        special: "Reduce el daño recibido en un 80% durante un turno",
         specialName: "Slip-Slip Tracks",
-        captain: "Reduces damage received from STR enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 50%"
     },
     31: {
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP"
     },
     32: {
-        special: "Changes [RCV] orbs into [TND] orbs",
+        special: "Cambia los orbes RCV en orbes TND",
         specialName: "Shooting Spree",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     33: {
-        captain: "Reduces damage received from INT enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos INT en un 30%"
     },
     34: {
-        special: "Reduces the defense of all enemies by 100% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 100% durante 1 turno",
         specialName: "Straw Doll Of Resentment",
-        captain: "Reduces damage received from INT enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos INT en un 30%"
     },
     35: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "Execution Axe-Hand",
-        captain: "Boosts HP of Slasher characters by 1.2x"
+        captain: "Multiplica el HP de los personajes Slasher x1.2"
     },
     36: {
-        special: "Deals 5x character's ATK in PSY damage to one enemy",
+        special: "Hace 5x ATK en daño PSY a un enemigo",
         specialName: "Fierce Bite",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     37: {
-        special: "Deals 5x character's ATK in DEX damage to one enemy",
+        special: "Hace 5x ATK en daño DEX a un enemigo",
         specialName: "The Dance Of A Hundred Kamikaze Tops",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     38: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV en orbes INT",
         specialName: "Chop-Chop Festival",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ataque de los personajes INT x1.5"
     },
     39: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV a orbes INT",
         specialName: "Chop-Chop Festival",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     40: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en orbes RCV",
         specialName: "[RCV] Slot Storm",
-        captain: "Reduces damage received from Shooter enemies by 30%"
+        captain: "Reduce el daño recibido de los personajes Shooter un 30%"
     },
     41: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV en orbes INT",
         specialName: "Cat Snatch",
-        captain: "Boosts RCV of INT characters by 1.2x"
+        captain: "Multiplica el RCV de los personajes INT x1.2"
     },
     42: {
-        special: "Deals 3x character's ATK in STR damage to all enemies",
+        special: "Hace 3x ATK en daño STR a todos los enemigos",
         specialName: "Cat-A-Pult Cat-Astrophe",
-        captain: "Boosts ATK of STR characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes STR x1.2"
     },
     43: {
-        special: "Changes [RCV] orbs into [DEX] orbs",
+        special: "Cambia los orbes RCV en orbes DEX",
         specialName: "One, Two, Django",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     44: {
-        special: "Changes [RCV] orbs into [DEX] orbs",
+        special: "Cambia los orbes RCV en orbes DEX",
         specialName: "Dance Heaven",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     45: {
-        special: "Deals 5x character's ATK in QCK damage to all enemies",
+        special: "Hace 5x ATK en daño QCK a todos los enemigos",
         specialName: "Death Scoop",
-        captain: "Boosts ATK of QCK characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes QCK x1.2"
     },
     46: {
-        special: "Deals 5x character's ATK in QCK damage to all enemies",
+        special: "Hace 5x ATK en daño QCK a todos los enemigos",
         specialName: "Death Scoop",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     47: {
-        special: "Changes [TND] orbs into [RCV] orbs",
+        special: "Cambia los orbes TND en orbes RCV",
         specialName: "[TND] Slot Change [RCV]"
     },
     48: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en orbes RCV",
         specialName: "[RCV] Slot Storm"
     },
     49: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     50: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "The Meatball Of Doom",
-        captain: "Recovers 4x character's RCV in HP at the end of each turn"
+        captain: "Regenera 4x RCV en HP al final de cada turno"
     },
     51: {
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     52: {
-        special: "Changes [STR] orbs into [DEX] orbs",
+        special: "Cambia los orbes STR en orbes DEX",
         specialName: "Chef Drop",
-        captain: "Boosts ATK of Fighter characters by 2.5x"
+        captain: "Multiplica el ataque de los personajes Fighter x2.5"
     },
     53: {
-        captain: "Reduces damage received from QCK enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos QCK en un 30%"
     },
     54: {
-        special: "Deals 7x character's ATK in QCK damage to one enemy",
+        special: "Hace 7x ATK en daño QCK a un enemigo",
         specialName: "Demonic Dance",
-        captain: "Reduces damage received from QCK enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos QCK en un 50%"
     },
     55: {
-        captain: "Reduces damage received from STR enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 30%"
     },
     56: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes RCV en orbes STR",
         specialName: "Fire Pearl Privilege",
-        captain: "Reduces damage received from STR enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 50%"
     },
     57: {
-        special: "Deals 7x character's ATK in INT damage to one enemy",
+        special: "Hace 7x ATK en daño INT a un enemigo",
         specialName: "Chain Hammer",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     58: {
-        special: "Poisons all enemies",
+        special: "Envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "MH5",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     59: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes PSY en orbes INT",
         specialName: "[PSY] Slot Change [INT]",
-        captain: "Boosts ATK of INT characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes INT x1.2"
     },
     60: {
-        special: "Changes [TND] orbs into [STR] orbs",
+        special: "Cambia los orbes TND en orbes STR",
         specialName: "[TND] Slot Change [STR]",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     61: {
-        special: "Deals 5x character's ATK in INT damage to all enemies",
+        special: "Hace 5x ATK en daño INT a todos los enemigos",
         specialName: "Lip-O-Cannon",
-        captain: "Boosts HP of Shooter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Shooter x1.5"
     },
     62: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a todos los enemigos",
         specialName: "Guffaw Palm Bomb",
-        captain: "Boosts HP of Fighter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Fighter x1.5"
     },
     63: {
-        captain: "Reduces damage received from DEX enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos DEX en un 30%"
     },
     64: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "New Year's Open Body Slam",
-        captain: "Reduces damage received from DEX enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos DEX en un 30%"
     },
     65: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Shark On Darts",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica la vida de los personajes Slasher x1.5"
     },
     66: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Shark On Tooth",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica la vida de los personajes Slasher x2"
     },
     67: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 7x ATK en daño QCK a un enemigo",
         specialName: "Quick Draw",
-        captain: "Boosts RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes Slasher x1.5"
     },
     68: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Quick Draw",
-        captain: "Boosts RCV of Slasher characters by 2x"
+        captain: "Multiplica el RCV de los personajes Slasher x2"
     },
     69: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "White Out",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     70: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "White Out",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     71: {
-        special: "Reduces damage received by 50% for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Enchanting Vertigo Dance",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     72: {
-        special: "Randomizes all orbs",
+        special: "Cambia todos los orbes aleatoriamente",
         specialName: "Charge! Supersonic Duck Squadron!",
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     73: {
-        special: "Randomizes all orbs",
+        special: "Cambia todos los orbes aleatoriamente",
         specialName: "Charge! Supersonic Duck Squadron!",
-        captain: "Recovers 5x character's RCV in HP at the end of each turn"
+        captain: "Regenera 5x RCV en HP al final de cada turno"
     },
     74: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Flame Fist",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     75: {
-        special: "Deals 15x character's ATK in QCK to all enemies",
+        special: "Hace 15x ATK en daño QCK a todos los enemigos",
         specialName: "Flame Mirror",
-        captain: "Boosts ATK of QCK characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes QCK x2.5"
     },
     76: {
-        special: "Deals 15x character's ATK in PSY damage to all enemies",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Conqueror's Haki",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     77: {
-        special: "Deals 15x character's ATK in PSY damage to all enemies",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Conqueror's Haki",
-        captain: "Boosts ATK of PSY characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes PSY x2.5"
     },
     119: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     120: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     121: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     122: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     123: {
-        special: "Changes [STR] orbs into [DEX] orbs",
+        special: "Cambia los orbes [STR] en orbes [DEX]",
         specialName: "[STR] Slot Change [DEX]"
     },
     124: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     125: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     126: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     127: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     128: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     129: {
-        special: "Changes [INT] orbs into [PSY] orbs",
+        special: "Cambia los orbes [INT] en orbes [PSY]",
         specialName: "[INT] Slot Change [PSY]"
     },
     130: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     131: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes [RCV] en orbes [STR]",
         specialName: "[RCV] Slot Change [STR]"
     },
     132: {
-        special: "Changes [DEX] orbs into [QCK] orbs",
+        special: "Cambia los orbes [DEX] en orbes [QCK]",
         specialName: "[DEX] Slot Change [QCK]"
     },
     133: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     134: {
-        special: "Changes [QCK] orbs into [RCV] orbs",
+        special: "Cambia los orbes [QCK] en orbes [RCV]",
         specialName: "[QCK] Slot Change [RCV]"
     },
     135: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Spiral"
     },
     136: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     137: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     138: {
-        special: "Changes [DEX] orbs into [RCV] orbs",
+        special: "Cambia los orbes [DEX] en orbes [RCV]",
         specialName: "[DEX] Slot Change [RCV]"
     },
     139: {
-        special: "Changes [PSY] orbs into [RCV] orbs",
+        special: "Cambia los orbes [PSY] en orbes [RCV]",
         specialName: "[PSY] Slot Change [RCV]"
     },
     140: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     141: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     142: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     143: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     144: {
-        special: "Changes [STR] orbs into [DEX] orbs",
+        special: "Cambia los orbes [STR] en orbes [DEX]",
         specialName: "[STR] Slot Change [DEX]"
     },
     145: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     146: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     147: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     148: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     149: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     150: {
-        special: "Changes [INT] orbs into [PSY] orbs",
+        special: "Cambia los orbes [INT] en orbes [PSY]",
         specialName: "[INT] Slot Change [PSY]"
     },
     151: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     152: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes [RCV] en orbes [STR]",
         specialName: "[RCV] Slot Change [STR]"
     },
     153: {
-        special: "Changes [DEX] orbs into [QCK] orbs",
+        special: "Cambia los orbes [DEX] en orbes [QCK]",
         specialName: "[DEX] Slot Change [QCK]"
     },
     154: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     155: {
-        special: "Changes [QCK] orbs into [RCV] orbs",
+        special: "Cambia los orbes [QCK] en orbes [RCV]",
         specialName: "[QCK] Slot Change [RCV]"
     },
     156: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Spiral"
     },
     157: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     158: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     159: {
-        special: "Changes [DEX] orbs into [RCV] orbs",
+        special: "Cambia los orbes [DEX] en orbes [RCV]",
         specialName: "[DEX] Slot Change [RCV]"
     },
     160: {
-        special: "Changes [PSY] orbs into [RCV] orbs",
+        special: "Cambia los orbes [PSY] en orbes [RCV]",
         specialName: "[PSY] Slot Change [RCV]"
     },
     161: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     162: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     163: {
-        special: "Changes [DEX] orbs into [TND] orbs",
+        special: "Cambia los orbes [DEX] en orbes [TND]",
         specialName: "[DEX] Slot Change [TND]"
     },
     164: {
-        special: "Changes [QCK] orbs into [TND] orbs",
+        special: "Cambia los orbes [QCK] en orbes [TND]",
         specialName: "[QCK] Slot Change [TND]"
     },
     165: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     166: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     167: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     168: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     169: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     170: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     171: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     172: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     173: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     174: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     175: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     176: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     177: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Spiral"
     },
     178: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     179: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]"
     },
     180: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     181: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]"
     },
     182: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     183: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]"
     },
     184: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]"
     },
     185: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     186: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]"
     },
     187: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     188: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]"
     },
     194: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     195: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     196: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     197: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing",
-        captain: "Reduces damage received from PSY enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 20%"
     },
     198: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     199: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Nez-Palm Cannon",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     200: {
-        special: "Deals 20x character's ATK in STR damage to one enemy",
+        special: "Hace 20x ATK en daño STR a un enemigo",
         specialName: "Breeze Breath Bomb",
-        captain: "Boosts ATK of STR characters by 2x"
+        captain: "Multiplica el ataque de los personajes STR x2"
     },
     201: {
-        captain: "Boosts HP of Fighter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Fighter x1.5"
     },
     202: {
-        special: "Changes [RCV] orbs into [QCK] orbs",
+        special: "Cambia los orbes [RCV] en orbes [QCK]",
         specialName: "10,000 Kill-O-Guillotine",
-        captain: "Boosts HP of Fighter characters by 2x"
+        captain: "Multiplica el HP de los personajes Fighter x2"
     },
     203: {
-        captain: "Reduces damage received from INT enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos INT en un 10%"
     },
     204: {
-        special: "Delays all enemies for 1 turn",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Extra Special Candelabra",
-        captain: "Reduces damage received from INT enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos INT en un 10%"
     },
     205: {
-        captain: "Boosts HP and RCV of DEX characters by 1.2x"
+        captain: "Multiplica el HP y el RCV de los personajes DEX x1.2"
     },
     206: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante dos turnos",
         specialName: "Colors Trap: Calming Green",
-        captain: "Boosts HP and RCV of DEX characters by 1.2x"
+        captain: "Multiplica el HP y el RCV de los personajes DEX x1.2"
     },
     207: {
-        captain: "Reduces damage received from PSY enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 10%"
     },
     208: {
-        special: "Changes [RCV] orbs into [PSY] orbs",
+        special: "Cambia los orbes [RCV] en orbes [PSY]",
         specialName: "Bombardier Arabesque",
-        captain: "Reduces damage received from PSY enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 20% "
     },
     209: {
-        special: "Boosts ATK of INT characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes INT x1.5 durante 1 turno",
         specialName: "Dieciseis Fleur",
-        captain: "Boosts RCV of INT characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes INT x1.5"
     },
     210: {
-        special: "Boosts ATK of INT characters by 2x for 1 turn",
+        special: "Multiplica el ataque de los personajes INT x2 durante 1 turno",
         specialName: "Cien Fleur",
-        captain: "Boosts RCV of INT characters by 2x"
+        captain: "Multiplica el RCV de los personajes INT x2"
     },
     211: {
-        captain: "Boosts ATK of Striker characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Striker x1.2"
     },
     212: {
-        special: "Deals 5x character's ATK in QCK damage to one enemy",
+        special: "Hace 5x ATK en daño QCK a un enemigo",
         specialName: "Hot Blooded Bat",
-        captain: "Boosts ATK of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     213: {
-        special: "Deals 20x character's ATK in STR damage to all enemies",
+        special: "Hace 20x ATK en daño STR a todos los enemigos",
         specialName: "Sorrowful Charge",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     214: {
-        special: "Deals 20x character's ATK in STR damage to all enemies",
+        special: "Hace 20x ATK en daño STR a todos los enemigos",
         specialName: "Sorrowful Charge",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     215: {
-        special: "Poisons all enemies",
+        special: "Envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "Poison Ink",
-        captain: "Boosts HP of Striker characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Striker x1.5"
     },
     216: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "Gum-Gum Balloon",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     217: {
-        special: "Deals 15x character's ATK in STR damage to all enemies",
+        special: "Hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Gum-Gum Giant Rifle",
-        captain: "Boosts ATK by 3.5x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x3.5 después de acertar 3 Perfect seguidos"
     },
     218: {
-        special: "Reduces damage received from STR enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos STR en un 100% durante 1 turno",
         specialName: "Streaming Wolf Swords",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno"
     },
     219: {
-        special: "Deals 25x character's ATK in DEX damage to one enemy",
+        special: "Hace 25x ATK en daño DEX a un enemigo",
         specialName: "Lion's Song",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno"
     },
     220: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes [PSY] en orbes [INT]",
         specialName: "Fine Tempo",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     221: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes [PSY] en orbes [INT]",
         specialName: "Happiness Punch",
-        captain: "Boosts ATK of INT characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes INT x2.5"
     },
     222: {
         special: "Boosts ATK of PSY characters by 1.5x for 1 turn",
