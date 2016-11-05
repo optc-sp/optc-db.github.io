@@ -1735,125 +1735,125 @@ window.details = {
         captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     432: {
-        special: "Deals 20x character's ATK in QCK damage to one enemy",
+        special: "Hace 20x ATK en daño QCK a un enemigo",
         specialName: "Big Chop"
     },
     433: {
-        special: "Reduces Bind and Despair duration by 1 turn",
+        special: "Reduce las cadenas y la anulación del capitán en 1 turno",
         specialName: "New Kama Seduction",
-        captain: "Boosts ATK by 2x following a chain of QCK > STR > DEX attacks no lower than Good"
+        captain: "Multiplica el ATK x2 siguiendo una cadena de ataques QCK > STR > DEX sin ser ninguno por debajo de Good"
     },
     434: {
-        special: "Amplifies the effect of orbs by 1.25x for 3 turns",
+        special: "Amplifica el efecto de los orbes x1.25 durante 3 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "New Kama Karate Maiden's Awakening",
-        captain: "Boosts ATK by 2x following a chain of PSY > INT > INT attacks no lower than Good"
+        captain: "Multiplica el ATK x2 siguiendo una cadena de ataques PSY > INT > INT sin ser ninguno por debajo de Good"
     },
     435: {
-        special: "Randomly changes [RCV], [STR] and [DEX] orbs into either [STR] or [QCK] orbs",
+        special: "Cambia aleatoriamente los orbes [RCV], [STR] y [DEX] en orbes [STR] o [QCK]",
         specialName: "Maiden's Bloom",
-        captain: "Boosts ATK by 2x following a chain of INT > PSY > QCK attacks no lower than Good"
+        captain: "Multiplica el ATK x2 siguiendo una cadena de ataques INT > PSY > QCK sin ser ninguno por debajo de Good"
     },
     436: {
         special: "Randomly changes [RCV], [STR] and [DEX] orbs into either [STR] or [QCK] orbs",
         specialName: "Maiden's Bloom",
-        captain: "Boosts ATK by 2.25x following a chain of INT > PSY > QCK attacks no lower than Good"
+        captain: "Multiplica el ATK x2.25 siguiendo una cadena de ataques INT > PSY > QCK sin ser ninguno por debajo de Good"
     },
     437: {
-        special: "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn, poisons enemies for 1,000 for a single turn",
+        special: "Regenera 3x RCV en HP, reduce el daño recibido en un 80% durante 1 turno, envenena a los enemigos haciéndolos 1000 de daño durante 1 turno",
         specialName: "Negative Horo \"Sweet\"",
-        specialNotes: "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-        captain: "Boosts RCV of [DEX] characters by 3x if HP is below 30% at the start of the turn"
+        specialNotes: "El veneno hace 1000 de daño fijo e ignora la armadura del enemigo al final del turno",
+        captain: "Multiplica el [RCV] de los personajes DEX x5 si el HP está por debajo del 30% al inicio del turno"
     },
     438: {
-        special: "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn, poisons enemies for 1,000 for a single turn",
+        special: "Regenera 3x RCV en HP, reduce el daño recibido en un 80% durante 1 turno, envenena a los enemigos haciéndolos 1000 de daño durante 1 turno",
         specialName: "Negative Horo \"Sweet\"",
-        specialNotes: "Poison damage deals 1,000 damage exactly and will ignore enemy armor at the end of your turn",
-        captain: "Boosts RCV of [DEX] characters by 5x if HP is below 30% at the start of the turn"
+        specialNotes: "El veneno hace 1000 de daño fijo e ignora la armadura del enemigo al final del turno",
+        captain: "Multiplica el [RCV] de los personajes DEX x5 si el HP está por debajo del 30% al inicio del turno"
     },
     439: {
-        special: "Changes adjacent orbs into [RCV] and randomizes every other orb",
+        special: "Cambia los orbes adyacentes en orbes [RCV] cambia de forma aleatoria el resto de orbes",
         specialName: "Charge! Supersonic Duck Squadron! \"Love\"",
-        captain: "Recovers 5x character's RCV in HP at the end of each turn"
+        captain: "Regenera 5x RCV en HP al final de cada turno"
     },
     440: {
-        special: "Changes adjacent orbs into [RCV] and randomizes every other orb",
+        special: "Cambia los orbes adyacentes en orbes [RCV] cambia de forma aleatoria el resto de orbes",
         specialName: "Charge! Supersonic Duck Squadron! \"Love\"",
-        captain: "Recovers 7x character's RCV in HP at the end of each turn"
+        captain: "Regenera 7x RCV en HP al final de cada turno"
     },
     444: {
-        captain: "Boosts ATK of Evolver and Booster characters by 2x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Booster y Evolver x2 si el HP está por encima del 50% al inicio del turno"
     },
     445: {
-        special: "Randomly changes all orbs into either [STR], [DEX], [QCK], [PSY] or [INT] orbs, switches orbs between slots 3 times",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [DEX], [QCK], [PSY] o [INT], Cambia orbes entre ranuras libremente tres veces",
         specialName: "Support Incoming! Supersonic Duck Squadron!",
-        captain: "Boosts ATK of Evolver and Booster characters by 2.5x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Booster y Evolver x2 si el HP está por encima del 50% al inicio del turno"
     },
     446: {
-        special: "Deals 10 times the damage received in the previous turn in typeless damage to all enemies",
+        special: "Hace 10 veces el daño recibido en el anterior turno en daño sin tipo a todos los enemigos",
         specialName: "Black Hole",
-        captain: "Doubles damage received, boosts ATK of STR characters by 2x and their HP by 1.5x"
+        captain: "Dobla el daño recibido, multiplica el ATK de los personajes STR x2 y su HP x1.5"
     },
     447: {
-        special: "Deals 10 times the damage received in the previous turn in typeless damage to all enemies",
+        special: "Hace 10 veces el daño recibido en el anterior turno en daño sin tipo a todos los enemigos",
         specialName: "Black Hole",
-        captain: "Doubles damage received, boosts ATK of STR characters by 2.5x and their HP by 2.25x"
+        captain: "Dobla el daño recibido, multiplica el ATK de los personajes STR x2.5 y su HP x2.25"
     },
     448: {
-        special: "Boosts chances of getting [QCK] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] durante 3 turnos",
         specialName: "Pirate King's Sword",
-        captain: "Boosts ATK of QCK characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes QCK x3 si el HP es superior al 99% al inicio del turno"
     },
     449: {
-        special: "Boosts chances of getting [QCK] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] durante 3 turnos",
         specialName: "Pirate King's Sword",
-        captain: "Boosts ATK of QCK characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes QCK x3 si el HP es superior al 99% al inicio del turno"
     },
     450: {
-        special: "Boosts ATK of Fighter characters by 1.5x for 1 turn, deals 25x character's ATK in DEX damage to one enemy",
+        special: "Multiplica el ATK de los personajes Fighter x1.5 durante 1 turno, hace 25x ATK en daño DEX a un enemigo",
         specialName: "Number Eight's One Hit",
-        captain: "Boosts ATK of Fighter characters by 2x and their HP by 1.5x",
-        sailor: "Boosts ATK of Fighter characters by 20"
+        captain: "Multiplica el ATK de los personajes Fighter x2 y su HP x1.5",
+        sailor: "Incrementa el ATK de los Fighter en 20 unidades"
     },
     451: {
-        special: "Boosts ATK of Fighter characters by 1.5x for 1 turn, deals 25x character's ATK in DEX damage to one enemy",
+        special: "Multiplica el ATK de los personajes Fighter x1.5 durante 1 turno, hace 25x ATK en daño DEX a un enemigo",
         specialName: "Number Eight's One Hit",
-        captain: "Boosts ATK of Fighter characters by 2x and their HP by 1.5x",
-        sailor: "Boosts ATK of Fighter characters by 20"
+        captain: "Multiplica el ATK de los personajes Fighter x2 y su HP x1.5",
+        sailor: "Incrementa el ATK de los Fighter en 20 unidades"
     },
     452: {
-        special: "Changes own orb and the captain's orb into [PSY]",
+        special: "Cambia su propio orbe y el del capitán en orbes [PSY]",
         specialName: "Dread Morning Star",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Striker characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Striker x2"
     },
     453: {
-        special: "Changes own orb and the captain's orb into [PSY]",
+        special: "Cambia su propio orbe y el del capitán en orbes [PSY]",
         specialName: "Dread Morning Star",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Striker characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Striker x2"
     },
     454: {
-        special: "Boosts ATK of STR characters by 1.5x for 1 turn, deals 15x character's ATK in STR damage to all enemies",
+        special: "Multiplica el ATK de los personajes STR x1.5 durante 1 turno, hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Manly Flaming Sword",
-        captain: "Boosts ATK of STR characters by 2x, boosts damage of STR specials by 2x",
+        captain: "Multiplica el ATK de los personajes STR x2, Multiplica el daño de los especiales STR x2",
         captainNotes: "#{noFixedPerc}"
     },
     455: {
-        special: "Boosts ATK of STR characters by 1.5x for 1 turn, deals 15x character's ATK in STR damage to all enemies",
+        special: "Multiplica el ATK de los personajes STR x1.5 durante 1 turno, hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Manly Flaming Sword",
-        captain: "Boosts ATK of STR characters by 2x, boosts damage of STR specials by 2x",
+        captain: "Multiplica el ATK de los personajes STR x2, Multiplica el daño de los especiales STR x2",
         captainNotes: "#{noFixedPerc}"
     },
     456: {
-        special: "Randomly changes the orbs in the middle row into either [STR] or [DEX] orbs, the orbs in the lower row into either [PSY] or [INT] orbs, switches orbs between slots once",
+        special: "Cambia aleatoriamente los orbes en la fila del medio en orbes [STR] o [DEX], los orbes de la fila de abajo en orbes [PSY] o [INT], cambia orbes entre ranuras libremente una vez",
         specialName: "Double Cannon",
-        captain: "Boosts ATK of Shooter characters by 2x and their RCV by 1.5x",
-        sailor: "Makes [PSY] orbs \"beneficial\" for this unit"
+        captain: "Multiplica el ATK de los personajes Shooter x2 y su RCV x1.5",
+        sailor: "Hace a los orbes [PSY] \"beneficiosos\" para esta unidad"
     },
     457: {
-        special: "Randomly changes the orbs in the middle row into either [STR] or [DEX] orbs, the orbs in the lower row into either [PSY] or [INT] orbs, switches orbs between slots once",
+        special: "Cambia aleatoriamente los orbes en la fila del medio en orbes [STR] o [DEX], los orbes de la fila de abajo en orbes [PSY] o [INT], cambia orbes entre ranuras libremente una vez",
         specialName: "Double Cannon",
-        captain: "Boosts ATK of Shooter characters by 2x and their RCV by 1.5x",
-        sailor: "Makes [PSY] orbs \"beneficial\" for this unit"
+        captain: "Multiplica el ATK de los personajes Shooter x2 y su RCV x1.5",
+        sailor: "Hace a los orbes [PSY] \"beneficiosos\" para esta unidad"
     },
     458: {
         special: "Deals random PSY damage to all enemies, boosts ATK of all characters by 1.5x for 1 turn",
