@@ -805,12 +805,12 @@ window.details = {
         captain: "Multiplica el ATK x2.5 después de acertar 2 Perfect seguidos"
     },
     226: {
-        special: "Corta un 30% del HP actual del enemigo",
+        special: "Corta un 30% del HP actual de cada enemigo",
         specialName: "Black Blade Ship Cutter",
         captain: "Multiplica el ATK de los personajes Slasher x2"
     },
     227: {
-        special: "Corta un 30% del HP actual del enemigo",
+        special: "Corta un 30% del HP actual de cada enemigo",
         specialName: "Black Blade Ship Cutter",
         captain: "Multiplica el ATK de los personajes Slasher x2.5"
     },
@@ -2538,122 +2538,122 @@ window.details = {
         captain: "Regenera 5x RCV en HP al final de cada turno"
     },
     589: {
-        special: "Boosts ATK of Slasher characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes Slasher x1.5 durante 1 turno",
         specialName: "Flag of the Rebellion",
-        captain: "Boosts ATK of all characters by 1.5x, reduces HP and RCV of all characters by 80%"
+        captain: "Multiplica el ATK de todos los personajes x1.5, reduce el HP y el RCV de todos los personajes en un 80%"
     },
     590: {
-        special: "Boosts ATK of Slasher characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes Slasher x1.5 durante 1 turno",
         specialName: "Flag of the Rebellion",
-        captain: "Boosts ATK of all characters by 2x, reduces HP and RCV of all characters by 80%"
+        captain: "Multiplica el ATK de todos los personajes x2, reduce el HP y el RCV de todos los personajes en un 80%"
     },
     596: {
-        special: "Deals 20x character's ATK in STR damage to one enemy, reduces the defense of all enemies by 50% for 3 turns",
+        special: "Hace 20x ATK en daño STR a un enemigo, reduce la defensa de todos los enemigos en un 50% durante 3 turnos",
         specialName: "Rozeo Michelli",
-        captain: "Boosts ATK of STR characters by 1.5x, recovers 500 HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes STR x1.5, regenera 500 HP al final de cada turno"
     },
     597: {
-        special: "Deals 20x character's ATK in STR damage to one enemy, reduces the defense of all enemies by 50% for 3 turns",
+        special: "Hace 20x ATK en daño STR a un enemigo, reduce la defensa de todos los enemigos en un 50% durante 3 turnos",
         specialName: "Rozeo Michelli",
-        captain: "Boosts ATK of STR characters by 1.75x, recovers 750 HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes STR x1.75, regenera 750 HP al final de cada turno"
     },
     598: {
-        special: "Changes own orb into [INT], switches orbs between slots once",
+        special: "Cambia su propio orbe a [INT], cambia orbes entre ranuras libremente una vez",
         specialName: "Split Split Cannon",
-        captain: "Boosts ATK of characters with fewer than 3 stars by 2.5x"
+        captain: "Multiplica el ATK de los personajes con menos de 3 estrellas x2.5"
     },
     599: {
-        special: "Changes own orb into [INT], switches orbs between slots once",
+        special: "Cambia su propio orbe a [INT], cambia orbes entre ranuras libremente una vez",
         specialName: "Split Split Cannon",
-        captain: "Boosts ATK of characters with fewer than 3 stars by 3x"
+        captain: "Multiplica el ATK de los personajes con menos de 3 estrellas x3"
     },
     600: {
-        special: "Deals 15x character's ATK in PSY damage to one enemy, boosts ATK of PSY characters by 1.3x for 2 turns",
+        special: "Hace 15x ATK en daño PSY a un enemigo, multiplica el ATK de los personajes PSY x1.3 durante 2 turnos",
         specialName: "Sword Draw - Single Flash",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     601: {
-        special: "Deals 15x character's ATK in PSY damage to one enemy, boosts ATK of PSY characters by 1.3x for 2 turns",
+        special: "Hace 15x ATK en daño PSY a un enemigo, multiplica el ATK de los personajes PSY x1.3 durante 2 turnos",
         specialName: "Sword Draw - Single Flash",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     602: {
-        special: "Reduces crew's current HP by 90%, deals 20,000 fixed damage to all enemies, boosts ATK of QCK characters by 2x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 90%, hace 20000 en daño fijo a todos los enemigos, multiplica el ATK de los personajes QCK x2 durante 1 turno",
         specialName: "200,000,000 Volt Amaru",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     603: {
-        special: "Reduces crew's current HP by 90%, deals 20,000 fixed damage to all enemies, boosts ATK of QCK characters by 2x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 90%, hace 20000 en daño fijo a todos los enemigos, multiplica el ATK de los personajes QCK x2 durante 1 turno",
         specialName: "200,000,000 Volt Amaru",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of QCK characters by 2.25x, recovers 5x character's RCV in HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes QCK x2.25, regenera 5x RCV en HP al final de cada turno"
     },
     604: {
-        special: "Cuts the current HP of each enemy by 10%, changes [QCK] orbs into [DEX] orbs",
+        special: "Corta un 10% del HP actual de cada enemigo, cambia los orbes [QCK] a orbes [DEX]",
         specialName: "Diable Jambe: Extra Hachis Hash",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los Fighter x2"
     },
     605: {
-        special: "Cuts the current HP of each enemy by 10%, changes [QCK] orbs into [DEX] orbs",
+        special: "Corta un 10% del HP actual de cada enemigo, cambia los orbes [QCK] a orbes [DEX]",
         specialName: "Diable Jambe: Extra Hachis Hash",
-        captain: "Boosts ATK of Fighter characters by 2x, reduces damage received by 20%"
+        captain: "Multiplica el ATK de los Fighter x2, reduce el daño recibido en un 20%"
     },
     606: {
-        special: "Deals 20x character's ATK in DEX damage to one enemy, changes adjacent orbs into [RCV] orbs",
+        special: "Hace 20x ATK en daño DEX a un enemigo, cambia los orbes adyacentes en orbes [RCV]",
         specialName: "Red Leg Kick",
-        captain: "Boosts ATK of Fighter characters by 2x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x2 si el HP está por encima del 50% al inicio del turno"
     },
     607: {
-        special: "Deals 20x character's ATK in DEX damage to one enemy, changes adjacent orbs into [RCV] orbs",
+        special: "Hace 20x ATK en daño DEX a un enemigo, cambia los orbes adyacentes en orbes [RCV]",
         specialName: "Red Leg Kick",
-        captain: "Boosts ATK of Fighter characters by 2.5x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x2.5 si el HP está por encima del 50% al inicio del turno"
     },
     608: {
-        special: "For 1 turn, boosts the amount healed by RCV orbs by 1.5x, then 2x, then 2.5x from the third crew member onward",
+        special: "Durante 1 turno, multiplica la cantidad curada por los orbes RCV x1.5, luego x2, luego x2.5 del tercer atacante en adelante",
         specialName: "Wicked Strength"
     },
     609: {
-        special: "Changes the captain's orb into [RCV] and randomizes every other orb",
+        special: "Cambia del orbe del capitán a [RCV] y cambia aleatoriamente el resto de los orbes",
         specialName: "Wicked Spirit"
     },
     610: {
-        special: "Changes [TND] orbs into [RCV] orbs",
+        special: "Cambia los orbes [TND] en orbes [RCV]",
         specialName: "[TND] Slot Change [RCV]"
     },
     611: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en orbes [RCV]",
         specialName: "[RCV] Slot Storm"
     },
     612: {
-        special: "Boosts ATK and RCV of all characters by 45 characters for 1 turn, reduces damage received by 45% for 1 turn",
+        special: "Incrementa el ATK y el RCV de todas las unidades en 45 unidades durante 1 turno, reduce el daño recibido en un 45% durante 1 turno",
         specialName: "45-Degree Joy",
-        captain: "Boosts ATK of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5"
     },
     613: {
-        special: "Boosts ATK and RCV of all characters by 45 characters for 1 turn, reduces damage received by 45% for 1 turn",
+        special: "Incrementa el ATK y el RCV de todas las unidades en 45 unidades durante 1 turno, reduce el daño recibido en un 45% durante 1 turno",
         specialName: "45-Degree Joy",
-        captain: "Boosts ATK, HP and RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes Slasher x1.5"
     },
     614: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn, deals 10x character's ATK in PSY damage to all enemies",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno, hace 10x ATK en daño PSY a todos los enemigos",
         specialName: "Demolisher Chop",
-        captain: "Boosts ATK of characters with cost 20 or less by 2.25x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de todos los personajes con coste de 20 o menor x2.25 si el HP está por debajo del 30% al inicio del turno"
     },
     615: {
-        special: "Deals random STR damage to one enemy",
+        special: "Hace una cantidad aleatoria de daño STR a un enemigo",
         specialName: "Demolisher Axe"
     },
     616: {
-        special: "Changes the captain's orb into STR",
+        special: "Cambia el orbe del capitán a orbe STR",
         specialName: "Demolisher Spear"
     },
     617: {
-        special: "Boosts ATK of Shooter characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los Shooter x1.2 durante 1 turno",
         specialName: "Demolisher Cannon"
     },
     618: {
-        special: "Deals 20x character's ATK in STR damage to one enemy",
+        special: "Hace 20x ATK en daño STR a un enemigo",
         specialName: "Mach Punch"
     },
     619: {
