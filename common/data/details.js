@@ -2060,114 +2060,114 @@ window.details = {
         captain: "Multiplica el RCV de los personajes Shooter x1.5"
     },
     501: {
-        special: "Recovers 5x character's RCV in HP at the end of each turn for 4 turns",
+        special: "Regenera 5x RCV en HP al final de cada turno durante 4 turnos",
         specialName: "Studying Medicine",
-        captain: "Boosts ATK, HP and RCV of PSY characters by 1.2x"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes PSY x1.2"
     },
     502: {
-        special: "Recovers 5x character's RCV in HP at the end of each turn for 4 turns",
+        special: "Regenera 5x RCV en HP al final de cada turno durante 4 turnos",
         specialName: "Studying Medicine",
-        captain: "Boosts ATK, HP and RCV of PSY characters by 1.5x"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes PSY x1.5"
     },
     503: {
-        special: "Deals 5x character's ATK in INT damage to all enemies, boosts ATK of all characters by 5% for 1 turn, reduces the defense of all enemies by 50% for 1 turn, randomizes all orbs",
+        special: "Hace 5x ATK en daño INT a todos los enemigos, aumenta el ATK de todos los personajes en un 5% durante 1 turno, reduce la defensa de todos los enemigos en un 50% durante 1 turno, cambia aleatoriamente todos los orbes",
         specialName: "Surprise Dial Illusion",
-        captain: "Boosts HP of INT characters by 1.5x"
+        captain: "Multiplica el HP de los personajes INT x1.5"
     },
     504: {
-        special: "Deals 5x character's ATK in INT damage to all enemies, boosts ATK of all characters by 5% for 1 turn, reduces the defense of all enemies by 50% for 1 turn, randomizes all orbs",
+        special: "Hace 5x ATK en daño INT a todos los enemigos, aumenta el ATK de todos los personajes en un 5% durante 1 turno, reduce la defensa de todos los enemigos en un 50% durante 1 turno, cambia aleatoriamente todos los orbes",
         specialName: "Surprise Dial Illusion",
-        captain: "Boosts HP of INT characters by 2x"
+        captain: "Multiplica el HP de los personajes INT x2"
     },
     505: {
-        special: "Boosts ATK of QCK characters by 1.25x for 3 turns",
+        special: "Multiplica el ATK de los personajes QCK x1.25 durante 3 turnos",
         specialName: "Flying Claw",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     506: {
-        special: "Boosts ATK of QCK characters by 1.25x for 3 turns",
+        special: "Multiplica el ATK de los personajes QCK x1.25 durante 3 turnos",
         specialName: "Flying Claw",
-        captain: "Protects from defeat as long as HP is above 30%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 30%",
         captainNotes: "#{zombie}"
     },
     507: {
-        special: "Deals 25x character's ATK in STR damage to one enemy",
+        special: "Hace 25x ATK en daño STR a un enemigo",
         specialName: "Ringing Fang",
-        captain: "Boosts ATK and HP of STR characters by 1.2x"
+        captain: "Multiplica el ATK y RCV de los personajes STR x1.2"
     },
     508: {
-        special: "Deals 25x character's ATK in STR damage to one enemy",
+        special: "Hace 25x ATK en daño STR a un enemigo",
         specialName: "Ringing Fang",
-        captain: "Boosts ATK and HP of STR characters by 1.5x"
+        captain: "Multiplica el ATK y RCV de los personajes STR x1.5"
     },
     509: {
-        special: "Poisons all enemies, boosts ATK of Striker characters by 1.5x for 1 turn",
+        special: "Envenena a todos los enemigos, Multiplica el ATK de los personajes Striker x1.5 durante 1 turno",
         specialNotes: "#{poison}",
         specialName: "Merciless Ploy: Poison Needle",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     510: {
-        special: "Poisons all enemies, boosts ATK of Striker characters by 1.5x for 1 turn",
+        special: "Envenena a todos los enemigos, Multiplica el ATK de los personajes Striker x1.5 durante 1 turno",
         specialNotes: "#{poison}",
         specialName: "Merciless Ploy: Poison Needle",
-        captain: "Reduces damage received by 10%, boosts ATK of Striker characters by 2x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de los personajes Striker x2"
     },
     511: {
-        special: "Reduces damage received by 30% for 2 turns, boosts ATK of Slasher characters by 1.25x for 2 turns",
+        special: "Reduce el daño recibido en un 30% durante 2 turnos, Multiplica el ATK de los personajes Slasher x1.25 durante 2 turnos",
         specialName: "Cruel Blade: Iron Guard",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica el ATK de los personajes Slasher x2"
     },
     512: {
-        special: "Boosts chances of getting [PSY] orbs and reduces chances of getting [INT] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [PSY] y reduce la posibilidad de conseguir orbes [INT] durante 3 turnos",
         specialName: "Sneaky Punk Kid Strike",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     513: {
-        special: "Boosts chances of getting [PSY] orbs and reduces chances of getting [INT] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [PSY] y reduce la posibilidad de conseguir orbes [INT] durante 3 turnos",
         specialName: "Sneaky Punk Kid Strike",
-        captain: "Protects from defeat as long as HP is above 50%, boosts ATK of PSY characters by 1.5x if HP is above 50% at the start of the turn",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%, multiplica el ATK de los personajes PSY x1.5 si el HP está por encima del 50% al inicio del turno",
         captainNotes: "#{zombie}"
     },
     514: {
-        special: "Boosts ATK of INT characters by 1.5x for 1 turn, reduces the defense of all enemies by 50% for 1 turn",
+        special: "Multiplica el ATK de los personajes INT x1.5 durante 1 turno, reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Blooming Flower of Everlasting Summer",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     515: {
-        special: "Changes the orbs in the left column into [INT], [PSY] and [RCV], the orbs in the right column into [STR], [DEX] and [QCK], switches orbs between slots 3 times",
-        specialNotes: "The special is not based on chance, the orbs are always changed with the same pattern. Starting from the top left orb and proceeding clockwise, after the special is used the orbs will be: [INT], [STR], [DEX], [QCK], [RCV] and [PSY]",
+        special: "Cambia los orbes en la columna izquierda en orbes [INT], [PSY] y [RCV] y los orbes en la columna derecha en orbes [STR], [DEX] y [QCK], cambia orbes entre ranuras libremente 3 veces",
+        specialNotes: "El especial no está basado en probabilidad, los orbes siempre se cambian siguiendo el mismo patrón. Empezando desde la ranura de arriba a la izquierda y siguiendo en el sentido de las agujas del reloj, después de usar el especial los orbes serán: [INT], [STR], [DEX], [QCK], [RCV] y [PSY]",
         specialName: "Pop Green",
-        captain: "Boosts ATK, HP and RCV of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK, HP y RCV de los personajes Shooter x1.5"
     },
     516: {
-        special: "Changes the orbs in the left column into [INT], [PSY] and [RCV], the orbs in the right column into [STR], [DEX] and [QCK], switches orbs between slots 3 times",
-        specialNotes: "The special is not based on chance, the orbs are always changed with the same pattern. Starting from the top left orb and proceeding clockwise, after the special is used the orbs will be: [INT], [STR], [DEX], [QCK], [RCV] and [PSY]",
+        special: "Cambia los orbes en la columna izquierda en orbes [INT], [PSY] y [RCV] y los orbes en la columna derecha en orbes [STR], [DEX] y [QCK], cambia orbes entre ranuras libremente 3 veces",
+        specialNotes: "El especial no está basado en probabilidad, los orbes siempre se cambian siguiendo el mismo patrón. Empezando desde la ranura de arriba a la izquierda y siguiendo en el sentido de las agujas del reloj, después de usar el especial los orbes serán: [INT], [STR], [DEX], [QCK], [RCV] y [PSY]",
         specialName: "Pop Green",
-        captain: "Boosts ATK, HP and RCV of Shooter characters by 1.5x, recovers 1x character's RCV in HP at the end of each turn"
+        captain: "Multiplica el ATK, HP y RCV de los personajes Shooter x1.5, regenera 1x RCV en HP al final de cada turno"
     },
     517: {
-        special: "Empties all slots with [RCV] orbs, boosts ATK of all characters by 5% for 2 turns",
+        special: "Vacía todos los orbes que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
         specialName: "Overeat! Energy Change",
-        captain: "Boosts HP of PSY characters by 1.5x"
+        captain: "Multiplica el HP de los personajes PSY x1.5"
     },
     518: {
-        special: "Empties all slots with [RCV] orbs, boosts ATK of all characters by 5% for 2 turns",
+        special: "Vacía todos los orbes que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
         specialName: "Overeat! Energy Change",
-        captain: "Boosts HP of PSY characters by 2x, boosts chances of getting [RCV] orbs"
+        captain: "Multiplica el HP de los personajes PSY x2, incrementa la posibilidad de recibir orbes [RCV]"
     },
     519: {
-        special: "Reduces crew's current HP by 99%, deals 25x character's ATK in fixed damage to all enemies, boosts ATK of STR characters by 2x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 99%, hace 25x ATK en daño fijo a todos los enemigos, multiplica el ATK de los personajes STR x2 durante 1 turno",
         specialName: "Gum-Gum Gigant Thor Axe",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of STR characters by 2x"
+        captain: "Multiplica el ATK de los personajes STR x2"
     },
     520: {
-        special: "Reduces crew's current HP by 99%, deals 25x character's ATK in fixed damage to all enemies, boosts ATK of STR characters by 2x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 99%, hace 25x ATK en daño fijo a todos los enemigos, multiplica el ATK de los personajes STR x2 durante 1 turno",
         specialName: "Gum-Gum Gigant Thor Axe",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of STR characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes STR x2.5"
     },
     521: {
         special: "Deals several times the character's ATK in INT damage to all enemies",
