@@ -1670,69 +1670,69 @@ window.details = {
         captain: "Multiplica el ATK de los personajes QCK x2"
     },
     420: {
-        special: "Reduces Despair duration by 3 turns, deals 15x character's ATK in STR damage to one enemy",
+        special: "Reduce la anulación de capitán en 3 turnos, hace 15x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Bazooka: Supremacy",
-        captain: "Boosts ATK, HP and RCV of STR characters by 1.5x"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes STR x1.5"
     },
     421: {
-        special: "Reduces Bind duration by 2 turns, deals 10x character's ATK in DEX damage to all enemies",
+        special: "Reduce las cadenas en 2 turnos, hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "Three Thousand Worlds: The Final Stroke",
-        captain: "Boosts ATK, HP and RCV of DEX characters by 1.5x"
+        captain: "Multiplica el ATK, HP, y RCV de los personajes DEX x1.5"
     },
     422: {
-        special: "Reduces damage received from INT enemies by 100% for 1 turn, recovers a random amount of HP",
+        special: "Reduce el daño recibido de enemigos INT en un 100% durante 1 turno, regenera una cantidad aleatoria de HP",
         specialName: "Mirage Tempo: The Heavens",
-        specialNotes: "Estimated healing range: between 1,000 HP and 3,000 HP.",
-        captain: "Boosts ATK, HP and RCV of INT characters by 1.5x"
+        specialNotes: "Rango estimado de curación: entre 1000 HP y 3000 HP.",
+        captain: "Multiplica el ATK, HP, y RCV de los personajes INT x1.5"
     },
     423: {
-        special: "Recovers 4,343 HP, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Regenera 4343 HP, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Lullaby Parry",
-        captain: "Protects from defeat as long as HP is above 70%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 70%",
         captainNotes: "#{zombie}"
     },
     424: {
-        special: "Recovers 4,343 HP, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Regenera 4343 HP, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Lullaby Parry",
-        captain: "Boosts ATK of the whole crew by 1.5x and protects from defeat as long as HP is above 70%",
+        captain: "Multiplica el ATK de toda la tripulación por 1.5 y protege de la derrota mientras el HP se sitúe por encima del 70%",
         captainNotes: "#{zombie}"
     },
     425: {
-        special: "Deals random PSY damage to all enemies",
+        special: "Hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos",
         specialName: "Shusui: Three Verse Arrow Notch Slash",
         specialNotes: "#{random : 1 : 100,000}",
-        captain: "Boosts ATK and HP of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes Slasher x1.5"
     },
     426: {
-        special: "Boosts ATK of STR characters by 1.05x for 5 turns",
+        special: "Multiplica el ATK de los personajes STR x1.05 durante 5 turnos",
         specialName: "Barco Grabber Breath",
-        captain: "Boosts HP of STR characters by 2x"
+        captain: "Multiplica el HP de los personajes STR x2"
     },
     427: {
-        special: "Reduces Bind and Despair duration by 2 turns",
+        special: "Reduce las cadenas y la anulación del capitán en 2 turnos",
         specialName: "Havoc Sonar",
-        captain: "Boosts HP of DEX characters by 2x"
+        captain: "Multiplica el HP de los personajes DEX x2"
     },
     428: {
-        special: "Reduces damage received by 50% for 2 turns",
+        special: "Reduce el daño recibido en un 50% durante 2 turnos",
         specialName: "Last Boss – Deep Dive of Dreams",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     429: {
-        special: "Deals 7x character's ATK in DEX damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
+        special: "Hace 7x ATK en daño DEX a todos los enemigos, reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "South Bird's Fearless Smile"
     },
     430: {
-        special: "Amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Spring Hopper",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     431: {
-        special: "Amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Spring Hopper",
-        captain: "Boosts ATK and HP of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     432: {
         special: "Deals 20x character's ATK in QCK damage to one enemy",
