@@ -26,7 +26,7 @@ window.drops = {
             name: "Shells Town",
             thumb: 35,
             global: true,
-            completion: 'Ship: Navy Ship, Unlocks Extra Islands',
+            completion: 'Barco: Navy Ship, Desbloquea la isla extra',
             "Completion Units": [5, 80, 97, 116 ],
             "01": [ 81, 82, 179, 180, 181, 182 ],
             "02": [ 78, 79, 80, 179, 180, 181, 183 ],
