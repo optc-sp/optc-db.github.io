@@ -1571,20 +1571,20 @@ window.details = {
         captain: "Multiplica el HP de los personajes Striker x2"
     },
     401: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Slasher characters by 1.25x for 1 turn",
+        special: "Reduce el año recibido en un 50% durante 1 turno, Multiplica el ATK de los personajes Slasher x1.25 durante 1 turno",
         specialName: "Iron Guard",
-        captain: "Reduces damage received by 10%, boosts ATK of Slasher characters by 1.5x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de los personajes Slasher x1.5"
     },
     402: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Slasher characters by 1.25x for 1 turn",
+        special: "Reduce el año recibido en un 50% durante 1 turno, Multiplica el ATK de los personajes Slasher x1.25 durante 1 turno",
         specialName: "Iron Guard",
-        captain: "Reduces damage received by 10%, boosts ATK of Slasher characters by 2x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de los personajes Slasher x1.5"
     },
     403: {
-        special: "Deals several times the character's ATK in QCK damage to all enemies",
-        specialNotes: "#{specialProportional : lower : 150 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño QCK a todos los enemigos",
+        specialNotes: "#{specialProportional : lower : 150 * ( 1 - (HP actual) / (HP total) )}",
         specialName: "Backwater Sword Dance",
-        captain: "Reduces damage received by 50% if HP is low, boosts RCV of all characters by 3x if HP is low"
+        captain: "Reduce el daño recibido en un 50% si el HP restante es bajo, multiplica el HP de todos los personajes si el HP restantes es bajo"
     },
     404: {
         special: "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
