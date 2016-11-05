@@ -1587,87 +1587,87 @@ window.details = {
         captain: "Reduce el daño recibido en un 50% si el HP restante es bajo, multiplica el HP de todos los personajes si el HP restantes es bajo"
     },
     404: {
-        special: "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
+        special: "Reduce el daño recibido en un 50% durante 2 turnos, multiplica el RCV de todos los personajes x2 durante 2 turnos",
         specialName: "Clear-Clear Fruit",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     405: {
-        special: "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
+        special: "Reduce el daño recibido en un 50% durante 2 turnos, multiplica el RCV de todos los personajes x2 durante 2 turnos",
         specialName: "Clear-Clear Fruit",
-        captain: "Boosts ATK of Shooter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Shooter x2"
     },
     406: {
-        special: "Reduces crew's HP to 1, deals 1,000 fixed damage to all enemies, boosts ATK of all characters by 1.2x for 1 turn",
+        special: "Reduce el HP a 1, hace 1000 en daño fijo a todos los enemigos, multiplica el ATK de todos los personajes x1.2 durante 2 turnos",
         specialName: "Skills of the Ancient Warriors",
         specialNotes: "#{fixed}"
     },
     407: {
-        special: "Randomizes all orbs, deals 7x character's ATK in DEX damage to all enemies",
+        special: "Cambia todos los orbes aleatoriamente, hace 7x ATK en daño verde a todos los enemigos",
         specialName: "Zombie-Style 36-Pound Phoenix"
     },
     408: {
-        special: "Changes own orb into [INT] and randomizes every other orb, deals 15x character's ATK in INT damage to all enemies",
+        special: "Cambia su propio orbe en un orbe [INT] y cambia de forma aleatoria el resto de orbes, hace 15x ATK en daño INT a todos los enemigos",
         specialName: "Ground Death",
-        captain: "Reduces damage received by 20%, boosts ATK of Slasher characters by 2x"
+        captain: "Reduce el daño recibido en un 20%, multiplica el ATK de los personajes Slasher x2"
     },
     409: {
-        special: "Changes own orb into [QCK], deals 13x character's ATK in QCK damage to one enemy",
+        special: "Cambia su propio orbe en un orbe [QCK], hace 13x ATK en daño QCK a un enemigo",
         specialName: "Ocean Current Shoulder Throw",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     410: {
-        special: "Changes own orb into [QCK], deals 13x character's ATK in QCK damage to one enemy",
+        special: "Cambia su propio orbe en un orbe [QCK], hace 13x ATK en daño QCK a un enemigo",
         specialName: "Ocean Current Shoulder Throw",
-        captain: "Boosts ATK of Fighter characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Fighter x2.5"
     },
     411: {
-        special: "Changes adjacent orbs into [STR] orbs, deals 1,000 fixed damage to all enemies",
+        special: "Cambia los orbes adyacentes en orbes [STR], hace 1000 en daño fijo a todos los enemigos",
         specialName: "Ursa Shock",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK and HP of STR characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes STR x2"
     },
     412: {
-        special: "Changes adjacent orbs into [STR] orbs, deals 1,000 fixed damage to all enemies",
+        special: "Cambia los orbes adyacentes en orbes [STR], hace 1000 en daño fijo a todos los enemigos",
         specialName: "Ursa Shock",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK and HP of STR characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes STR x2"
     },
     413: {
-        special: "Changes [STR] and [DEX] orbs into [INT] orbs",
+        special: "Cambia los orbes [STR] y los orbes [DEX] en orbes [INT]",
         specialName: "Doppelman",
-        captain: "Boosts ATK of INT characters by 2.5x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes INT x2.5 si el HP es superior al 99% al inicio del turno"
     },
     414: {
-        special: "Changes [STR] and [DEX] orbs into [INT] orbs",
+        special: "Cambia los orbes [STR] y los orbes [DEX] en orbes [INT]",
         specialName: "Doppelman",
-        captain: "Boosts ATK of INT characters by 3x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes INT x2.5 si el HP es superior al 99% al inicio del turno"
     },
     415: {
-        special: "Recovers 15x character's RCV in HP, delays all enemies for 1 turn",
+        special: "Regenera 15x RCV en HP, retarda a todos los enemigos 1 turno",
         specialName: "Love-Love Mellow",
-        captain: "Boosts ATK of QCK and PSY characters by 2.75x and their RCV by 1.5x if HP is above 70% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes QCK y PSY x2.75 y su RCV x1.5 si el HP es superior al 70% al inicio del turno"
     },
     416: {
-        special: "Recovers 15x character's RCV in HP, delays all enemies for 1 turn",
+        special: "Regenera 15x RCV en HP, retarda a todos los enemigos 1 turno",
         specialName: "Love-Love Mellow",
-        captain: "Boosts ATK of QCK and PSY characters by 2.75x and their RCV by 1.5x if HP is above 70% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes QCK y PSY x2.75 y su RCV x1.5 si el HP es superior al 70% al inicio del turno"
     },
     417: {
-        special: "Switches orbs between slots twice, amplifies the effect of orbs by 2x for 1 turn",
+        special: "Cambia orbes entre ranuras libremente dos veces, amplifica el efecto de los orbes x2 durante 1 turno",
         specialNotes: "#{orb : 2x}",
         specialName: "Overheat",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica el ATK de los personajes Slasher x2"
     },
     418: {
-        special: "Switches orbs between slots twice, amplifies the effect of orbs by 2x for 1 turn",
+        special: "Cambia orbes entre ranuras libremente dos veces, amplifica el efecto de los orbes x2 durante 1 turno",
         specialNotes: "#{orb : 2x}",
         specialName: "Overheat",
-        captain: "Boosts ATK and HP of Slasher characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes Slasher x2"
     },
     419: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns, randomizes all orbs",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 2 turnos, cambia aleatoriamente todos los orbes",
         specialName: "Parage Shot: The Storm",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     420: {
         special: "Reduces Despair duration by 3 turns, deals 15x character's ATK in STR damage to one enemy",
