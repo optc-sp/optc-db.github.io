@@ -59,7 +59,7 @@ window.details = {
         captain: "Multiplica el ATK y el HP de los personajes INT x1.5"
     },
     13: {
-        special: "Retarda a todos los enemigos un turno",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Liar",
         captain: "Multiplica el ATK de los personajes Shooter x1.2"
     },
@@ -1856,208 +1856,208 @@ window.details = {
         sailor: "Hace a los orbes [PSY] \"beneficiosos\" para esta unidad"
     },
     458: {
-        special: "Deals random PSY damage to all enemies, boosts ATK of all characters by 1.5x for 1 turn",
+        special: "Hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos, multiplica el ATK de todos los personajes x1.5 durante 1 turno",
         specialName: "Zen Shockwave",
         specialNotes: "#{random : 30,000 : 150,000}",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of characters with cost 20 or less by 3x"
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de todos los personajes con un coste de 20 o menor x3"
     },
     459: {
-        special: "Deals random PSY damage to all enemies, boosts ATK of all characters by 1.5x for 1 turn",
+        special: "Hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos, multiplica el ATK de todos los personajes x1.5 durante 1 turno",
         specialName: "Zen Shockwave",
         specialNotes: "#{random : 30,000 : 150,000}",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of characters with cost 20 or less by 3x as well as himself",
-        captainNotes: "His captain ability only affects his evolved form, his base form will NOT receive the boost. All evolved Sengoku characters in the team are included in the bonus."
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de todos los personajes con un coste de 20 o menor x3 así como a él mismo",
+        captainNotes: "Su habilidad de capitán solo afecta a su forma evolucionada, su forma base NO recibirá el incremento. Todos los Sengoku evolucionados en el equipo están incluidos en el bonus."
     },
     460: {
-        special: "Recovers 33 HP after the end of each turn for 999 turns, delays all enemies for 1 turn",
+        special: "Regenera 33 HP cada turno durante 999 turnos, retarda a todos los enemigos 1 turno",
         specialName: "Extra Large Candle Service Set",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     461: {
-        special: "Changes own orb into [DEX] and randomizes every other orb, boosts ATK of Fighter characters by 1.25x for 2 turns",
+        special: "Cambia su propio orbe en orbe [DEX] y cambia de forma aleatoria el resto de orbes, multiplica el ATK de los personajes Fighter x1.25 durante 2 turnos",
         specialName: "Escape Dance: White Swan Arabesque",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     462: {
-        special: "Changes own orb into [DEX] and randomizes every other orb, boosts ATK of Fighter characters by 1.25x for 2 turns",
+        special: "Cambia su propio orbe en orbe [DEX] y cambia de forma aleatoria el resto de orbes, multiplica el ATK de los personajes Fighter x1.25 durante 2 turnos",
         specialName: "Escape Dance: White Swan Arabesque",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     463: {
-        special: "Empties all slots, deals 25x character's ATK in PSY damage to one enemy",
+        special: "Vacía todas las ranuras, hace 25x ATK en daño PSY a un enemigo",
         specialName: "Surprise Ball Dragon",
-        captain: "Boosts HP of PSY characters by 2x"
+        captain: "Multiplica el HP de los personajes PSY x2"
     },
     464: {
-        special: "Deals 20x character's ATK in INT damage to all enemies",
+        special: "Hace 20x ATK en daño INT a todos los enemigos",
         specialName: "Roc Rider Fuza's Flame",
-        captain: "Boosts ATK and HP of Striker characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes Striker x1.5"
     },
     465: {
-        special: "Deals 20x character's ATK in QCK damage to one enemy, amplifies the effect of orbs by 1.25x for 2 turns",
+        special: "Hace 20x ATK en daño QCK a un enemigo, amplifica el efecto de los orbes x1.25 durante 2 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Jet Punch",
-        captain: "Boosts ATK by 3x after scoring 4 hits below Good in a row"
+        captain: "Multiplica el ATK x3 después de acertar 4 golpes por debajo de Good seguidos"
     },
     466: {
-        special: "Delays all enemies for 1 turn",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Double Flash Gun",
-        captain: "Boosts ATK and HP of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes Shooter x1.5"
     },
     467: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes [RCV] en orbes [STR]",
         specialName: "Mountain Belly",
-        captain: "Boosts ATK and RCV of STR characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes STR x1.5"
     },
     468: {
-        special: "Boosts RCV of all characters by 1.5x for 1 turn",
+        special: "Multiplica el RCV de todos los personajes x1.5 durante 1 turno",
         specialName: "Healing Power"
     },
     469: {
-        special: "Switches orbs between slots once",
+        special: "Cambia orbes entre ranuras libremente una vez",
         specialName: "Quick Change"
     },
     470: {
-        special: "Boosts RCV of all characters by 1.5x for 1 turn",
+        special: "Multiplica el RCV de todos los personajes x1.5 durante 1 turno",
         specialName: "Healing Power",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     471: {
-        special: "Switches orbs between slots once",
+        special: "Cambia orbes entre ranuras libremente una vez",
         specialName: "Quick Change"
     },
     472: {
-        special: "Deals 20x character's ATK in STR damage to one enemy",
+        special: "Hace 20x ATK en daño STR a un enemigo",
         specialName: "Milky Power Axe"
     },
     473: {
-        special: "Deals 10x character's ATK in QCK damage to one enemy",
+        special: "Hace 10x ATK en daño QCK a un enemigo",
         specialName: "Milky Quick Axe"
     },
     474: {
-        special: "Deals 5x character's ATK in DEX damage to all enemies, reduces Bind duration by 1 turn",
+        special: "Hace 5x ATK en daño DEX a todos los enemigos, reduce las cadenas en 1 turno",
         specialName: "Milky Technique Axe"
     },
     475: {
-        special: "Deals 5x character's ATK in STR damage to all enemies, recovers 500 HP",
+        special: "Hace 5x ATK en daño STR a todos los enemigos, regenera 500 HP",
         specialName: "Milky Mind Axe"
     },
     476: {
-        special: "Deals 1,000 fixed damage to one enemy",
+        special: "Hace 1000 en daño fijo a un enemigo",
         specialName: "Milky Intelligence Axe",
         specialNotes: "#{fixed}"
     },
     477: {
-        special: "Changes [DEX] orbs into [STR] orbs",
+        special: "Cambia los orbes [DEX] en orbes [STR]",
         specialName: "[DEX] Slot Change [STR]"
     },
     478: {
-        special: "Changes [PSY] orbs into [QCK] orbs",
+        special: "Cambia los orbes [PSY] en orbes [QCK]",
         specialName: "[PSY] Slot Change [QCK]"
     },
     479: {
-        special: "Changes [INT] orbs into [DEX] orbs",
+        special: "Cambia los orbes [INT] en orbes [DEX]",
         specialName: "[INT] Slot Change [DEX]"
     },
     480: {
-        special: "Changes [TND] orbs into [PSY] orbs",
+        special: "Cambia los orbes [TND] en orbes [PSY]",
         specialName: "[TND] Slot Change [PSY]"
     },
     481: {
-        special: "Changes [DEX] orbs into [INT] orbs",
+        special: "Cambia los orbes [DEX] en orbes [INT]",
         specialName: "[DEX] Slot Change [INT]"
     },
     482: {
-        special: "Changes [DEX] orbs into [STR] orbs",
+        special: "Cambia los orbes [DEX] en orbes [STR]",
         specialName: "[DEX] Slot Change [STR]",
-        captain: "Boosts HP of Striker characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Striker x1.5"
     },
     483: {
-        special: "Changes [PSY] orbs into [QCK] orbs",
+        special: "Cambia los orbes [PSY] en orbes [QCK]",
         specialName: "[PSY] Slot Change [QCK]",
-        captain: "Boosts ATK and RCV of QCK characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x1.2"
     },
     484: {
-        special: "Changes [INT] orbs into [DEX] orbs",
+        special: "Cambia los orbes [INT] en orbes [DEX]",
         specialName: "[INT] Slot Change [DEX]",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     485: {
-        special: "Changes [TND] orbs into [PSY] orbs",
+        special: "Cambia los orbes [TND] en orbes [PSY]",
         specialName: "[TND] Slot Change [PSY]",
-        captain: "Boosts HP and RCV of PSY characters by 1.2x"
+        captain: "Multiplica el HP y el RCV de los personajes PSY x1.2"
     },
     486: {
-        special: "Changes [DEX] orbs into [INT] orbs",
+        special: "Cambia los orbse [DEX] en orbes [INT]",
         specialName: "[DEX] Slot Change [INT]",
-        captain: "Boosts ATK of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     487: {
-        special: "Boosts ATK of STR characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes STR x1.2 durante 1 turno",
         specialName: "Attack Boost STR"
     },
     488: {
-        special: "Boosts ATK of QCK characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes QCK x1.2 durante 1 turno",
         specialName: "Attack Boost QCK"
     },
     489: {
-        special: "Boosts ATK of DEX characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes DEX x1.2 durante 1 turno",
         specialName: "Attack Boost DEX"
     },
     490: {
-        special: "Boosts ATK of STR characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes STR x1.2 durante 1 turno",
         specialName: "Attack Boost STR",
         captain: "Boosts ATK and HP of Striker characters by 1.2x"
     },
     491: {
-        special: "Boosts ATK of QCK characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes QCK x1.2 durante 1 turno",
         specialName: "Attack Boost QCK",
         captain: "Boosts RCV of Striker characters by 1.5x"
     },
     492: {
-        special: "Boosts ATK of DEX characters by 1.2x for 1 turn",
+        special: "Multiplica el ATK de los personajes DEX x1.2 durante 1 turno",
         specialName: "Attack Boost DEX",
         captain: "Boosts ATK of DEX characters by 1.2x"
     },
     493: {
-        special: "Recovers 7x character's RCV in HP",
+        special: "Regenera 7x RCV en HP",
         specialName: "Moderate Healing"
     },
     494: {
-        special: "Deals 3x character's ATK in INT damage to all enemies, poisons all enemies",
+        special: "Hace 3x ATK en daño INT a todos los enemigos, envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "Poison Attack"
     },
     495: {
-        special: "Recovers 7x character's RCV in HP",
+        special: "Regenera 7x RCV en HP",
         specialName: "Moderate Healing",
-        captain: "Recovers 500 HP at the end of each turn"
+        captain: "Regenera 500 HP al final de cada turno"
     },
     496: {
-        special: "Deals 3x character's ATK in INT damage to all enemies, poisons all enemies",
+        special: "Hace 3x ATK en daño INT a todos los enemigos, envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "Poison Attack",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     497: {
-        special: "Reduces Bind duration by 4 turns, deals 3x character's ATK in QCK damage to one enemy",
+        special: "Reduce las cadenas en 4 turnos, hace 3x ATK en daño QCK a un enemigo",
         specialName: "Cheeky Punk Kid Kick",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     498: {
-        special: "Reduces Bind duration by 4 turns, deals 3x character's ATK in QCK damage to one enemy",
+        special: "Reduce las cadenas en 4 turnos, hace 3x ATK en daño QCK a un enemigo",
         specialName: "Cheeky Punk Kid Kick",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     499: {
-        special: "Delays all enemies by 1 turn",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Women Are Courageous!",
-        captain: "Boosts RCV of Shooter characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes Shooter x1.5"
     },
     500: {
-        special: "Delays all enemies by 1 turn",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Women Are Courageous!",
-        captain: "Boosts RCV of Shooter characters by 2x"
+        captain: "Multiplica el RCV de los personajes Shooter x1.5"
     },
     501: {
         special: "Recovers 5x character's RCV in HP at the end of each turn for 4 turns",
