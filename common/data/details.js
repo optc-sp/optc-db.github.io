@@ -2234,168 +2234,168 @@ window.details = {
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     531: {
-        special: "Reduces damage received by 30% for 4 turns",
+        special: "Reduce el daño recibido en un 30% durante 4 turnos",
         specialName: "Veinte Fleur Calendula: Blossom",
-        captain: "Reduces damage received from STR, DEX and QCK enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos STR, DEX y QCK en un 30%"
     },
     532: {
-        special: "Reduces damage received by 30% for 4 turns",
+        special: "Reduce el daño recibido en un 30% durante 4 turnos",
         specialName: "Veinte Fleur Calendula: Blossom",
-        captain: "Reduces damage received from STR, DEX and QCK enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos STR, DEX y QCK en un 30%"
     },
     533: {
-        special: "Amplifies the effect of orbs by 1.5x for 1 turn, deals 20x character's ATK in QCK damage to one enemy",
+        special: "Amplifica el efecto de los orbes x1.5 durante 1 turno, hace 20x ATK en daño QCK a un enemigo",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Swallow Bond En Avant: Blossom",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     534: {
-        special: "Amplifies the effect of orbs by 1.5x for 1 turn, deals 20x character's ATK in QCK damage to one enemy",
+        special: "Amplifica el efecto de los orbes x1.5 durante 1 turno, hace 20x ATK en daño QCK a un enemigo",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Swallow Bond En Avant: Blossom",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     535: {
-        special: "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
+        special: "Reduce el daño recibido en un 50% durante 2 turnos, multiplica el RCV de todos los personajes x2 durante 2 turnos",
         specialName: "Mirage Tempo Fata Morgana: Blossom",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     536: {
-        special: "Reduces damage received by 50% for 2 turns, boosts RCV of all characters by 2x for 2 turns",
+        special: "Reduce el daño recibido en un 50% durante 2 turnos, multiplica el RCV de todos los personajes x2 durante 2 turnos",
         specialName: "Mirage Tempo Fata Morgana: Blossom",
-        captain: "Boosts RCV of DEX characters by 2x"
+        captain: "Multiplica el RCV de los personajes DEX x2"
     },
     537: {
-        special: "Reduces Bind and Despair duration by 1 turn, locks all orbs for 1 turn",
+        special: "Reduce las cadenas y la anulación de capitán en 3 turnos, bloquea todos los orbes por 1 turno",
         specialName: "Sea Stone Handcuffs",
-        captain: "Boosts chain multiplier by 2x"
+        captain: "Potencia el multiplicador de combo x2"
     },
     538: {
-        special: "Reduces Bind and Despair duration by 1 turn, locks all orbs for 1 turn",
+        special: "Reduce las cadenas y la anulación de capitán en 3 turnos, bloquea todos los orbes por 1 turno",
         specialName: "Sea Stone Handcuffs",
-        captain: "Boosts chain multiplier by 2x, recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Potencia el multiplicador de combo x2, regenera 2x RCV en HP al final de cada turno"
     },
     539: {
-        special: "Changes own orb into [STR], deals 25x character's ATK in STR damage to one enemy",
+        special: "Cambia su propio orbe a [STR], hace 25x ATK en daño STR a un enemigo",
         specialName: "Bashful Prison Beast's Metal Rod"
     },
     540: {
-        special: "Boosts chances of getting [DEX] orbs for 2 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [DEX] durante 2 turnos",
         specialName: "Deadly Glare"
     },
     541: {
-        special: "Greatly reduces chances of getting [PSY], [INT], [TND] and [RCV] slots for 5 turns",
+        special: "Reduce enormemente la posibilidad de conseguir orbes [PSY], [INT], [TND] y [RCV]  durante 5 turnos",
         specialName: "White Thorn Deathmatch",
-        captain: "Boosts ATK of STR characters by 2.5x if HP is below 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes STR x25 si el HP está por debajo del 50% al inicio del turno"
     },
     542: {
-        special: "Boosts RCV of all characters by 2x for 1 turn",
+        special: "Multiplica el RCV de todos los personajes x2 durante 1 turno",
         specialName: "Roar of the Ruler of the Sky",
-        captain: "Boosts HP of all characters by 1.5x"
+        captain: "Multiplica la vida de todos los personajes x1.5"
     },
     543: {
-        special: "Reduces crew's current HP by 50%, deals 50x character's ATK in DEX damage to one enemy",
+        special: "Reduce el HP de la tripulación en un 50%, hace 50x ATK en daño DEX a un enemigo",
         specialName: "Reject",
-        captain: "Boosts ATK and HP of Shooter characters by 1.5x, reduces crew's RCV to 0"
+        captain: "Multiplica el ATK y el HP de los personajes Shooter x1.5, reduce el RCV de la tripulación a 0"
     },
     544: {
-        special: "Reduces crew's current HP by 50%, deals 50x character's ATK in DEX damage to one enemy",
+        special: "Reduce el HP de la tripulación en un 50%, hace 50x ATK en daño DEX a un enemigo",
         specialName: "Reject",
-        captain: "Boosts ATK of Shooter characters by 2.25x and their HP by 1.5x, reduces crew's RCV to 0"
+        captain: "Multiplica el ATK y el HP de los personajes Shooter x1.5, reduce el RCV de la tripulación a 0"
     },
     545: {
-        special: "Deals 6,000 fixed damage to all enemies, boosts ATK of PSY characters by 1.5x for 1 turn",
+        special: "Hace 6000 en daño fijo a todos los enemigos, multiplica el ATK de los personajes PSY x1.5",
         specialName: "60,000,000 Volt Jamboule",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     546: {
-        special: "Deals 6,000 fixed damage to all enemies, boosts ATK of PSY characters by 1.5x for 1 turn",
+        special: "Hace 6000 en daño fijo a todos los enemigos, multiplica el ATK de los personajes PSY x1.5",
         specialName: "60,000,000 Volt Jamboule",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of PSY characters by 2x, reduces damage received by 20%"
+        captain: "Multiplica el ATK de los personajes PSY x2, reduce el daño recibido en un 20%"
     },
     547: {
-        special: "Reduces crew's current HP by 10%, deals 1x character's ATK in STR damage to one enemy, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Reduce el HP de la tripulación en un 10%, hace 1x ATK en daño STR a un enemigo, Protege de la derrota mientras el HP se sitúe por encima del 50%",
         specialName: "Crazy Punk Kid Punch",
         specialNotes: "#{zombie}",
-        captain: "Boosts chances of getting [RCV] orbs"
+        captain: "Incrementa la posibilidad de conseguir orbes [RCV]"
     },
     548: {
-        special: "Reduces crew's current HP by 10%, deals 1x character's ATK in STR damage to one enemy, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Reduce el HP de la tripulación en un 10%, hace 1x ATK en daño STR a un enemigo, Protege de la derrota mientras el HP se sitúe por encima del 50%",
         specialName: "Crazy Punk Kid Punch",
         specialNotes: "#{zombie}",
-        captain: "Boosts chances of getting [RCV] orbs, boosts ATK of all characters by 1.2x"
+        captain: "Incrementa la posibilidad de conseguir orbes [RCV], multiplica el ATK de todos los personajes x1.2"
     },
     549: {
-        special: "Boosts ATK against enemies with reduced defense by 1.3x for 3 turns",
+        special: "Multiplica el ATK contra los enemigos con la defensa reducida x1.3 durante 3 turnos",
         specialName: "Arousal Manifesto - Red Demon Whip",
-        captain: "Boosts ATK by 2x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x2 después de acertar 3 Perfect seguidos"
     },
     550: {
-        special: "Boosts ATK against enemies with reduced defense by 1.3x for 3 turns",
+        special: "Multiplica el ATK contra los enemigos con la defensa reducida x1.3 durante 3 turnos",
         specialName: "Arousal Manifesto - Red Demon Whip",
-        captain: "Boosts ATK by 2.5x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x2 después de acertar 3 Perfect seguidos"
     },
     551: {
-        special: "Reduces damage received by 50% for 1 turn, deals 15x character's ATK in STR damage to one enemy",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, hace 15x ATK en daño STR a un enemigo",
         specialName: "Uncompromising Prison Beast's Morning Star"
     },
     552: {
-        special: "Reduces the defense of all enemies by 100% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 100% durante 1 turno",
         specialName: "Cursed Shout"
     },
     553: {
-        special: "Changes adjacent orbs into [DEX], deals 1,000 fixed damage to all enemies",
+        special: "Cambia los orbes adyacentes en orbes [DEX], hace 1000 en daño fijo a todos los enemigos",
         specialName: "Ashura Ugui",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of DEX characters by 2.75x if HP is below 30% at the start of the turn",
-        sailor: "Boosts ATK of Slasher Characters by 20"
+        captain: "Multiplica el ATK de los personajes DEX x2.75 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Incrementa el ATK de los personajes Slasher en 20 unidades"
     },
     554: {
-        special: "Changes adjacent orbs into [DEX], deals 1,000 fixed damage to all enemies",
+        special: "Cambia los orbes adyacentes en orbes [DEX], hace 1000 en daño fijo a todos los enemigos",
         specialName: "Ashura Ugui",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK of DEX characters by 3x if HP is below 30% at the start of the turn",
-        sailor: "Boosts ATK of Slasher Characters by 20"
+        captain: "Multiplica el ATK de los personajes DEX x3 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Incrementa el ATK de los personajes Slasher en 20 unidades"
     },
     555: {
-        special: "Delays all enemies for 3 turns, cuts the current HP of each enemy by 10%",
+        special: "Retarda a todos los enemigos 3 turnos, corta un 10% del HP actual de todos los enemigos",
         specialName: "Heavenly Dragon Star",
-        captain: "Boosts ATK of Shooter characters by 2x",
-        sailor: "Boosts RCV of Shooter Characters by 10"
+        captain: "Multiplica el ATK de los personajes Shooter x2",
+        sailor: "Incrementa el RCV de los personajes Shooter en 10 unidades"
     },
     556: {
-        special: "Delays all enemies for 3 turns, cuts the current HP of each enemy by 10%",
+        special: "Retarda a todos los enemigos 3 turnos, corta un 10% del HP actual de todos los enemigos",
         specialName: "Heavenly Dragon Star",
-        captain: "Boosts ATK of Shooter characters by 2x and their RCV by 1.5x",
-        sailor: "Boosts RCV of Shooter Characters by 10"
+        captain: "Multiplica el ATK de los personajes Shooter x2 y su RCV x1.5",
+        sailor: "Incrementa el RCV de los personajes Shooter en 10 unidades"
     },
     557: {
-        special: "Boosts chances of getting [INT] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] durante 3 turnos",
         specialName: "Ochenta Fleur - Cuatro Manus Shock",
-        captain: "Boosts ATK and RCV of INT characters by 1.5x",
-        sailor: "Reduces duration of Blindness by 3 turns"
+        captain: "Multiplica el ATK y el RCV de los personajes INT x1.5",
+        sailor: "Reduce la duración de ceguera en 3 turnos"
     },
     558: {
-        special: "Boosts chances of getting [INT] orbs for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] durante 3 turnos",
         specialName: "Ochenta Fleur - Cuatro Manus Shock",
-        captain: "Boosts ATK and RCV of INT characters by 2x",
-        sailor: "Reduces duration of Blindness by 3 turns"
+        captain: "Multiplica el ATK y el RCV de los personajes INT x2",
+        sailor: "Reduce la duración de ceguera en 3 turnos"
     },
     559: {
-        special: "Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Cambia su propio orbe a [STR], amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Roar! Zarley Davison",
-        captain: "Boosts ATK of STR characters by 2x, deals 2x character's ATK in STR damage to all enemies at the end of each turn",
-        sailor: "Boosts ATK of Shooter Characters by 20"
+        captain: "Multiplica el ATK de los personajes STR x2, hace 2x ATK en daño STR a todos los enemigos al final de cada turno",
+        sailor: "Aumenta el ATK de los Shooter en 20 unidades"
     },
     560: {
-        special: "Changes own orb into [STR], amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Cambia su propio orbe a [STR], amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Roar! Zarley Davison",
-        captain: "Boosts ATK of STR characters by 2.25x, deals 2x character's ATK in STR damage to all enemies at the end of each turn",
-        sailor: "Boosts ATK of Shooter Characters by 20"
+        captain: "Multiplica el ATK de los personajes STR x2.25, hace 2x ATK en daño STR a todos los enemigos al final de cada turno",
+        sailor: "Aumenta el ATK de los Shooter en 20 unidades"
     },
     561: {
         special: "Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted in typeless damage to all enemies, locks all orbs for 1 turn",
