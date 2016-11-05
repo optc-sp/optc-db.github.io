@@ -2170,67 +2170,67 @@ window.details = {
         captain: "Multiplica el ATK de los personajes STR x2.5"
     },
     521: {
-        special: "Deals several times the character's ATK in INT damage to all enemies",
-        specialNotes: "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño INT a todos los enemigos",
+        specialNotes: "#{specialProportional : lower : 100 * ( 1 - (HP actual) / (HP total) )}",
         specialName: "Diable Jambe - Venaison Shot",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn",
-        sailor: "Reduces Paralysiss by 3 turns for self"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno",
+        sailor: "Reduce su propia parálisis en 3 turnos"
     },
     522: {
-        special: "Deals several times the character's ATK in INT damage to all enemies",
-        specialNotes: "#{specialProportional : lower : 100 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño INT a todos los enemigos",
+        specialNotes: "#{specialProportional : lower : 100 * ( 1 - (HP actual) / (HP actual) )}",
         specialName: "Diable Jambe - Venaison Shot",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn",
-        sailor: "Reduces Paralysiss by 3 turns for self"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno",
+        sailor: "Reduce su propia parálisis en 3 turnos"
     },
     523: {
-        special: "Randomizes all orbs, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Cambia aleatoriamente todos los orbes, protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialName: "Billy's Electrical Discharge",
         specialNotes: "#{zombie}",
-        captain: "Boosts ATK and RCV of Striker characters by 1.5x",
-        sailor: "Makes [DEX] orbs \"beneficial\" for this unit"
+        captain: "Multiplica el ATK y el RCV de los personajes Strikern x1.5",
+        sailor: "Hace a los orbes [DEX] \"beneficiosos\" para esta unidad"
     },
     524: {
-        special: "Randomizes all orbs, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Cambia aleatoriamente todos los orbes, protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialName: "Billy's Electrical Discharge",
         specialNotes: "#{zombie}",
-        captain: "Boosts ATK of Striker characters by 2x and their RCV by 1.5x",
-        sailor: "Makes [DEX] orbs \"beneficial\" for this unit"
+        captain: "Multiplica el ATK de los personajes Striker x2 y su RCV x1.5",
+        sailor: "Hace a los orbes [DEX] \"beneficiosos\" para esta unidad"
     },
     525: {
-        special: "Deals random PSY damage to all enemies, randomizes all orbs",
+        special: "Hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos, cambia de forma aleatoria todos los orbes",
         specialName: "Three-Verse Humming: Arrow-Notch Slash",
-        captain: "Boosts ATK of PSY characters by 2x",
-        sailor: "Boosts RCV of PSY Characters by 15"
+        captain: "Multiplica el ATK de los personajes PSY x2",
+        sailor: "Incrementa el RCV de los personajes PSY en 15 unidades"
     },
     526: {
-        special: "Deals random PSY damage to all enemies, randomizes all orbs",
+        special: "Hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos, cambia de forma aleatoria todos los orbes",
         specialName: "Three-Verse Humming: Arrow-Notch Slash",
-        captain: "Boosts ATK of PSY characters by 2x, reduces damage received from INT enemies by 30%",
-        sailor: "Boosts RCV of PSY Characters by 15"
+        captain: "Multiplica el ATK de los personajes PSY x2, reduce el daño recibido de enemigos INT en un 30%",
+        sailor: "Incrementa el RCV de los personajes PSY en 15 unidades"
     },
     527: {
-        special: "Removes poison, recovers 15x character's RCV in HP",
+        special: "Elimina el envenenamiento, regenera 15x RCV en HP",
         specialName: "Devoted Healing - \"I'm Glad You are Safe\"",
-        captain: "Boosts ATK and RCV of DEX characters by 1.5x",
-        sailor: "When HP is below x%, boosts own RCV by 50"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.5",
+        sailor: "Cuando el HP está por debajo de x%, aumenta su propio RCV en 50 unidades"
     },
     528: {
-        special: "Removes poison, recovers 15x character's RCV in HP",
+        special: "Elimina el envenenamiento, regenera 15x RCV en HP",
         specialName: "Devoted Healing - \"I'm Glad You are Safe\"",
-        captain: "Boosts ATK and RCV of DEX characters by 2x",
-        sailor: "When HP is below x%, boosts own RCV by 50"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x2",
+        sailor: "Cuando el HP está por debajo de x%, aumenta su propio RCV en 50 unidades"
     },
     529: {
-        special: "Deals 35x character's ATK in PSY damage to all enemies, reduces the defense of all enemies by 100% for 2 turns",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos, reduce la defensa de todos los enemigos en un 100% durante 2 turnos",
         specialName: "Conqueror's Haki: Emperor",
-        captain: "Boosts chances of getting [PSY] orbs, boosts ATK of PSY characters proportionally to the crew's current HP",
+        captain: "Incrementa la posibilidad de conseguir orbes [PSY], incrementa el ATK de los personajes PSY de una manera proporcional al HP actual",
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     530: {
-        special: "Deals 35x character's ATK in PSY damage to all enemies, reduces the defense of all enemies by 100% for 2 turns",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos, reduce la defensa de todos los enemigos en un 100% durante 2 turnos",
         specialName: "Conqueror's Haki: Emperor",
-        captain: "Boosts chances of getting [PSY] orbs, boosts ATK of PSY characters proportionally to the crew's current HP",
+        captain: "Incrementa la posibilidad de conseguir orbes [PSY], incrementa el ATK de los personajes PSY de una manera proporcional al HP actual",
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     531: {
