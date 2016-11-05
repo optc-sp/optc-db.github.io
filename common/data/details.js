@@ -2148,12 +2148,12 @@ window.details = {
         captain: "Multiplica el ATK, HP y RCV de los personajes Shooter x1.5, regenera 1x RCV en HP al final de cada turno"
     },
     517: {
-        special: "Vacía todos los orbes que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
+        special: "Vacía todas las ranuras que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
         specialName: "Overeat! Energy Change",
         captain: "Multiplica el HP de los personajes PSY x1.5"
     },
     518: {
-        special: "Vacía todos los orbes que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
+        special: "Vacía todas las ranuras que contienen orbes [RCV], aumenta el ATK de todos los personajes en un 5% durante 2 turnos",
         specialName: "Overeat! Energy Change",
         captain: "Multiplica el HP de los personajes PSY x2, incrementa la posibilidad de recibir orbes [RCV]"
     },
@@ -2398,144 +2398,144 @@ window.details = {
         sailor: "Aumenta el ATK de los Shooter en 20 unidades"
     },
     561: {
-        special: "Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted in typeless damage to all enemies, locks all orbs for 1 turn",
+        special: "Reduce el HP de la tripulación en un 40%, hace 15x la cantidad de HP sustraída como daño sin tipo a todos los enemigos, bloquea todos los orbes por 1 turno",
         specialName: "Great Flame Commandment: Flame Emperor",
-        captain: "Boosts HP of Shooter characters by 1.5x and their ATK by 3x if they have a matching orb, by 2x otherwise"
+        captain: "Multiplica el HP de los personajes Shooter x1.5 y su ATK x3 si tienen un orbe beneficioso, x2 en caso contrario"
     },
     562: {
-        special: "Reduces crew's current HP by 40%, deals 15x the amount of HP subtracted in typeless damage to all enemies, locks all orbs for 1 turn",
+        special: "Reduce el HP de la tripulación en un 40%, hace 15x la cantidad de HP sustraída como daño sin tipo a todos los enemigos, bloquea todos los orbes por 1 turno",
         specialName: "Great Flame Commandment: Flame Emperor",
-        captain: "Boosts HP of Shooter characters by 1.5x and their ATK by 3x if they have a matching orb, by 2x otherwise"
+        captain: "Multiplica el HP de los personajes Shooter x1.5 y su ATK x3 si tienen un orbe beneficioso, x2 en caso contrario"
     },
     563: {
-        special: "Deal 3x character's ATK in PSY damage to one enemy, changes [INT] orbs into [RCV] orbs",
+        special: "Hace 3x ATK en daño PSY a un enemigo, cambia los orbes [INT] en orbes [RCV]",
         specialName: "Cutie Baton"
     },
     564: {
-        special: "Reduces Bind duration by 2 turns",
+        special: "Reduce las cadenas en 2 turnos",
         specialName: "Sea Surface Split"
     },
     565: {
-        special: "Deals 5,000 fixed damage to one enemy",
+        special: "Hace 5000 en daño fijo a un enemigo",
         specialName: "Hamburger Hammer",
         specialNotes: "#{fixed}"
     },
     566: {
-        special: "Empties all slots with [BLOCK] orbs",
+        special: "Vacía todas las ranuras que contienen orbes [BLOCK]",
         specialName: "Wipeout Tackle"
     },
     567: {
-        special: "Reduces Bind and Despair duration by 1 turn, deals 15x the character's ATK as STR damage to all enemies",
+        special: "Reduce las cadenas y la anulación de capitán en 1 turno, hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Mudfish Coaster"
     },
     568: {
-        special: "Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns, switches orbs between slots twice",
+        special: "Retarda a todos los enemigos 2 turnos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos, cambia orbes entre ranuras libremente dos veces",
         specialName: "Slow Slow Beam",
-        captain: "Boosts ATK, HP and RCV of all characters by 1.25x"
+        captain: "Multiplica el ATK, HP, y RCV de todos los personajes x1.25"
     },
     569: {
-        special: "Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns, switches orbs between slots twice",
+        special: "Retarda a todos los enemigos 2 turnos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos, cambia orbes entre ranuras libremente dos veces",
         specialName: "Slow Slow Beam",
-        captain: "Boosts ATK, HP and RCV of all characters by 1.5x, reduces cooldown of all specials by 1 turn at the start of the fight"
+        captain: "Multiplica el ATK, HP, y RCV de todos los personajes x1.5, reduce la carga de todos los especiales en 1 turno"
     },
     570: {
-        special: "Changes [BLOCK] orbs into [STR], deals 20x character's ATK in STR damage to one enemy",
+        special: "Cambia los orbes [BLOCK] en orbes [STR], hace 20x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Flail",
-        captain: "Boosts ATK of STR and Fighter characters by 1.5x",
-        captainNotes: "The bonus is cumulative. STR Fighter characters get a 2.25x bonus."
+        captain: "Multiplica el ATK de los personajes STR y Fighter x1.5",
+        captainNotes: "El bonus es acumulativo. Un personaje STR y Fighter consigue un multiplicador de 2.25."
     },
     571: {
-        special: "Changes [BLOCK] orbs into [STR], deals 20x character's ATK in STR damage to one enemy",
+        special: "Cambia los orbes [BLOCK] en orbes [STR], hace 20x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Flail",
-        captain: "Boosts ATK of STR and Fighter characters by 1.5x, reduces cooldown of all specials by 1 turn at the start of the fight",
-        captainNotes: "The bonus is cumulative. STR Fighter characters get a 2.25x bonus."
+        captain: "Multiplica el ATK de los personajes STR y Fighter x1.5, reduce la carga de todos los especiales en 1 turno",
+        captainNotes: "El bonus es acumulativo. Un personaje STR y Fighter consigue un multiplicador de 2.25"
     },
     572: {
-        special: "Boosts ATK of Fighter characters by 2x for 1 turn, binds himself for 15 turns",
+        special: "Multiplica el ATK de los personajes Fighter x2 durante 1 turno, se encadena a sí mismo por 15 turnos",
         specialName: "Roar of Mettle",
-        captain: "Boosts ATK of Fighter characters by 2.5x if HP is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x2.5 si el HP es superior al 99% al inicio del turno"
     },
     573: {
-        special: "Reduces Despair duration by 2 turns, recovers 10x character's RCV in HP",
+        special: "Reduce la anulación de capitán en 2 turnos, regenera 10x RCV en HP",
         specialName: "Manly Support",
-        captain: "Boosts RCV of all characters by 1.2x"
+        captain: "Multiplica el RCV de todos los personajes x1.2"
     },
     574: {
-        special: "Boosts ATK of Striker characters by 1.75x for 2 turns, locks all orbs for 2 turns",
+        special: "Multiplica el ATK de los personajes Striker x1.75 durante 2 turnos, bloquea todos los orbes durante 2 turnos",
         specialName: "Ice Block - Pheasant Beak",
-        captain: "Boosts ATK of Striker characters by 2x"
+        captain: "Multiplica el ATK de los personajes Striker x2"
     },
     575: {
-        special: "Boosts ATK of Striker characters by 1.75x for 2 turns, locks all orbs for 2 turns",
+        special: "Multiplica el ATK de los personajes Striker x1.75 durante 2 turnos, bloquea todos los orbes durante 2 turnos",
         specialName: "Ice Block - Pheasant Beak",
-        captain: "Boosts ATK and HP of Striker characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes Striker x2"
     },
     576: {
-        special: "Changes [PSY] orbs into [INT] orbs, boosts RCV of all characters by 1.5x for 1 turn",
+        special: "Cambia los orbes [PSY] en orbes [INT], multiplica el RCV de todos los personajes x1.5 durante 1 turno",
         specialName: "Fine Tempo - Tea Time Show",
-        captain: "Boosts ATK of all characters by 1.5x, boosts RCV of all characters by 1.2x"
+        captain: "Multiplica el ATK de todos los personajes x1.5, multiplica el RCV de todos los personajes x1.2"
     },
     577: {
-        special: "Deals random typeless damage to all enemies, changes own orb into [STR]",
+        special: "Hace una cantidad aleatoria de ATK en daño sin tipo a todos los enemigos, cambia su propio orbe a [STR]",
         specialName: "Gum-Gum Jet Gatling",
         specialNotes: "#{random : 70,000 : 200,000}",
-        captain: "Boosts ATK by 4x following a chain of Good > Great > Perfect hits"
+        captain: "Multiplica el ATK x4 siguiendo una cadena de golpes de Good > Great > Perfect"
     },
     578: {
-        special: "Deals random typeless damage to all enemies, changes own orb into [STR]",
+        special: "Hace una cantidad aleatoria de ATK en daño sin tipo a todos los enemigos, cambia su propio orbe a [STR]",
         specialName: "Gum-Gum Jet Gatling",
         specialNotes: "#{random : 70,000 : 200,000}",
-        captain: "Boosts ATK by 4x following a chain of Good > Great > Perfect hits"
+        captain: "Multiplica el ATK x4 siguiendo una cadena de golpes de Good > Great > Perfect"
     },
     579: {
-        special: "Randomly changes [BLOCK] orbs into either [QCK] or [DEX] orbs, deals 15x character's ATK in QCK damage to all enemies",
+        special: "Cambia aleatoriamente los orbes [BLOCK] en orbes [QCK] o [DEX], hace 15x ATK en daño QCK a todos los enemigos",
         specialName: "Dragon Twister",
-        captain: "Boosts ATK of QCK and DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK y DEX x1.5"
     },
     580: {
-        special: "Randomly changes [BLOCK] orbs into either [QCK] or [DEX] orbs, deals 15x character's ATK in QCK damage to all enemies",
+        special: "Cambia aleatoriamente los orbes [BLOCK] en orbes [QCK] o [DEX], hace 15x ATK en daño QCK a todos los enemigos",
         specialName: "Dragon Twister",
-        captain: "Boosts ATK of QCK and DEX characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK y DEX x2"
     },
     581: {
-        special: "Cuts the current HP of each enemy by 7%",
+        special: "corta un 7% del HP actual de todos los enemigos",
         specialName: "High-Caliber Bazooka",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     582: {
-        special: "Deals 10x character's ATK in QCK damage to one enemy, boosts ATK of QCK characters by 1.5x for 1 turn",
+        special: "Hace 10x ATK en daño QCK a un enemigo, multiplica el ATK de los personajes QCK x1.5 durante 1 turno",
         specialName: "Burn Blade",
-        captain: "Boosts ATK and HP of Striker characters by 1.5x"
+        captain: "Multiplica el ATK y HP de los personajes Striker x1.5"
     },
     583: {
-        special: "Changes own orb into [INT] and the captain's orb into [DEX], boosts RCV of Shooter characters by 300 for 3 turns",
+        special: "Cambia su propio orbe a [INT] y el orbe del capitán a [DEX], aumenta el RCV de los personajes Shooter en 300 unidades durante 3 turnos",
         specialName: "Disrupting Fire",
-        captain: "Boosts ATK and RCV of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Shooter x1.5"
     },
     584: {
-        special: "Reduces damage received from PSY enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos PSY en un 100% durante 1 turno",
         specialName: "Mantra",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, reduces ATK, HP and RCV of all characters by 90%"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, reduce el ATK, RCV, y HP de todos los personajes en un 90%"
     },
     585: {
-        special: "Changes the captain's orb into [PSY], recovers 9x character's RCV in HP",
+        special: "Cambia el orbe del capitán a [PSY], regenera 9x RCV en HP",
         specialName: "The Bond Bellmere Left Us",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     586: {
-        special: "Changes the captain's orb into [PSY], recovers 9x character's RCV in HP",
+        special: "Cambia el orbe del capitán a [PSY], regenera 9x RCV en HP",
         specialName: "The Bond Bellmere Left Us",
-        captain: "Boosts HP and RCV of PSY characters by 1.5x"
+        captain: "Multiplica el HP y el RCV de los personajes PSY x1.5"
     },
     587: {
-        special: "Removes poison, reduces Bind and Despair duration by 2 turns",
+        special: "Elimina el envenenamiento, reduce las cadenas y la anulación de capitán en 2 turnos",
         specialName: "Merciful Painkiller",
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     588: {
-        special: "Removes poison, reduces Bind and Despair duration by 2 turns",
+        special: "Elimina el envenenamiento, reduce las cadenas y la anulación de capitán en 2 turnos",
         specialName: "Merciful Painkiller",
-        captain: "Recovers 5x character's RCV in HP at the end of each turn"
+        captain: "Regenera 5x RCV en HP al final de cada turno"
     },
     589: {
         special: "Boosts ATK of Slasher characters by 1.5x for 1 turn",
