@@ -3505,85 +3505,85 @@ window.details = {
         captain: "Reduce el daño recibido en un 25%"
     },
     780: {
-        special: "Boosts own ATK by a variable factor for 1 turn",
-        specialNotes: "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.",
+        special: "Multiplica su propio ATK por un factor variable durante 1 turno",
+        specialNotes: "El multiplicador exacto usado es elegido en base al HP actual: por encima del 50%, el multiplicador usado es x1.5; entre 20% y 50%, es x1.75; por debajo del 20%, es x2.",
         specialName: "Precept Deification",
-        captain: "Boosts ATK of all characters by 2x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de todos los personajes x2 si el HP está por debajo del 30% al principio del turno"
     },
     781: {
-        special: "Boosts own ATK by a variable factor for 1 turn",
-        specialNotes: "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 50% HP, the multiplier used is 1.5x; between 20% HP and 50% HP, it's 1.75x; below 20% HP, it's 2x.",
+        special: "Multiplica su propio ATK por un factor variable durante 1 turno",
+        specialNotes: "El multiplicador exacto usado es elegido en base al HP actual: por encima del 50%, el multiplicador usado es x1.5; entre 20% y 50%, es x1.75; por debajo del 20%, es x2.",
         specialName: "Precept Deification",
-        captain: "Boosts ATK of all characters by 2.5x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de todos los personajes x2.5 si el HP está por debajo del 30% al principio del turno"
     },
     782: {
-        special: "Delays all enemies for 1 turn, recovers a small random amount of HP",
+        special: "Retarda a todos los enemigos 1 turno, regenera una pequeña cantidad aleatoria de HP",
         specialName: "Smile of a Natural Beauty",
-        captain: "Boosts RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes Slasher x1.5"
     },
     783: {
-        special: "Delays all enemies for 1 turn, recovers a small random amount of HP",
+        special: "Retarda a todos los enemigos 1 turno, regenera una pequeña cantidad aleatoria de HP",
         specialName: "Smile of a Natural Beauty",
-        captain: "Boosts ATK of Slasher characters by 2x and their RCV by 1.5x"
+        captain: "Multiplica el ATK de los personajes Slasher x2 y su RCV x1.5"
     },
     784: {
-        special: "Reduces Despair duration by 2 turns, removes blindness",
+        special: "Reduce la duración de la anulación de capitán en 2 turnos, elimina la ceguera",
         specialName: "Yelling at Lascivious Young Women"
     },
     785: {
-        special: "Reduces Despair duration by 2 turns, removes blindness",
+        special: "Reduce la duración de la anulación de capitán en 2 turnos, elimina la ceguera",
         specialName: "Yelling at Lascivious Young Women",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     786: {
-        special: "Seals himself for 10 turns, delays all enemies for 1 turn, reduces damage received by 50% for 4 turns",
+        special: "Se encadena a sí mismo por 10 turnos, retarda a todos los enemigos 1 turno, reduce el daño recibido en un 50% durante 4 turnos",
         specialName: "The Resolve to Face Death! \"Open Mind\""
     },
     787: {
-        special: "Seals himself for 10 turns, delays all enemies for 1 turn, reduces damage received by 50% for 4 turns",
+        special: "Se encadena a sí mismo por 10 turnos, retarda a todos los enemigos 1 turno, reduce el daño recibido en un 50% durante 4 turnos",
         specialName: "The Resolve to Face Death! \"Open Mind\"",
-        captain: "Reduces damage received by 50%, reduces crew's current HP by 10% at the end of each turn"
+        captain: "Reduce el daño recibido en un 50%, reduce el HP de la tripulación en un 10% cada turno"
     },
     788: {
-        special: "Following the activation of the special, if every unit scores a Perfect hit, boosts ATK of Slasher characters by 1.75x in the following turn",
+        special: "Tras activar el especial, si todas las unidades aciertan Perfect, multiplica el ATK de los personajes Slasher x1.75 en el siguiente turno",
         specialName: "Real Sword Fight with a Girl Swordsman"
     },
     789: {
-        special: "Following the activation of the special, if every unit scores a Perfect hit, boosts ATK of Slasher characters by 1.75x in the following turn",
+        special: "Tras activar el especial, si todas las unidades aciertan Perfect, multiplica el ATK de los personajes Slasher x1.75 en el siguiente turno",
         specialName: "Real Sword Fight with a Girl Swordsman",
-        captain: "Boosts ATK of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5"
     },
     790: {
-        special: "Deals 3x character's ATK in QCK damage to one enemy, boosts ATK of STR, DEX and QCK characters by 1.2x for 3 turns",
+        special: "Hace 3x ATK en daño QCK a un enemigo, multiplica el ATK de los personajes STR, DEX y QCK x1.2 durante 3 turnos",
         specialName: "March!! Usopp Pirates"
     },
     791: {
-        special: "Deals 3x character's ATK in QCK damage to one enemy, boosts ATK of STR, DEX and QCK characters by 1.2x for 3 turns",
+        special: "Hace 3x ATK en daño QCK a un enemigo, multiplica el ATK de los personajes STR, DEX y QCK x1.2 durante 3 turnos",
         specialName: "March!! Usopp Pirates",
-        captain: "Boosts ATK, HP and RCV of STR, DEX and QCK characters by 1.25x"
+        captain: "Multiplica el ATK, HP y RCV de los personajes STR, DEX, y QCK x1.25"
     },
     792: {
-        special: "Randomly changes all orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, switches orbs between slots twice, locks all orbs for 1 turn",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [QCK], [DEX], [PSY] o [INT], cambia orbes entre ranuras libremente dos veces, bloquea todos los orbes por 1 turno",
         specialName: "The Entushiasm to Keep Skilled Workers in Line"
     },
     793: {
-        special: "Randomly changes all orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, switches orbs between slots twice, locks all orbs for 1 turn",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [QCK], [DEX], [PSY] o [INT], cambia orbes entre ranuras libremente dos veces, bloquea todos los orbes por 1 turno",
         specialName: "The Entushiasm to Keep Skilled Workers in Line",
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5"
     },
     794: {
-        special: "Deals 10 hits of random INT damage to random enemies, delays all enemies for 1 turn",
+        special: "Hace 10 golpes de una cantidad aleatoria de ATK en daño INT a enemigos aleatorios, retarda a todos los enemigos 1 turno",
         specialNotes: "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
         specialName: "Gum-Gum Storm",
-        captain: "Boosts ATK of Powerhouse characters by 3x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn",
-        captainNotes: "His ATK multiplier will be 3.0x on the first turn, 2.9x on the second, 2.8x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
+        captain: "Multiplica el ATK de los personajes Powerhouse x3, reduce el HP en un 10% al final de cada turno, reduce su propio multiplicador de ATK en x0.1 al final de cada turno",
+        captainNotes: "Su multiplicador de ATK será x3 en el primer turno, x2.9 en el segundo, x2.8 en el tercero y así sucesivamente. La reducción para una vez que el multiplicador es x1.0. El multiplicador afecta a todos los personajes Powerhouse. No morirás por la reducción de HP"
     },
     795: {
-        special: "Deals 10 hits of random INT damage to random enemies, delays all enemies for 1 turn",
+        special: "Hace 10 golpes de una cantidad aleatoria de ATK en daño INT a enemigos aleatorios, retarda a todos los enemigos 1 turno",
         specialNotes: "#{randomHits : 10}<br>#{random : 1,000 : 30,000 : for each hit}",
         specialName: "Gum-Gum Storm",
-        captain: "Boosts ATK of Powerhouse characters by 3.5x, reduces crew's current HP by 10% at the end of each turn, reduces his own ATK multiplier by 0.1x at the end of each turn",
-        captainNotes: "His ATK multiplier will be 3.5x on the first turn, 3.4x on the second, 3.3x on the third and so on. The reduction stops once the multiplier is 1.0x. The multiplier affects all Powerhouse characters. You will not die to the HP reduction"
+        captain: "Multiplica el ATK de los personajes Powerhouse x3, reduce el HP en un 10% al final de cada turno, reduce su propio multiplicador de ATK en x0.1 al final de cada turno",
+        captainNotes: "Su multiplicador de ATK será x3.5 en el primer turno, x3.4 en el segundo, x3.3 en el tercero y así sucesivamente. La reducción para una vez que el multiplicador es x1.0. El multiplicador afecta a todos los personajes Powerhouse. No morirás por la reducción de HP"
     },
     796: {
         special: "Slightly boosts chances of getting matching orbs for 3 turns, boosts own ATK by 1.75x for 1 turn",
