@@ -3586,251 +3586,251 @@ window.details = {
         captainNotes: "Su multiplicador de ATK será x3.5 en el primer turno, x3.4 en el segundo, x3.3 en el tercero y así sucesivamente. La reducción para una vez que el multiplicador es x1.0. El multiplicador afecta a todos los personajes Powerhouse. No morirás por la reducción de HP"
     },
     796: {
-        special: "Slightly boosts chances of getting matching orbs for 3 turns, boosts own ATK by 1.75x for 1 turn",
+        special: "Incrementa ligeramente la posibilidad de conseguir orbes beneficiosos durante 3 turnos, multiplica su propio ATK x1.75 durante 1 turno",
         specialName: "Peto-Peto Fruit, The Greatest Power",
-        captain: "Boosts ATK of Cerebral characters by 2x"
+        captain: "Multiplica el ATK de los personajes Cerebral x2"
     },
     797: {
-        special: "Slightly boosts chances of getting matching orbs for 3 turns, boosts own ATK by 1.75x for 1 turn",
+        special: "Incrementa ligeramente la posibilidad de conseguir orbes beneficiosos durante 3 turnos, multiplica su propio ATK x1.75 durante 1 turno",
         specialName: "Peto-Peto Fruit, The Greatest Power",
-        captain: "Boosts ATK of Cerebral and Powerhouse characters by 2x"
+        captain: "Multiplica e ATK de los personajes Cerebral y Powerhouse x2"
     },
     798: {
-        special: "Removes poison, following the activation of the special, if every unit scores a Perfect hit, boosts ATK of Fighter characters by 1.75x in the following turn",
+        special: "Elimina el envenenamiento, siguiendo a la activación del especial, si todas las unidades aciertan Perfect, multiplica el ATK de los personajes Fighter x1.75 en el siguiente turno",
         specialName: "Dugong Secret! Fist of the Black Fin",
-        captain: "Boosts ATK by 2.5x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x2.5 después de acertar 3 Perfect seguidos"
     },
     799: {
-        special: "Randomizes all orbs, recovers 9x character's RCV in HP",
+        special: "Cambia aleatoriamente todos los orbes, regenera 9x RCV en HP",
         specialName: "Sea Animal Healing"
     },
     800: {
-        special: "Randomly changes all orbs into either [STR], [DEX] or [QCK] orbs",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [DEX] o [QCK]",
         specialName: "Octopus Tentacle Blow"
     },
     801: {
-        special: "Randomly changes [STR], [QCK], [DEX], [INT], [BOMB] and [BLOCK] orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, changes [TND] and [RCV] orbs into [PSY] orbs",
+        special: "Cambia aleatoriamente los orbes [STR], [QCK], [DEX], [INT], [BOMB] y [BLOCK] en orbes [STR], [QCK], [DEX], [PSY] o [INT], cambia los orbes [TND] y [RCV] a orbes [PSY]",
         specialName: "Clone-Clone Montage",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     802: {
-        special: "Randomly changes [STR], [QCK], [DEX], [INT], [BOMB] and [BLOCK] orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs, changes [TND] and [RCV] orbs into [PSY] orbs",
+        special: "Cambia aleatoriamente los orbes [STR], [QCK], [DEX], [INT], [BOMB] y [BLOCK] en orbes [STR], [QCK], [DEX], [PSY] o [INT], cambia los orbes [TND] y [RCV] a orbes [PSY]",
         specialName: "Clone-Clone Montage",
-        captain: "Boosts ATK of PSY characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes PSY x2.5"
     },
     803: {
-        special: "Deals 8 hits of random DEX damage to random enemies, boosts ATK of all characters by 1.1x for 3 turns",
+        special: "Hace 8 golpes de una cantidad aleatoria de ATK en daño DEX a enemigos aleatorios, multiplica el ATK de todos los personajes x1.1 durante 3 turnos",
         specialNotes: "#{randomHits : 8}",
         specialName: "Black Spear Formation: All-Out Attack!",
-        captain: "Boosts ATK and RCV of DEX characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.2"
     },
     804: {
-        special: "Deals 8 hits of random DEX damage to random enemies, boosts ATK of all characters by 1.1x for 3 turns",
+        special: "Hace 8 golpes de una cantidad aleatoria de ATK en daño DEX a enemigos aleatorios, multiplica el ATK de todos los personajes x1.1 durante 3 turnos",
         specialNotes: "#{randomHits : 8}",
         specialName: "Black Spear Formation: All-Out Attack!",
-        captain: "Boosts ATK and RCV of DEX characters by 1.5x, deals 1x character's ATK in DEX damage to all enemies at the end of each turn"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.5, hace 1x ATK en daño DEX a todos los enemigos al final de cada turno"
     },
     805: {
-        special: "Reduces crew's current HP by 20%, deals 10x the amount of HP subtracted in INT damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Reduces crew's current HP by 20%, deals 10x the amount of HP subtracted in INT damage to one enemy, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialName: "White Vine",
-        captain: "Boosts ATK of Striker characters by 2x",
+        captain: "Multiplica el ATK de los personajes Striker x2",
         specialNotes: "#{orb : 1.75x}"
     },
     806: {
-        special: "Reduces crew's current HP by 20%, deals 10x the amount of HP subtracted in INT damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 20%, hace 10x la cantidad sustraída en daño INT a un enemigo, amplifies the effect of orbs by 1.75x for 1 turn",
         specialName: "White Vine",
-        captain: "Boosts ATK of Striker characters by 2x, reduces damage received up to 30% depending on the crew's current HP",
+        captain: "Multiplica el ATK de los personajes Striker x2, reduce el daño recibido hasta un 30% dependiendo del HP actual",
         specialNotes: "#{orb : 1.75x}"
     },
     807: {
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5",
         specialName: "Thunder Charge: Swing Arm",
-        special: "Deals 15x character's ATK in PSY damage to one enemy, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+        special: "Hace 15x ATK en daño PSY a un enemigo, multiplica el ATK contra los enemigos con defensa reducida x1.3 durante 3 turnos"
     },
     808: {
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.5x, recovers 2x character's RCV in HP at the end of each turn",
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5, regenera 2x RCV en HP al final de cada turno",
         specialName: "Thunder Charge: Swing Arm",
-        special: "Deals 15x character's ATK in PSY damage to one enemy, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+        special: "Hace 15x ATK en daño PSY a un enemigo, multiplica el ATK contra los enemigos con defensa reducida x1.3 durante 3 turnos"
     },
     809: {
-        captain: "Boosts ATK and RCV of Powerhouse characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes Powerhouse x1.5",
         specialName: "Lola's Attack Chance",
-        special: "Reduces the defense of all enemies by 80% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}"
     },
     810: {
-        captain: "Boosts ATK of Powerhouse characters by 2x and their RCV by 1.5x, reduces crew's current HP by 10% at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2 y su RCV x1.5, reduce el HP de la tripulación en un 10% cada turno",
         specialName: "Lola's Attack Chance",
-        special: "Reduces the defense of all enemies by 80% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}"
     },
     811: {
         specialName: "Birdbrain Present",
-        special: "Changes own orb into DEX, switches orbs between slots once"
+        special: "Cambia su propio orbe a DEX, cambia orbes entre ranuras libremente una vez"
     },
     812: {
         specialName: "Hell Howl",
-        special: "Sharply reduces the defense of all enemies for 1 turn"
+        special: "Reduce enormemente la defensa de todos los enemigos durante 1 turno"
     },
     813: {
         specialName: "Sticky Spider Net",
-        special: "Delays all enemies for 1 turn, amplifies the effect of orbs by 1.25x for 1 turn",
+        special: "Retarda a todos los enemigos 1 turno, amplifica el efecto de los orbes x1.25 durante 1 turno",
         specialNotes: "#{orb : 1.25x}"
     },
     814: {
         specialName: "Carpet Scratch",
-        special: "Deals 13x character's ATK in DEX damage to a single enemy, changes captain's orb into [TND]"
+        special: "Hace 13x ATK en daño DEX a un enemigo, cambia el orbe del capitán a [TND]"
     },
     815: {
-        captain: "Boosts ATK by 2.5x following a chain of STR > INT > DEX attacks no lower than Good",
+        captain: "Multiplica el ATK x2.5 siguiendo una cadena de ataques STR > INT > DEX sin ser ninguno por debajo de Good",
         specialName: "Brick Bat",
-        special: "Deals 10 hits of 5,000 fixed damage to random enemies",
+        special: "Hace 10 golpes de 5000 en daño fijo a enemigos aleatorios",
         specialNotes: "#{fixed} #{randomHits : 10}"
     },
     816: {
-        captain: "Boosts ATK by 2.75x following a chain of STR > INT > DEX attacks no lower than Good",
+        captain: "Multiplica el ATK x2.75 siguiendo una cadena de ataques STR > INT > DEX sin ser ninguno por debajo de Good",
         specialName: "Brick Bat",
-        special: "Deals 10 hits of 5,000 fixed damage to random enemies",
+        special: "Hace 10 golpes de 5000 en daño fijo a enemigos aleatorios",
         specialNotes: "#{fixed} #{randomHits : 10}"
     },
     817: {
         specialName: "[PSY] Slot Change [STR]",
-        special: "Changes [PSY] orbs into [STR] orbs"
+        special: "Cambia los orbes [PSY] en orbes [STR]"
     },
     818: {
         specialName: "Quick Change",
-        special: "Switches orbs between slots once"
+        special: "Cambia orbes entre ranuras libremente una vez"
     },
     819: {
         specialName: "Hyper Burst",
-        special: "Deals 13x character's ATK in character's type damage to all enemies"
+        special: "Hace 13x ATK en daño del tipo del personaje a todos los enemigos"
     },
     820: {
         specialName: "[TND] Slot Change [INT]",
-        special: "Changes [TND] orbs into [INT] orbs"
+        special: "Cambia los orbes [TND] en orbes [INT]"
     },
     821: {
         specialName: "Slot Shuffle",
-        special: "Randomizes all orbs"
+        special: "Cambia aleatoriamente todos los orbes"
     },
     822: {
         specialName: "Patch Job",
-        special: "Boosts RCV of all characters by 100 for 3 turns"
+        special: "Incrementa el RCV de todos los personajes en 100 unidades durante 100 turnos"
     },
     823: {
         specialName: "Slot Rate Up [INT]",
-        special: "Slightly boosts chances of getting [INT] orbs for 3 turns"
+        special: "Incrementa ligeramente la posibilidad de conseguir orbes [INT] durante 3 turnos"
     },
     824: {
         specialName: "Auto Repair",
-        special: "Recovers 3x character's RCV in HP at the end of each turn for 5 turns"
+        special: "Regenera 3x RCV en HP al final de cada turno durante 5 turnos"
     },
     825: {
-        captain: "Boosts ATK and HP of STR characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes STR x1.5",
         specialName: "Energy of the Ancient Knight",
-        special: "Boosts ATK of STR characters by 200 for 1 turn"
+        special: "Incrementa el ATK de los personajes STR en 200 unidades durante 1 turno"
     },
     826: {
-        captain: "Boosts ATK and HP of DEX characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes DEX x1.5",
         specialName: "Weakness of the Ancient Knight",
-        special: "Delays all enemies for 1 turn, reduces the ATK of all characters by 80% for 2 turns"
+        special: "Retarda a todos los enemigos 1 turno, reduce el ATK de todos los personajes en un 80% durante 2 turnos"
     },
     827: {
-        captain: "Boosts ATK and HP of QCK characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes QCK x1.5",
         specialName: "Poison of the Ancient Knight",
-        special: "Boosts ATK against poisoned enemies by 1.05x for 999 turns"
+        special: "Multiplica el ATK contra los enemigos envenenados x1.05 durante 999 turnos"
     },
     828: {
         specialName: "Surprise Stab",
-        special: "Deals 3x character's ATK in [PSY] damage to one enemy, Boosts ATK of Slasher and Driven characters by 1.75x for 1 turns if used below 20% HP",
-        captain: "Protects from defeat as long as HP is above 50%",
+        special: "Hace 3x ATK en daño [PSY] a un enemigo, multiplica el ATK de los personajes Slasher y Driven x1.75 durante 1 turno si es usado por debajo del 20% de HP",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}" 
     },
     829: {
         specialName: "Surprise Stab",
-        special: "Deals 3x character's ATK in [PSY] damage to one enemy, Boosts ATK of Slasher and Driven characters by 1.75x for 1 turns if used below 20% HP",
-        captain: "Protects from defeat as long as HP is above 30%",
+        special: "Hace 3x ATK en daño [PSY] a un enemigo, multiplica el ATK de los personajes Slasher y Driven x1.75 durante 1 turno si es usado por debajo del 20% de HP",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 30%",
         captainNotes: "#{zombie}" 
     },
     830: {
-        captain: "Boosts ATK of Cerebral and Striker characters by 1.75x, deals 2 times the damage received in the previous turn in DEX damage to all enemies at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Cerebral y Striker x1.75, hace 2x el daño recibido en el anterior turno en daño DEX a todos los enemigos al final de cada turno",
         specialName: "Karma Conviction",
-        special: "Changes the orbs in the top row into [STR] orbs, changes the orbs in the middle row into [DEX] orbs, changes the orbs in the bottom row into [QCK] orbs"
+        special: "Cambia los orbes de la fila superior a orbes [STR], cambia los orbes de la fila del medio a orbes [DEX], cambia los orbes de la fila de abajo a orbes [QCK]"
     },
     831: {
-        captain: "Boosts ATK of Cerebral and Striker characters by 2x, deals 5 times the damage received in the previous turn in DEX damage to all enemies at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Cerebral y Striker x2, hace 5x el daño recibido en el anterior turno en daño DEX a todos los enemigos al final de cada turno",
         specialName: "Karma Conviction",
-        special: "Changes the orbs in the top row into [STR] orbs, changes the orbs in the middle row into [DEX] orbs, changes the orbs in the bottom row into [QCK] orbs"
+        special: "Cambia los orbes de la fila superior a orbes [STR], cambia los orbes de la fila del medio a orbes [DEX], cambia los orbes de la fila de abajo a orbes [QCK]"
     },
     832: {
-        captain: "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, reduces crew's current HP by 10% at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Free Spirit proporcionalmente al HP restante de la tripulación, reduce el HP de la tripulación en un 10% al final de cada turno",
         specialName: "Burn Bazooka",
-        special: "Boosts ATK of Free Spirit characters by 1.5x for 1 turn, deals 15x character's ATK in STR damage to all enemies",
-        captainNotes: "#{captainProportional : lower : 1 + 1.5 * (1 - (remaining HP) / (total HP)) : 1 : 2.5}"
+        special: "Multiplica el ATK de los personajes Free Spirit x1.5 durante 1 turno, hace 15x ATK en daño STR a todos los enemigos",
+        captainNotes: "#{captainProportional : lower : 1 + 1.5 * (1 - (HP restante) / (HP total)) : 1 : 2.5}"
     },
     833: {
-        captain: "Boosts ATK of Free Spirit characters proportionally to the crew's current HP, reduces crew's current HP by 10% at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Free Spirit proporcionalmente al HP restante de la tripulación, reduce el HP de la tripulación en un 10% al final de cada turno",
         specialName: "Burn Bazooka",
-        special: "Boosts ATK of Free Spirit characters by 1.5x for 1 turn, deals 15x character's ATK in STR damage to all enemies",
-        captainNotes: "#{captainProportional : lower : 1 + 1.75 * (1 - (remaining HP) / (total HP)) : 1 : 2.75}"
+        special: "Multiplica el ATK de los personajes Free Spirit x1.5 durante 1 turno, hace 15x ATK en daño STR a todos los enemigos",
+        captainNotes: "#{captainProportional : lower : 1 + 1.75 * (1 - (HP restante) / (HP total)) : 1 : 2.75}"
     },
     834: {
-        captain: "Boosts ATK and RCV of Shooter characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes Shooter x1.5",
         specialName: "Yellow Gun & Gero Gero Gun",
-        special: "Changes own orb into [QCK] and the captain's orb into [PSY]"
+        special: "Cambia su propio orbe a [QCK] y el orbe del capitán a [PSY]"
     },
     835: {
-        captain: "Boosts ATK and HP of Cerebral characters by 2x",
+        captain: "Multiplica el ATK y el HP de los personajes Cerebral x2",
         specialName: "Thrust Pad Cannon",
-        special: "Changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Cambia los orbes [RCV], [TND], [EMPTY], [BLOCK] y [BOMB] a orbes favorables, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{orb : 1.75x}"
     },
     836: {
-        captain: "Boosts ATK and HP of Cerebral characters by 2x, deals 5 times the damage received in the previous turn in STR damage to all enemies at the end of each turn",
+        captain: "Multiplica el ATK y el HP de los personajes Cerebral x2, hace 5x el daño recibido en el anterior turno en daño STR a todos los enemigos al final de cada turno",
         specialName: "Thrust Pad Cannon",
-        special: "Changes [RCV], [TND], [EMPTY], [BLOCK] and [BOMB] orbs into Matching orbs, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Cambia los orbes [RCV], [TND], [EMPTY], [BLOCK] y [BOMB] a orbes favorables, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{orb : 1.75x}"
     },
     837: {
-        captain: "Boosts ATK of Driven characters by 2x",
+        captain: "Multiplica el ATK de los personajes Driven x2",
         specialName: "Gas Robe",
-        special: "Poisons all enemies, boosts ATK of Driven characters by 1.75x for 2 turns",
+        special: "Envenena a todos los enemigos, multiplica el ATK de los personajes Driven x1.75 durante 2 turnos",
         specialNotes: "#{poison}"
     },
     838: {
-        captain: "Boosts ATK of Driven characters by 2.5x",
+        captain: "Multiplica el ATK de los personajes Driven x2.5",
         specialName: "Gas Robe",
-        special: "Poisons all enemies, boosts ATK of Driven characters by 1.75x for 2 turns"
+        special: "Envenena a todos los enemigos, multiplica el ATK de los personajes Driven x1.75 durante 2 turnos"
     },
     839: {
-        captain: "Boosts ATK of Striker characters by 2x",
+        captain: "Multiplica el ATK de los personajes Striker x2",
         specialName: "Demon Bamboo",
-        special: "Changes own orb into [INT], boosts own ATK by 2x for 1 turn, deals 15x character's ATK in INT damage to one enemy"
+        special: "Cambia su propio orbe a [INT], multiplica su propio ATK x2 durante 1 turno, hace 25x ATK en daño INT a un enemigo"
     },
     840: {
-        captain: "Boosts ATK of Striker characters by 2.5x",
+        captain: "Multiplica el ATK de los personajes Striker x2.5",
         specialName: "Demon Bamboo",
-        special: "Changes own orb into [INT], boosts own ATK by 2x for 1 turn, deals 15x character's ATK in INT damage to one enemy"
+        special: "Cambia su propio orbe a [INT], multiplica su propio ATK x2 durante 1 turno, hace 25x ATK en daño INT a un enemigo"
     },
     841: {
-        captain: "Recovers 3x character's RCV in HP at the end of each turn, deals 3x character's ATK in PSY damage to all enemies at the end of each turn",
+        captain: "Regenera 3x RCV en HP al final de cada turno, hace 3x ATK en daño PSY a todos los enemigos al final de cada turno",
         specialName: "Snow Rabbit",
-        special: "Delays all enemies for 1 turn, boosts ATK against delayed enemies by 1.25x for 2 turns"
+        special: "Retarda a todos los enemigos 1 turno, multiplica el ATK contra los enemigos retardados x1.3 durante 2 turnos"
     },
     842: {
-        captain: "Recovers 5x character's RCV in HP at the end of each turn, deals 5x character's ATK in PSY damage to all enemies at the end of each turn",
+        captain: "Regenera 5x RCV en HP al final de cada turno, hace 5x ATK en daño PSY a todos los enemigos al final de cada turno",
         specialName: "Snow Rabbit",
-        special: "Delays all enemies for 1 turn, boosts ATK against delayed enemies by 1.25x for 2 turns"
+        special: "Retarda a todos los enemigos 1 turno, multiplica el ATK contra los enemigos retardados x1.3 durante 2 turnos"
     },
     843: {
-        captain: "Boosts ATK of Slasher, Striker and Shooter characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Slasher, Striker y Shooter x1.5",
         specialName: "Arms-Morphosis: Missile Girl",
-        special: "Deals 15x character's ATK in STR damage to all enemies, boosts ATK of Shooter characters by 1.5x for 1 turn. If during that turn every unit scores a Perfect hit, boosts ATK of Shooter, Striker and Slasher characters by 1.5x in the following turn."
+        special: "Hace 15x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Shooter x1.5 durante 1 turno. Si durante este turno todas las unidades aciertan Perfect, multiplica el ATK de los personajes Shooter, Striker y Slasher x1.5 en el siguiente turno."
     },
     844: {
-        captain: "Boosts ATK of Slasher, Striker and Shooter characters by 2x",
+        captain: "Multiplica el ATK de los personajes Slasher, Striker y Shooter x2",
         specialName: "Arms-Morphosis: Missile Girl",
-        special: "Deals 15x character's ATK in STR damage to all enemies, boosts ATK of Shooter characters by 1.5x for 1 turn. If during that turn every unit scores a Perfect hit, boosts ATK of Shooter, Striker and Slasher characters by 1.5x in the following turn."
+        special: "Hace 15x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Shooter x1.5 durante 1 turno. Si durante este turno todas las unidades aciertan Perfect, multiplica el ATK de los personajes Shooter, Striker y Slasher x1.5 en el siguiente turno."
     },
     845: {
         captain: "Boosts ATK of all characters by 1.5x after the 11th hit in the chain, by 2.5x after the 22nd hit",
