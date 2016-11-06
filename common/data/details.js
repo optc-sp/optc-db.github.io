@@ -3382,127 +3382,127 @@ window.details = {
         captain: "Multiplica el ATK de los personajes INT x2, reduce el daño recibido de enemigos INT en un 30%"
     },
     757: {
-        special: "Changes [DEX] and [QCK] orbs into [PSY] orbs",
+        special: "Cambia los orbes [DEX] y [QCK] en orbes [PSY]",
         specialName: "Solid Beast Supreme Technique: Owl Strike",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     758: {
-        special: "Changes [DEX] and [QCK] orbs into [PSY] orbs",
+        special: "Cambia los orbes [DEX] y [QCK] en orbes [PSY]",
         specialName: "Solid Beast Supreme Technique: Owl Strike",
-        captain: "Boosts ATK of PSY characters by 2x, recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes PSY x2, regenera 3x RCV en HP al final de cada turno"
     },
     759: {
-        special: "Switches orbs between slots 3 times, locks all orbs for 1 turn",
+        special: "Cambia orbes entre ranuras libremente tres veces, bloquea todos los orbes por 1 turno",
         specialName: "Life Return: Shishi Finger Pistol",
-        captain: "Boosts ATK of STR characters by 2.5x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes STR x2.5 si el HP es inferior al 30% al inicio del turno"
     },
     760: {
-        special: "Switches orbs between slots 3 times, locks all orbs for 1 turn",
+        special: "Cambia orbes entre ranuras libremente tres veces, bloquea todos los orbes por 1 turno",
         specialName: "Life Return: Shishi Finger Pistol",
-        captain: "Boosts ATK of STR characters by 3x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes STR x3 si el HP es inferior al 30% al inicio del turno"
     },
     761: {
-        special: "Deals 15x character's ATK in DEX damage to one enemy, boosts ATK of all characters by 1.2x for 1 turn",
+        special: "Hace 15x ATK en daño DEX a un enemigo, multiplica el ATK de todos los personajes x1.2 durante 1 turno",
         specialName: "Gum-Gum Monster Pistol",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     762: {
-        special: "Boosts ATK of PSY characters by 1.75x for 1 turn",
+        special: "Multiplica el ATK de los personajes PSY x1.75 durante 1 turno",
         specialName: "Impact Beast",
-        captain: "Boosts ATK and RCV of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.5"
     },
     763: {
-        special: "Changes own orb into [STR], switches orbs between slots once",
+        special: "Cambia su propio orbe a [STR], cambia orbes entre ranuras libremente una vez",
         specialName: "Franken-Franky Centaur",
-        captain: "Boosts ATK of STR characters by 2x"
+        captain: "Multiplica el ATK de los personajes STR x2"
     },
     764: {
-        special: "Recovers 3,000 HP",
+        special: "Regenera 3000 HP",
         specialName: "Cat Burglar Trick",
-        captain: "Boosts ATK and RCV of Striker characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Striker x1.5"
     },
     765: {
-        special: "Reduces Despair duration by 3 turns",
+        special: "Reduca la duración de la anulación de capitán en 3 turnos",
         specialName: "Scope Magic",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     766: {
-        special: "Deals 7x character's ATK in QCK damage to all enemies, delays all enemies for 1 turn",
+        special: "Hace 7x ATK en daño QCK a todos los enemigos, retarda a todos los enemigos 1 turno",
         specialName: "108 Pound Phoenix: Reaper",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     767: {
         special: {
-            "japan": "Changes the orbs in the top row into [DEX] orbs, removes blindness",
-            "global": "Changes the orbs in the top row into [DEX] orbs, reduces Despair duration by 1 turn"
+            "japan": "Cambia los orbes de la fila de arriba a orbes [DEX], elimina la ceguera",
+            "global": "Cambia los orbes de la fila de arriba a orbes [DEX], reduce la anulación de capitán en 1 turno"
         },
         specialName: "Ojos Fleur: Thriller",
-        captain: "Boosts ATK and RCV of DEX characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.5"
     },
     768: {
-        special: "Recovers 15x character's RCV in HP, changes [TND] orbs into [RCV] orbs",
+        special: "Regenera 15x RCV en HP, cambia los orbes [TND] en orbes [RCV]",
         specialName: "Hot Rock Stew: Party",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     769: {
-        special: "Recovers 4,343 HP, poisons all enemies",
+        special: "Regenera 4343 HP, envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "Lullaby Parry: Horror",
-        captain: "Boosts ATK and RCV of INT characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes INT x1.5"
     },
     770: {
-        special: "Deals 15x character's ATK in STR damage to one enemy, boosts ATK against delayed enemies by 1.3x for 2 turns",
+        special: "Hace 15x ATK en daño STR a un enemigo, multiplica el ATK contra los enemigos retardados x1.3 durante 2 turnos",
         specialName: "Shigan: Convergence",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of STR characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de los personajes STR x2"
     },
     771: {
-        special: "Deals 15x character's ATK in PSY damage to one enemy, boosts ATK of Cerebral characters by 1.75x for 1 turn",
+        special: "Hace 15x ATK en daño PSY a un enemigo, multiplica el ATK de los personajes Cerebral x1.75 durante 1 turno",
         specialName: "Moonwalk: Air Walking",
-        captain: "Boosts ATK of Cerebral characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Cerebral x2.5"
     },
     772: {
-        special: "Cuts the current HP of each enemy by 10%, changes [PSY] and [INT] orbs into [DEX] orbs",
+        special: "Corta un 10% del HP actual de cada enemigo, cambia los orbes [PSY] y [INT] en orbes [DEX]",
         specialName: "Eight-Sword Style: Brave Warrior's Continuous Attack",
-        captain: "Boosts ATK of Slasher characters by 2x, reduces damage received from QCK enemies by 20%"
+        captain: "Multiplica el ATK de los personajes Slasher x2, reduce el daño recibido de enemigos QCK en un 20%"
     },
     773: {
-        special: "Reduces any damage received above 3,000 HP by 80% for 1 turn",
-        specialNotes: "The exact formula for the damage received is: 3000 + ((total damage) - 3000) * 0.2",
+        special: "Reduce cualquier daño recibido por encima de 3000 en un 80% durante 1 turno",
+        specialNotes: "The exact formula for the damage received is: 3000 + ((daño total) - 3000) * 0.2",
         specialName: "Rust-Rust Fruit",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     774: {
-        special: "Randomly changes [TND], [RCV], [EMPTY], [BLOCK] and [BOMB] orbs into either [STR], [DEX], [QCK], [PSY] or [INT] orbs, switches orbs between slots 3 times",
+        special: "Cambia aleatoriamente los orbes [TND], [RCV], [EMPTY], [BLOCK] y [BOMB] en orbes [STR], [DEX], [QCK], [PSY] o [INT] orbs, cambia orbes entre ranuras libremente tres veces",
         specialName: "Berry-Berry Fruit",
-        captain: "Boosts ATK of Free Spirit characters by 2x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     775: {
-        special: "Deals several times the character's ATK in PSY damage to one enemy",
-        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño PSY a un enemigo",
+        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (HP restante) / (HP total) )}",
         specialName: "Angry Headbutt",
-        captain: "Boosts ATK and HP of Cerebral characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes Cerebral x1.5"
     },
     776: {
         specialName: "Boisterous Lucky Shot!!",
-        special: "Recovers 5,000 HP, deals 15x character's ATK in PSY damage to one enemy, seals himself for 3 turns",
-        captain: "Boosts ATK and RCV of PSY characters by 1.25x"
+        special: "Regenera 5000 HP, hace 15x ATK en daño PSY a un enemigo, se encadena a sí mismo durante 3 turnos",
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.25"
     },
     777: {
-        special: "Recovers 5,000 HP, deals 15x character's ATK in PSY damage to one enemy, seals himself for 3 turns",
+        special: "Regenera 5000 HP, hace 15x ATK en daño PSY a un enemigo, se encadena a sí mismo durante 3 turnos",
         specialName: "Boisterous Lucky Shot!!",
-        captain: "Boosts ATK and RCV of PSY characters by 1.75x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.75"
     },
     778: {
-        special: "Deals several times the character's ATK in QCK damage to one enemy, changes own orb into [QCK]",
-        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño QCK a un enemigo, cambia su propio orbe a [QCK]",
+        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (HP restante) / (HP total) )}",
         specialName: "Undefeated Sword Technique",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     779: {
-        special: "Deals several times the character's ATK in QCK damage to one enemy, changes own orb into [QCK]",
-        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Hace varias veces el ATK en daño QCK a un enemigo, cambia su propio orbe a [QCK]",
+        specialNotes: "#{specialProportional : lower : 125 * ( 1 - (HP restante) / (HP total) )}",
         specialName: "Undefeated Sword Technique",
-        captain: "Reduces damage received by 25%"
+        captain: "Reduce el daño recibido en un 25%"
     },
     780: {
         special: "Boosts own ATK by a variable factor for 1 turn",
