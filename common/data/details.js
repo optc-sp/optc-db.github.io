@@ -4403,26 +4403,26 @@ window.details = {
     934: {
         captain: "Multiplica el ATK de los personajes Fighter x2, y su HP x1.5. Si el HP se sitúa por encima del 70% o por debajo del 30%, multiplica el ATK de los personajes Fighter x2.75",
         specialName: "Fishman Karate!! Shark Fist Tile Breaker",
-        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficioso",
+        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficiosos",
         specialNotes: "Decrece el margen para acertar el Perfect. (La animación sigue igual)"
     },
     935: {
         captain: "Multiplica el ATK de los personajes Fighter x2, y su HP x1.5. Si el HP se sitúa por encima del 70% o por debajo del 30%, multiplica el ATK de los personajes Fighter x2.75",
         specialName: "Fishman Karate!! Shark Fist Tile Breaker",
-        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficioso",
+        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficiosos",
         specialNotes: "Decrece el margen para acertar el Perfect. (La animación sigue igual)"
     },
     936: {
-        captain: "Boosts Chain Multiplier by 3x",
+        captain: "Potencia el multiplicador de combo x3",
         specialName: "Gum-Gum Giant Jet Shell",
-        special: "Deals 20x ATK as [QCK] damage, and makes Perfects easier to hit",
-        specialNotes: "Increases timing window to hit a Perfect. (Animation remains the same)"
+        special: "Hace 20x ATK en daño QCK, y hace los Perfect más faciles de acertar",
+        specialNotes: "Incrementa el margen para acertar el Perfect. (La animación sigue igual)"
     },
     937: {
-        captain: "Boosts Chain Multiplier by 3.5x and boosts HP by 1.25x",
+        captain: "Potencia el multiplicador de combo x3.5 y multiplica el HP x1.25",
         specialName: "Gum-Gum Giant Jet Shell",
-        special: "Deals 20x ATK as [QCK] damage, and makes Perfects easier to hit",
-        specialNotes: "Increases timing window to hit a Perfect. (Animation remains the same)"
+        special: "Hace 20x ATK en daño QCK, y hace los Perfect más faciles de acertar",
+        specialNotes: "Incrementa el margen para acertar el Perfect. (La animación sigue igual)"
     },
     938: {
         captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Cerebral characters by 1.5x",
