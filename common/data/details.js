@@ -4109,113 +4109,113 @@ window.details = {
         special: "Cambia los orbes [STR] en orbes [DEX], hace 10x ATK en daño DEX a todos los enemigos"
     },
     891: {
-        captain: "Boosts ATK and RCV of Powerhouse characters by 1.75x",
+        captain: "Multiplica el ATK y el RCV de los personajes Powerhouse x1.75",
         specialName: "Resurrection of the Dead",
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Powerhouse characters by 1.25x for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, multiplica el ATK de los personajes Powerhouse x1.25 durante 1 turno",
         },
     892: {
-        captain: "Boosts chain multiplier by 2x",
+        captain: "Potencia el multiplicador de combo x2",
         specialName: "Hands of the Dead",
-        special: "Switches orbs between slots three times"
+        special: "Cambia orbes entre ranuras libremente tres veces"
     },
     893: {
-        captain: "Boosts ATK of Powerhouse characters by 3x after scoring 3 Perfects in a row",
+        captain: "Multiplica el ATK de los personajes Powerhouse x3 después de acertar 3 Perfect seguidos",
         specialName: "Oars Ball",
-        special: "Reduces damage received by 50% for 1 turn, deals 30x character's ATK in STR damage to all enemies"
+        special: "Reduce el daño recibido en un 50% durante 1 turno, hace 30x ATK en daño STR a todos los enemigos"
     },
     894: {
-        captain: "Boosts ATK of Driven characters by 3x following a chain of Good > Great > Perfect hits",
+        captain: "Multiplica el ATK de los personajes Driven x3 siguiendo una cadena de golpes Good > Great > Perfect",
         specialName: "Brick Bat: Black Box",
-        special: "Empties all slots with [INT] orbs, deals several times the character's ATK in INT damage to one enemy",
-        specialNotes: "The exact multiplier used is chosen based on the number of [INT] orbs consumed: 1 orb will give a 10x multiplier, 2 orbs 15x, 3 orbs 20x, 4 orbs 50x, 5 orbs 100x, 6 orbs 200x. It's not possible to activate the special without consuming at least one [INT] orb."
+        special: "Vacía todas las ranuras con orbes [INT], hace varias veces el ATK del personaje en daño INT a un enemigo",
+        specialNotes: "El multiplicador exacto es elegido en base a la cantidad de orbes [INT] consumidos: 1 orbe dará un multiplicador x10, 2 orbes x15, 3 orbes x20, 4 orbes x50, 5 orbes x100, 6 orbes x200. No es posible activar el especial sin consumir al menos un orbe [INT]."
     },
     895: {
-        captain: "Boosts ATK of Slasher characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Slasher x1.5",
         specialName: "Dying Chorus: Binks' Sake",
-        special: "Recovers 6x character's RCV in HP at the end of each turn for 3 turns"
+        special: "Regenera 6x RCV en HP al final de cada turno durante 3 turnos"
     },
     896: {
-        captain: "Boosts ATK of Slasher characters by 2x",
+        captain: "Multiplica el ATK de los personajes Slasher x2",
         specialName: "Dying Chorus: Binks' Sake",
-        special: "Recovers 6x character's RCV in HP at the end of each turn for 3 turns"
+        special: "Regenera 6x RCV en HP al final de cada turno durante 3 turnos"
     },
     897: {
-        captain: "Boosts ATK of Cerebral and Driven characters by 2x",
+        captain: "Multiplica el ATK de los personajes Cerebral y Driven x2",
         specialName: "Ground Death: Thirst",
-        special: "Changes own orb into [STR], randomizes all other orbs, cuts the current HP of all enemies by 10%"
+        special: "Cambia su propio orbe a [STR], cambia aleatoriamente el resto de orbes, corta un 10% del HP actual de cada enemigo"
     },
     898: {
-        captain: "Boosts ATK and HP of Striker and Cerebral characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes Striker y Cerebral x1.5",
         specialName: "Championship Fight: Little Garden Three",
-        special: "Deals 10x character's ATK in QCK damage to all enemies, changes adjacent orbs into [G] orbs",
+        special: "Hace 10x ATK en daño QCK a todos los enemigos, cambia los orbes adyacentes en orbes [G]",
         specialNotes: "#{gOrbs}"
     },
     899: {
-        captain: "Boosts ATK of Fighter and Free Spirit characters by 1.75x and their RCV by 1.25x",
+        captain: "Multiplica el ATK de los personajes Fighter y Free Spirit x1.75 y su RCV x1.25",
         specialName: "Hymn to Friendship: \"Okama Way\" Two",
-        special: "Reduces Despair duration by 5 turns, recovers 10x character's RCV in HP"
+        special: "Reduce la duración de la anulación de capitán en 5 turnos, regenera 10x RCV en HP"
     },
     900: {
-        captain: "Boosts ATK of Shooter characters by 2x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Shooter x2 si el HP es superior al 99% al inicio del turno",
         specialName: "Franky Destroy Gun",
-        special: "Deals 6 hits of 2,000 fixed damage to random enemies, randomly changes opposite orbs on Shooter and Free Spirit characters into either [G] orbs or matching orbs",
-        specialNotes: "The orb shuffle only applies to Shooter and Free Spirit characters, other classes are unaffected. #{gOrbs}"
+        special: "Hace 6 golpes de 2000 en daño fijo a enemigos aleatorios, cambia aleatoriamente los orbes negativos en personajes Shooter y Free Spirit en orbes [G] o orbes beneficiosos",
+        specialNotes: "El cambio de orbes solo afecta a los personajes Shooter y Free Spirit, las otras clases no son afectadas. #{gOrbs}"
     },
     901: {
-        captain: "Boosts ATK of Shooter characters by 2.75x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Shooter x2.75 si el HP es superior al 99% al inicio del turno",
         specialName: "Franky Destroy Gun",
-        special: "Deals 6 hits of 2,000 fixed damage to random enemies, randomly changes opposite orbs on Shooter and Free Spirit characters into either [G] orbs or matching orbs",
-        specialNotes: "The orb shuffle only applies to Shooter and Free Spirit characters, other classes are unaffected. #{gOrbs}"
+        special: "Hace 6 golpes de 2000 en daño fijo a enemigos aleatorios, cambia aleatoriamente los orbes negativos en personajes Shooter y Free Spirit en orbes [G] o orbes beneficiosos",
+        specialNotes: "El cambio de orbes solo afecta a los personajes Shooter y Free Spirit, las otras clases no son afectadas. #{gOrbs}"
     },
     902: {
-        captain: "Boosts ATK and HP of Powerhouse characters by 1.25x",
+        captain: "Multiplica el ATK y el HP de los personajes Powerhouse x1.25",
         specialName: "Hakoku Sovereignity",
-        special: "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
+        special: "Hace 20x ATK en daño del tipo del personaje a todos los enemigos, multiplica el ATK de los personajes Powerhouse x1.5 durante 1 turno. Si \"Hakoku Sovereignity\" es usado de nuevo en el mismo turno que se activó el especial, multiplica el ATK de los personajes Powerhouse x2 en su lugar."
     },
     903: {
-        captain: "Boosts ATK and HP of Powerhouse characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes Powerhouse x1.5",
         specialName: "Hakoku Sovereignity",
-        special: "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
+        special: "Hace 20x ATK en daño del tipo del personaje a todos los enemigos, multiplica el ATK de los personajes Powerhouse x1.5 durante 1 turno. Si \"Hakoku Sovereignity\" es usado de nuevo en el mismo turno que se activó el especial, multiplica el ATK de los personajes Powerhouse x2 en su lugar."
     },
     904: {
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}",
         specialName: "Yokozuna Slap!",
-        special: "Deals 20x character's ATK in STR damage to one enemy, delays all enemies for 1 turn"
+        special: "Hace 20% ATK en daño STR a un enemigo, retarda a todos los enemigos 1 turno"
     },
     905: {
-        captain: "Boosts ATK of Slasher characters by 2.5x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Slasher x2.5 si el HP está por debajo del 30% al inicio del turno",
         specialName: "Two Gorilla Cut",
         special: [
             {
-                "description": "Changes own orb into [STR], boosts his own ATK by 1.5x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica su propio ATK x1.5 durante 2 turnos",
                 "cooldown": [ 17, 11 ]
             },
             {
-                "description": "Changes own orb into [STR], boosts ATK of Slasher characters by 1.5x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica el ATK de los personajes Slasher x1.5 durante 2 turnos",
                 "cooldown": [ 21, 15 ]
             },
             {
-                "description": "Changes own orb into [STR], boosts ATK of Slasher characters by 1.75x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica el ATK de los personajes Slasher x1.75 durante 2 turnos",
                 "cooldown": [ 24, 18 ]
             }
         ],
         specialNotes: "#{stages}"
     },
     906: {
-        captain: "Boosts ATK of Slasher characters by 2.75x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Slasher x2.75 si el HP está por debajo del 30% al inicio del turno",
         specialName: "Two Gorilla Cut",
         special: [
             {
-                "description": "Changes own orb into [STR], boosts his own ATK by 1.5x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica su propio ATK x1.5 durante 2 turnos",
                 "cooldown": [ 17, 11 ]
             },
             {
-                "description": "Changes own orb into [STR], boosts ATK of Slasher characters by 1.5x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica el ATK de los personajes Slasher x1.5 durante 2 turnos",
                 "cooldown": [ 21, 15 ]
             },
             {
-                "description": "Changes own orb into [STR], boosts ATK of Slasher characters by 1.75x for 2 turns",
+                "description": "Cambia su propio orbe a [STR], multiplica el ATK de los personajes Slasher x1.75 durante 2 turnos",
                 "cooldown": [ 24, 18 ]
             }
         ],
@@ -4223,64 +4223,64 @@ window.details = {
     },
     907: {
         specialName: "Cien Fleur: Big Tree",
-        special: "Delays all enemies for 1 turn, locks all orbs for 1 turn, deals 5,000 fixed damage to all enemies, reduces crew's HP to 1",
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.5x if HP is below 30% at the start of the turn"
+        special: "Retarda a todos los enemigos 1 turno, bloquea todos los orbes por 1 turno, hace 5000 en daño fijo a todos los enemigos, reduce el HP de la tripulación a 1",
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5 si el HP es inferior al 30% al inicio del turno"
     },
     908: {
         specialName: "Cien Fleur: Big Tree",
-        special: "Delays all enemies for 1 turn, locks all orbs for 1 turn, deals 5,000 fixed damage to all enemies, reduces crew's HP to 1",
-        captain: "Boosts ATK of Cerebral characters by 2.5x and their RCV by 1.75x if HP is below 30% at the start of the turn"
+        special: "Retarda a todos los enemigos 1 turno, bloquea todos los orbes por 1 turno, hace 5000 en daño fijo a todos los enemigos, reduce el HP de la tripulación a 1",
+        captain: "Multiplica el ATK de los personajes Cerebral x2.5 y su RCV x1.75 si el HP es inferior al 30% al inicio del turno"
     },
     909: {
-        captain: "Boosts ATK and RCV of PSY characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.5",
         specialName: "Hero of Justice! Chopper Mask!!",
-        special: "Recovers 5,000 HP, boosts ATK of PSY characters by 1.5x for 2 turns"
+        special: "Regenera 5000 HP, multiplica el ATK de los personajes PSY x1.5 durante 2 turnos"
     },
     910: {
         specialName: "Hero of Justice! Chopper Mask!!",
-        special: "Recovers 5,000 HP, boosts ATK of PSY characters by 1.5x for 2 turns",
-        captain: "Boosts ATK of PSY characters by 2x, their RCV by 1.5x, makes INT orbs \"beneficial\" to PSY characters",
-        captainNotes: "\"Beneficial\" orbs grant the same ATK boost as matching orbs."
+        special: "Regenera 5000 HP, multiplica el ATK de los personajes PSY x1.5 durante 2 turnos",
+        captain: "Multiplica el ATK de los personajes PSY x2, su RCV x1.5, hace los orbes INT \"beneficiosos\" para los personajes PSY",
+        captainNotes: "Los orbes \"beneficiosos\" otorgan el mismo multiplicador que un orbe PSY."
     },
     911: {
         specialName: "Diable Jambe: Premier Hachis",
         special: [
             {
-                "description": "Deals 13x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 1.2x for 1 turn",
+                "description": "Hace 13x ATK en daño DEX a un enemigo, multiplica el ATK de los personajes Powerhouse x1.2 durante 1 turno",
                 "cooldown": [ 15, 8 ]
             },
             {
-                "description": "Deals 20x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 2x for 1 turn",
+                "description": "Hace 20x ATK en daño DEX a un enemigo, multiplica el ATK de los personajes Powerhouse x2 durante 1 turno",
                 "cooldown": [ 25, 18 ]
             }
         ],
-        captain: "Boosts ATK and HP of Powerhouse characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personaje Powerhouse x1.5",
         specialNotes: "#{stages}"
     },
     912: {
         specialName: "Diable Jambe: Premier Hachis",
         special: [
             {
-                "description": "Deals 13x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 1.2x for 1 turn",
+                "description": "Hace 13x ATK en daño DEX a un enemigo, multiplica el ATK de los personajes Powerhouse x1.2 durante 1 turno",
                 "cooldown": [ 15, 8 ]
             },
             {
-                "description": "Deals 20x character's ATK in DEX damage to one enemy, boosts ATK of Powerhouse characters by 2x for 1 turn",
+                "description": "Hace 20x ATK en daño DEX a un enemigo, multiplica el ATK de los personajes Powerhouse x2 durante 1 turno",
                 "cooldown": [ 25, 18 ]
             }
         ],
-        captain: "Boosts ATK of Powerhouse characters by 2.25x, and their HP by 1.5x. Recovers 2x character's RCV in HP at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.25, y su HP x1.5. Regenera 2x RCV en HP al final de cada turno",
         specialNotes: "#{stages}"
     },
     913: {
-        captain: "Boosts ATK of QCK characters by 2.5x if they have a matching orb",
+        captain: "Multiplica el ATK de los personajes QCK x2.5 si tienen un orbe beneficioso",
         specialName: "Black Magic Summoning: Advent of the Demon Lord Satan",
-        special: "Seals himself for 1 turn, changes [BLOCK] orbs into matching orbs, randomly changes opposite orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs"
+        special: "Se encadena a sí mismo por 1 turno, cambia los orbes [BLOCK] a orbe beneficioso, cambia aleatoriamente el resto de orbes a [STR], [QCK], [DEX], [PSY] o [INT]"
     },
     914: {
-        captain: "Boosts ATK of QCK characters by 3x if they have a matching orb, by 1.2x otherwise",
+        captain: "Multiplica el ATK de los personajes QCK x2.5 si tienen un orbe beneficioso, x1.2 en caso contrario",
         specialName: "Black Magic Summoning: Advent of the Demon Lord Satan",
-        special: "Seals himself for 1 turn, changes [BLOCK] orbs into matching orbs, randomly changes opposite orbs into either [STR], [QCK], [DEX], [PSY] or [INT] orbs"
+        special: "Se encadena a sí mismo por 1 turno, cambia los orbes [BLOCK] a orbe beneficioso, cambia aleatoriamente el resto de orbes a [STR], [QCK], [DEX], [PSY] o [INT]"
     },
     915: {
         captain: "Boosts ATK and RCV of Cerebral characters by 1.2x",
