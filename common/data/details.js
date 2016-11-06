@@ -3319,67 +3319,67 @@ window.details = {
         captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     746: {
-        special: "Deals 10x character's ATK in QCK damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Hace 10x ATK en daño QCK a todos los enemigos, protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialName: "Megalo Assault!",
         specialNotes: "#{zombie}",
-        captain: "Protects from defeat as long as HP is above 30%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 30%",
         captainNotes: "#{zombie}"
     },
     747: {
-        special: "Deals 35x character's ATK in STR damage to one enemy, boosts chances of getting matching orbs for 3 turns",
+        special: "Hace 35x ATK en daño STR a un enemigo, incrementa la posibilidad de conseguir orbes beneficiosos durante 3 turnos",
         specialName: "Rokuougan",
-        captain: "Boosts ATK of Powerhouse characters by 3x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0"
+        captain: "Multiplica el ATK de los personajes Powerhouse x3 si tienen un orbe beneficioso, x2.5 en caso contrario, reduce el RCV de la tripulación a 0"
     },
     748: {
-        special: "Deals 35x character's ATK in STR damage to one enemy, boosts chances of getting matching orbs for 3 turns",
+        special: "Hace 35x ATK en daño STR a un enemigo, incrementa la posibilidad de conseguir orbes beneficiosos durante 3 turnos",
         specialName: "Rokuougan",
-        captain: "Boosts ATK of Powerhouse characters by 3x if they have a matching orb, by 2.5x otherwise, reduces crew's RCV to 0"
+        captain: "Multiplica el ATK de los personajes Powerhouse x3 si tienen un orbe beneficioso, x2.5 en caso contrario, reduce el RCV de la tripulación a 0"
     },
     749: {
-        special: "Deals random DEX damage to all enemies, randomizes all orbs",
+        special: "Hace una cantidad aleatoria en daño DEX a todos los enemigos, cambia aleatoriamente todos los orbes",
         specialName: "Tempest Kick: Sky Slicer",
-        specialNotes: "The random damage is between 10,000 and 90,000",
-        captain: "Boosts ATK of DEX characters by 1.5x, boosts damage of DEX specials by 1.5x",
+        specialNotes: "El daño aleatorio se sitúa entre 10000 y 90000",
+        captain: "Multiplica el ATK de los personajes DEX x1.5, multiplica el daño de los especiales DEX x1.5",
         captainNotes: "#{noFixedPerc}"
     },
     750: {
-        special: "Deals random DEX damage to all enemies, randomizes all orbs",
+        special: "Hace una cantidad aleatoria en daño DEX a todos los enemigos, cambia aleatoriamente todos los orbes",
         specialName: "Tempest Kick: Sky Slicer",
-        specialNotes: "The random damage is between 10,000 and 90,000",
-        captain: "Boosts ATK of DEX characters by 2x, boosts damage of DEX specials by 2x",
+        specialNotes: "El daño aleatorio se sitúa entre 10000 y 90000",
+        captain: "Multiplica el ATK de los personajes DEX x2, multiplica el daño de los especiales DEX x2",
         captainNotes: "#{noFixedPerc}"
     },
     751: {
-        special: "Reduces damage received in the next turn by 50% if the special is activated with more than 50% health remaining, by 80% if activated with less than 50% but more than 10% health remaining, by 100% if activated with less than 10% health remaining",
+        special: "Reduce el daño recibido en el siguiente turno en un 50% si el especial se activa con más del 50% del HP, en un 80% si el especial se activa con menos del 50% pero más del 10% restante, en un 100% si se activa con menos del 10% restante",
         specialName: "Sheep Cloud Tidal Wave",
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5"
     },
     752: {
-        special: "Reduces damage received in the next turn by 50% if the special is activated with more than 50% health remaining, by 80% if activated with less than 50% but more than 10% health remaining, by 100% if activated with less than 10% health remaining",
+        special: "Reduce el daño recibido en el siguiente turno en un 50% si el especial se activa con más del 50% del HP, en un 80% si el especial se activa con menos del 50% pero más del 10% restante, en un 100% si se activa con menos del 10% restante",
         specialName: "Sheep Cloud Tidal Wave",
-        captain: "Boosts ATK of Cerebral characters by 2.25x and their RCV by 1.5x"
+        captain: "Multiplica el ATK de los personajes Cerebral x2.25 y su RCV x1.5"
     },
     753: {
-        special: "Deals 15x character's ATK in QCK damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Hace 15x ATK en daño QCK a un enemigo, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{orb : 1.75x}",
         specialName: "Moonlight Ten Finger Pistol",
-        captain: "Boosts ATK of Powerhouse characters by 2x"
+        captain: "Multiplica el ATK de los personajes Powerhouse x2"
     },
     754: {
-        special: "Deals 15x character's ATK in QCK damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Hace 15x ATK en daño QCK a un enemigo, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{orb : 1.75x}",
         specialName: "Moonlight Ten Finger Pistol",
-        captain: "Boosts ATK of Powerhouse characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.5"
     },
     755: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Powerhouse characters by 1.75x for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, multiplica el ATK de los personajes Powerhouse x1.75 durante 1 turno",
         specialName: "Tekkai - Rin",
-        captain: "Boosts ATK of INT characters by 1.5x, reduces damage received from PSY enemies by 20%"
+        captain: "Multiplica el ATK de los personajes INT x1.5, reduce el daño recibido de enemigos INT en un 20%"
     },
     756: {
-        special: "Reduces damage received by 50% for 1 turn, boosts ATK of Powerhouse characters by 1.75x for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, multiplica el ATK de los personajes Powerhouse x1.75 durante 1 turno",
         specialName: "Tekkai - Rin",
-        captain: "Boosts ATK of INT characters by 2x, reduces damage received from PSY enemies by 30%"
+        captain: "Multiplica el ATK de los personajes INT x2, reduce el daño recibido de enemigos INT en un 30%"
     },
     757: {
         special: "Changes [DEX] and [QCK] orbs into [PSY] orbs",
