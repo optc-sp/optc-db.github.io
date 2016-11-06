@@ -2835,100 +2835,100 @@ window.details = {
         captain: "Multiplica el ATK de los personajes INT x2 y su RCV x1.5"
     },
     652: {
-        special: "Cuts the current HP of each enemy by 20%, reduces damage received by 50% for 1 turn",
+        special: "Corta un 20% del HP actual de cada enemigo, reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Heart-Smashing Horn",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of DEX characters by 2x if they have matching orbs"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes DEX x2 si tienen un orbe beneficioso"
     },
     653: {
-        special: "Cuts the current HP of each enemy by 20%, reduces damage received by 50% for 1 turn",
+        special: "Corta un 20% del HP actual de cada enemigo, reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Heart-Smashing Horn",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of DEX characters by 2.25x if they have matching orbs"
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de los personajes DEX x2.25 si tienen un orbe beneficioso"
     },
     654: {
-        special: "Cuts the current HP of each enemy by 20%, reduces damage received by 50% for 1 turn",
+        special: "Corta un 20% del HP actual de cada enemigo, reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Heart-Smashing Horn",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of DEX characters by 2.75x if they have matching orbs"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes DEX x2.75 si tienen un orbe beneficioso"
     },
     655: {
-        special: "Changes [EMPTY] and [TND] orbs into [STR] orbs, deals 10x character's ATK in STR damage to one enemy, amplifies the effect of orbs by 1.25x for 2 turns",
+        special: "Cambia los orbes [EMPTY] y [TND] en orbes [STR], hace 10x ATK en daño STR a un enemigo, amplifica el efecto de los orbes x1.25 durante 2 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Tooth Gum",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     656: {
-        special: "Changes [EMPTY] and [TND] orbs into [STR] orbs, deals 10x character's ATK in STR damage to one enemy, amplifies the effect of orbs by 1.25x for 2 turns",
+        special: "Cambia los orbes [EMPTY] y [TND] en orbes [STR], hace 10x ATK en daño STR a un enemigo, amplifica el efecto de los orbes x1.25 durante 2 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Tooth Gum",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of STR characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes STR x2"
     },
     657: {
-        special: "Randomly changes [INT] and [PSY] orbs into either [STR] or [EMPTY] orbs",
+        special: "Cambia aleatoriamente los orbes [INT] y [PSY] en orbes [STR] o [EMPTY]",
         specialName: "Forearm Sledge",
-        captain: "Boosts ATK of Fighter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.5"
     },
     658: {
-        special: "Randomly changes all orbs into either [INT] or [PSY] orbs",
+        special: "Cambia aleatoriamente todos los orbes en orbes [INT] o [PSY]",
         specialName: "Lipowertzer",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     659: {
-        special: "Reduces Bind and Despair duration by 2 turns, reduces damage received by 50% for 2 turns",
+        special: "Reduce la duración de las cadenas y la anulacion de capitán en 2 turnos, reduce el daño recibido en un 50% durante 2 turnos",
         specialName: "Gum-Gum Balloon Swim",
-        captain: "Boosts ATK by 2.5x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x2.5 después de acertar 3 Perfect seguidos"
     },
     660: {
-        special: "Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Retarda a todos los enemigos 2 turnos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Atlas Comet",
-        captain: "Boosts ATK of Shooter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Shooter x2"
     },
     661: {
-        special: "Delays all enemies for 2 turns, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Retarda a todos los enemigos 2 turnos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Atlas Comet",
-        captain: "Boosts ATK of Shooter characters by 2x, reduces cooldown of all specials by 1 turn at the start of the fight"
+        captain: "Multiplica el ATK de los personajes Shooter x2, Reduce la carga de todos los especiales en 1 turno"
     },
     662: {
-        special: "Deals 13x character's ATK in PSY damage to one enemy, randomizes all orbs other than [PSY]",
+        special: "Hace 13x ATK en daño PSY a un enemigo, cambia aleatoriamente todos los orbes distintos de [PSY]",
         specialName: "Tornado Tempo - Beach Side",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ATK de los personajes PSY x2"
     },
     663: {
-        special: "Deals PSY damage to one enemy according to HP, recovers 5x character's RCV in HP at the end of each turn for 5 turns",
-        specialNotes: "The exact damage is proportional to the crew's remaining HP and is higher the lower the HP is. The formula used is 80000 * (1 - (current HP) / (total HP))",
+        special: "Hace cierta cantidad en daño PSY dependiendo del HP restante, regenera 5x RCV en HP al final de cada turno durante 5 turnos",
+        specialNotes: "El daño exacto es proporcional al HP restante y es mayor cuanto menor es el HP. La fórmula usada es 80000 * (1 - (HP actual) / (HP total))",
         specialName: "Vivi's Important Security Guard",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     664: {
-        special: "Deals PSY damage to one enemy according to HP, recovers 5x character's RCV in HP at the end of each turn for 5 turns",
-        specialNotes: "The exact damage is proportional to the crew's remaining HP and is higher the lower the HP is. The formula used is 80000 * (1 - (current HP) / (total HP))",
+        special: "Hace cierta cantidad en daño PSY dependiendo del HP restante, regenera 5x RCV en HP al final de cada turno durante 5 turnos",
+        specialNotes: "El daño exacto es proporcional al HP restante y es mayor cuanto menor es el HP. La fórmula usada es 80000 * (1 - (HP actual) / (HP total))",
         specialName: "Vivi's Important Security Guard",
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     665: {
-        special: "Changes own orb into [QCK], boosts ATK against enemies with reduced defense by 1.3x for 2 turns",
+        special: "Cambia su propio orbe a [QCK], multiplica el ATK contra enemigos con defensa reducida x1.3 durante 2 turnos",
         specialName: "Let's Go! Suna Suna Clan!!",
-        captain: "Boosts ATK of all characters by 1.2x, reduces HP and RCV of all characters by 80%"
+        captain: "Multiplica el ATK de todos los personajes x1.2, reduce el HP y RCV de todos los personajes en un 80%"
     },
     666: {
-        special: "Changes own orb into [QCK], boosts ATK against enemies with reduced defense by 1.3x for 2 turns",
+        special: "Cambia su propio orbe a [QCK], multiplica el ATK contra enemigos con defensa reducida x1.3 durante 2 turnos",
         specialName: "Let's Go! Suna Suna Clan!!",
-        captain: "Boosts ATK of all characters by 1.75x, reduces HP and RCV of all characters by 80%"
+        captain: "Multiplica el ATK de todos los personajes x1.2, reduce el HP y RCV de todos los personajes en un 80%"
     },
     667: {
-        special: "Protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialName: "King's Chopper",
         specialNotes: "#{zombie}",
-        captain: "Reduces damage received by 10%, boosts ATK of all characters by 1.5x"
+        captain: "Reduce el daño recibido en un 10%, multiplica el ATK de todos los personajes x1.5"
     },
     668: {
-        special: "Boosts ATK of Free Spirit characters by 1.5x for 1 turn. If during that turn every unit scores a Perfect hit, boosts ATK of Free Spirit characters by 2x in the following turn.",
+        special: "Multiplica el ATK de los personajes Free Spirit x1.5 durante 1 turno. Si durante este turno todas las unidades aciertan Perfect, multiplica el ATK de los personajes Free Spirit x2 en el siguiente turno.",
         specialName: "Dragon's Claw",
-        captain: "Boosts HP and RCV of all characters by 1.2x, boosts ATK of Free Spirit characters proportionally to the crew's current HP",
+        captain: "Multiplica el HP y el RCV de todos los personajes x1.2, multiplica el ATK de los personajes Free Spirit proporcionalmente a el HP actual",
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     669: {
-        special: "Boosts ATK of Free Spirit characters by 1.5x for 1 turn. If during that turn every unit scores a Perfect hit, boosts ATK of Free Spirit characters by 2x in the following turn.",
+        special: "Multiplica el ATK de los personajes Free Spirit x1.5 durante 1 turno. Si durante este turno todas las unidades aciertan Perfect, multiplica el ATK de los personajes Free Spirit x2 en el siguiente turno.",
         specialName: "Dragon's Claw",
-        captain: "Boosts HP and RCV of all characters by 1.2x, boosts ATK of Free Spirit characters proportionally to the crew's current HP",
+        captain: "Multiplica el HP y el RCV de todos los personajes x1.2, multiplica el ATK de los personajes Free Spirit proporcionalmente a el HP actual",
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     670: {
