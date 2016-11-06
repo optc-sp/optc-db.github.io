@@ -4425,14 +4425,14 @@ window.details = {
         specialNotes: "Incrementa el margen para acertar el Perfect. (La animación sigue igual)"
     },
     938: {
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Cerebral characters by 1.5x",
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de los personajes Cerebral x1.5",
         specialName: "Cyclone Burst",
-        special: "Reduces Bind duration for one character completely. For Striker and Cerebral characters, changes Bad orbs into matching"
+        special: "Reduce la duración de las cadenas para un personaje completamente. Para los personajes Striker y Cerebral, cambia los orbes negativos en beneficiosos"
     },
     939: {
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Cerebral characters by 2x",
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Cerebral x2",
         specialName: "Cyclone Burst",
-        special: "Reduces Bind duration for one character completely. For Striker and Cerebral characters, changes Bad orbs into matching"
+        special: "Reduce la duración de las cadenas para un personaje completamente. Para los personajes Striker y Cerebral, cambia los orbes negativos en beneficiosos"
     },
     940: {
         captain: "Boosts ATK and HP of [DEX] Characters by 1.5x",
