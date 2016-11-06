@@ -3162,18 +3162,18 @@ window.details = {
         captain: "Multiplica el RCV de todos los personajes x5 si el HP está por debajo del 30% al inicio del turno"
     },
     717: {
-        special: "Deals 50% of the damage dealt in the previous turn as typeless damage to all enemies",
-        specialNotes: "The special only includes the damage inflicted through normal attacks.",
+        special: "Hace un 50% del daño causado en el anterior turno en daño sin tipo a todos los enemigos",
+        specialNotes: "El especial solo incluye el daño inflingido usando ataques normales.",
         specialName: "Black Sword - Lightning Slash",
-        captain: "Boosts ATK of Slasher characters by a variable factor between 2x and 2.75x based on the timing of the attack of the previous unit in the chain",
-        captainNotes: "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a Perfect hit by 2.75x. This bonus is applied only to Slasher characters."
+        captain: "Multiplica el ATK de los personajes Slasher por un factor variable entre x2 y x2.75 basado en el golpe de la anterior unidad en la cadena",
+        captainNotes: "Un golpe por debajo de Good o un Miss multiplicará el ATK de la siguiente unidad x2, un Good x2.25, un Great x2.5 y un Perfect x2.75. Este aumento solo se aplica a personajes Slasher."
     },
     718: {
-        special: "Deals 50% of the damage dealt in the previous turn as typeless damage to all enemies",
-        specialNotes: "The special only includes the damage inflicted through normal attacks.",
+        special: "Hace un 50% del daño causado en el anterior turno en daño sin tipo a todos los enemigos",
+        specialNotes: "El especial solo incluye el daño inflingido usando ataques normales.",
         specialName: "Black Sword - Lightning Slash",
-        captain: "Boosts ATK of Slasher characters by a variable factor between 2x and 2.75x based on the timing of the attack of the previous unit in the chain",
-        captainNotes: "A hit below Good or a Miss will boost the ATK of the next unit by 2x, a Good hit by 2.25x, a Great hit by 2.5x and a Perfect hit by 2.75x. This bonus is applied only to Slasher characters."
+        captain: "Multiplica el ATK de los personajes Slasher por un factor variable entre x2 y x2.75 basado en el golpe de la anterior unidad en la cadena",
+        captainNotes: "Un golpe por debajo de Good o un Miss multiplicará el ATK de la siguiente unidad x2, un Good x2.25, un Great x2.5 y un Perfect x2.75. Este aumento solo se aplica a personajes Slasher."
     },
     719: {
         special: "Boosts ATK of Cerebral characters by a variable factor for 1 turn, deals 20x character's ATK in DEX damage to all enemies",
