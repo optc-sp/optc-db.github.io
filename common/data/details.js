@@ -4283,134 +4283,134 @@ window.details = {
         special: "Se encadena a sí mismo por 1 turno, cambia los orbes [BLOCK] a orbe beneficioso, cambia aleatoriamente el resto de orbes a [STR], [QCK], [DEX], [PSY] o [INT]"
     },
     915: {
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.2x",
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.2",
         specialName: "Feeling of Mutual Love",
-        special: "Boosts ATK and RCV of Cerebral characters by 1.5x for 1 turn"
+        special: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5 durante 1 turno"
     },
     916: {
-        captain: "Boosts ATK and RCV of Cerebral characters by 1.75x",
+        captain: "Multiplica el ATK y el RCV de los personajes Cerebral x1.75",
         specialName: "Feeling of Mutual Love",
-        special: "Boosts ATK and RCV of Cerebral characters by 1.5x for 1 turn"
+        special: "Multiplica el ATK y el RCV de los personajes Cerebral x1.5 durante 1 turno"
     },
     917: {
-        captain: "Boosts ATK of Shooter characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Shooter x1.5",
         specialName: "Kuja's Haki Arrow",
-        special: "Deals 5,000 fixed damage to one enemy, delays all enemies for 1 turn, changes [RCV] orbs on Shooter characters into matching orbs",
-        specialNotes: "The orb shuffle only applies to Shooter characters, other classes are unaffected."
+        special: "Hace 5000 en daño fijo a un enemigo, retarda a todos los enemigos 1 turno, cambia los orbes [RCV] a orbe beneficioso en los personajes Shooter",
+        specialNotes: "El cambio de orbe solo afecta a personajes Shooter, no afecta a las otras clases."
     },
     918: {
-        captain: "Boosts ATK of Shooter characters by 1.75x, recovers a small amount of health at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Shooter x1.75, recupera una pequeña cantidad de HP al final de cada turno",
         specialName: "Kuja's Haki Arrow",
-        special: "Deals 5,000 fixed damage to one enemy, delays all enemies for 1 turn, changes [RCV] orbs on Shooter characters into matching orbs",
-        specialNotes: "The orb shuffle only applies to Shooter characters, other classes are unaffected."
+        special: "Hace 5000 en daño fijo a un enemigo, retarda a todos los enemigos 1 turno, cambia los orbes [RCV] a orbe beneficioso en los personajes Shooter",
+        specialNotes: "El cambio de orbe solo afecta a personajes Shooter, no afecta a las otras clases."
     },
     919: {
         specialName: "Spike of the Warrior Defending Her Country",
-        special: "Reduces damage received from STR enemies by 50% for 2 turns"
+        special: "Reduce el daño recibido de enemigos STR en un 50% durante 2 turnos"
     },
     920: {
         specialName: "Snake Bow of the Warrior Defending Her Country",
-        special: "Changes the orbs in the middle row into [RCV] orbs, changes the orbs in the bottom row into [TND] orbs"
+        special: "Cambia los orbes en la fila del medio a orbes [RCV], cambia los orbes en la fila de abajo a orbes [TND]"
     },
     921: {
-        captain: "Boosts ATK and RCV of Free Spirit characters by 1.2x",
+        captain: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.2",
         specialName: "Pure and Beautiful Shyness",
-        special: "Recovers 5000 HP and amplifies the effect of orbs by 1.5x for 2 turns"
+        special: "Regenera 5000 HP y amplifica el efecto de los orbes x1.5 durante 2 turnos"
     },
     922: {
-        captain: "Boosts ATK and RCV of Free Spirit characters by 1.75x",
+        captain: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.75",
         specialName: "Pure and Beautiful Shyness",
-        special: "Recovers 5000 HP and amplifies the effect of orbs by 1.5x for 2 turns"
+        special: "Regenera 5000 HP y amplifica el efecto de los orbes x1.5 durante 2 turnos"
     },
     923: {
-        captain: "Boosts ATK of Driven characters by 2x or by 2.5x",
+        captain: "Multiplica el ATK de los personajes Driven x2 o x2.5",
         captainNotes: "#{captainFixed : 2x : HP<30% : 2.5x}",
         specialName: "Repel: Weapons Reflect",
-        special: "Empties all slots, deals [STR] damage based on number of [STR] slots emptied to all enemies",
-        specialNotes: "The exact multiplier used is chosen based on the number of [STR] orbs consumed: 0 orbs - 3.5x ATK; 1 orb - 7x ATK; 2 orbs - 14x ATK; 3 orbs - 21x ATK; 4 orbs - 35x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK."
+        special: "Vacía todas las ranuras, hace daño [STR] basado en el número de orbes [STR] vaciados a todos los enemigos",
+        specialNotes: "El multiplicador exacto usado está basado en el número de orbes [STR] consumidos: 0 orbes - x3.5 ATK; 1 orb - 7x ATK; 2 orbes - x14 ATK; 3 orbes - x21 ATK; 4 orbes - x35 ATK; 5 orbes - x91 ATK; 6 orbes - x140 ATK."
     },
     924: {
-        captain: "Boosts ATK of Driven characters by 2x or by 2.75x",
+        captain: "Multiplica el ATK de los personajes Driven x2 o x2.75",
         captainNotes: "#{captainFixed : 2x : HP<30% : 2.75x}",
         specialName: "Repel: Weapons Reflect",
-        special: "Empties all slots, deals [STR] damage based on number of [STR] slots emptied to all enemies",
-        specialNotes: "The exact multiplier used is chosen based on the number of [STR] orbs consumed: 0 orbs - 3.5x ATK; 1 orb - 7x ATK; 2 orbs - 14x ATK; 3 orbs - 21x ATK; 4 orbs - 35x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK."
+        special: "Vacía todas las ranuras, hace daño [STR] basado en el número de orbes [STR] vaciados a todos los enemigos",
+        specialNotes: "El multiplicador exacto usado está basado en el número de orbes [STR] consumidos: 0 orbes - x3.5 ATK; 1 orb - 7x ATK; 2 orbes - x14 ATK; 3 orbes - x21 ATK; 4 orbes - x35 ATK; 5 orbes - x91 ATK; 6 orbes - x140 ATK."
     },
     925: {
-        captain: "Boosts ATK of Powerhouse characters by 2x",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2",
         specialName: "Let's go, Jailer Beasts!",
-        special: "Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+        special: "Hace 15x ATK en daño QCK a un enemigo, multiplica el ATK contra los enemigos con defensa reducida x1.3 durante 3 turnos"
     },
     926: {
-        captain: "Boosts ATK of Powerhouse characters by 2.5x",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.5",
         specialName: "Let's go, Jailer Beasts!",
-        special: "Deals 15x ATK to 1 enemy in [QCK] damage, boosts ATK against enemies with reduced defense by 1.3x for 3 turns"
+        special: "Hace 15x ATK en daño QCK a un enemigo, multiplica el ATK contra los enemigos con defensa reducida x1.3 durante 3 turnos"
     },
     927: {
-        captain: "Boosts ATK and HP of Driven characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes Driven x1.5",
         specialName: "Unwavering Hammer of Justice",
-        special: "Take 1.5x Additional damage; Boosts ATK of Slasher and Driven characters by 1.2x for 3 turns"
+        special: "El daño recibido se multiplica x1.5; multiplica el ATK de los personajes Slasher y Driven x1.2 durante 3 turnos"
     },
     928: {
-        captain: "Boosts ATK of Driven Characters by 1.75x while above 30% HP and boosts ATK of Striker Characters by 1.75x while below 30% HP",
-        special: "Deals 7x his ATK in [DEX] damage to all enemies, and boosts ATK against Poisoned enemies by 1.3x for 3 turns",
+        captain: "Multiplica el ATK de los personajes Driven x1.75 mientras el HP esté por encima del 30% y multiplica el ATK de los personajes Striker x1.75 mientras el HP esté por debajo del 30%",
+        special: "Hace 7x ATK en daño DEX a todos los enemigos, y multiplica el ATK contra enemigos envenenados x1.3 durante 3 turnos",
         specialName: "Hell Wisdom Rush"
     },
     929: {
-        captain: "Boosts ATK of Driven Characters by 2.25x while above 30% HP and boosts ATK of Striker Characters by 2.25x while below 30% HP",
-        special: "Deals 7x his ATK in [DEX] damage to all enemies, and boosts ATK against Poisoned enemies by 1.3x for 3 turns",
+        captain: "Multiplica el ATK de los personajes Driven x2.25 mientras el HP esté por encima del 30% y multiplica el ATK de los personajes Striker x2.25 mientras el HP esté por debajo del 30%",
+        special: "Hace 7x ATK en daño DEX a todos los enemigos, y multiplica el ATK contra enemigos envenenados x1.3 durante 3 turnos",
         specialName: "Hell Wisdom Rush"
     },
     930: {
-        captain: "Boosts chain multiplier by 2x",
+        captain: "Potencia el multiplicador de combo x2",
         specialName: "Blugori Manipulation Song",
-        special: "Changes orbs in left column to [DEX], then [QCK], then [INT]. Locks himself for 3 turns."
+        special: "Cambia los orbes en la columna izquierda a [DEX], luego [QCK], luego [INT]. Se encadena a sí mismo por 3 turnos."
     },
     931: {
         specialName: "Large Axe of Punishment",
-        special: "Deals 13x ATK to 1 enemy in [DEX] Damage. Turns [BLOCK] orbs into [RCV] orbs"
+        special: "Hace 13x ATK en daño [DEX] a un enemigo. Cambia los orbs [BLOCK] a orbes [RCV]"
     },
     932: {
-        captain: "Boosts ATK of Powerhouse Characters by 1.5x, and their HP by 1.5x",
+        captain: "Multiplica el ATK de los personajes Powerhouse x1.5, y su HP x1.5",
         specialName: "Rock Domination Wall",
         special: [
             {
-                "description": "For Driven and Powerhouse characters, changes [EMPTY] and Bad orbs into Matching. Cuts the current HP of all enemies by 10%",
+                "description": "Para los personajes Driven y Powerhouse, cambia los orbes [EMPTY] y negativos en beneficioso. Corta un 10% del HP actual de cada enemigo",
                 "cooldown": [ 25, 11 ]
             },
             {
-                "description": "For all characters, changes [EMPTY] and Bad orbs into Matching. Cuts the current HP of all enemies by 20%",
+                "description": "Para todos los personajes, cambia los orbes [EMPTY] y negativos en beneficioso. Corta un 20% del HP actual de cada enemigo",
                 "cooldown": [ 31, 17 ]
             }
         ],
         specialNotes: "#{stages}"	
         },
     933: {
-        captain: "Boosts ATK of Powerhouse Characters by 2.25x, and their HP by 1.5x",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.25, y su HP x1.5",
         specialName: "Rock Domination Wall",
         special: [
             {
-                "description": "For Driven and Powerhouse characters, changes [EMPTY] and Bad orbs into Matching. Cuts the current HP of all enemies by 10%",
+                "description": "Para los personajes Driven y Powerhouse, cambia los orbes [EMPTY] y negativos en beneficioso. Corta un 10% del HP actual de cada enemigo",
                 "cooldown": [ 25, 11 ]
             },
             {
-                "description": "For all characters, changes [EMPTY] and Bad orbs into Matching. Cuts the current HP of all enemies by 20%",
+                "description": "Para todos los personajes, cambia los orbes [EMPTY] y negativos en beneficioso. Corta un 20% del HP actual de cada enemigo",
                 "cooldown": [ 31, 17 ]
             }
         ],
         specialNotes: "#{stages}"
     },
     934: {
-        captain: "Boosts ATK of Fighter Characters by 2x, and their HP by 1.5x. If HP is above 70% or below 30%, boosts ATK of Fighter Characters by 2.75 instead",
+        captain: "Multiplica el ATK de los personajes Fighter x2, y su HP x1.5. Si el HP se sitúa por encima del 70% o por debajo del 30%, multiplica el ATK de los personajes Fighter x2.75",
         specialName: "Fishman Karate!! Shark Fist Tile Breaker",
-        special: "For 1 turn, Perfects become harder to hit. Deals 20x character's ATK in [INT] damage to all enemies. Changes all Fighter Character orbs into Matching",
-        specialNotes: "Decreases timing window to hit a Perfect. (Animation remains the same)"
+        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficioso",
+        specialNotes: "Decrece el margen para acertar el Perfect. (La animación sigue igual)"
     },
     935: {
-        captain: "Boosts ATK of Fighter Characters by 2x, and their HP by 1.5x. If HP is above 70% or below 30%, boosts ATK of Fighter Characters by 2.75 instead",
+        captain: "Multiplica el ATK de los personajes Fighter x2, y su HP x1.5. Si el HP se sitúa por encima del 70% o por debajo del 30%, multiplica el ATK de los personajes Fighter x2.75",
         specialName: "Fishman Karate!! Shark Fist Tile Breaker",
-        special: "For 1 turn, Perfects become harder to hit. Deals 20x character's ATK in [INT] damage to all enemies. Changes all Fighter Character orbs into matching",
-        specialNotes: "Decreases timing window to hit a Perfect. (Animation remains the same)"
+        special: "Durante 1 turno, los Perfect se vuelven más dificil de acertar. Hace 20x ATK en daño [INT] a todos los enemigos. Cambia todos los orbes de los personajes Fighter a orbes beneficioso",
+        specialNotes: "Decrece el margen para acertar el Perfect. (La animación sigue igual)"
     },
     936: {
         captain: "Boosts Chain Multiplier by 3x",
