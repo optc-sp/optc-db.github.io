@@ -2657,182 +2657,182 @@ window.details = {
         specialName: "Mach Punch"
     },
     619: {
-        special: "Cuts the current HP of each enemy by 5%",
+        special: "Corta un 5% del HP actual de cada enemigo",
         specialName: "Slight Break"
     },
     620: {
-        special: "Changes [INT] orbs into [QCK] orbs",
+        special: "Cambia los orbes [INT] en orbes [QCK]",
         specialName: "[INT] Slot Change [QCK]"
     },
     621: {
-        special: "Changes [INT] orbs into [STR] orbs",
+        special: "Cambia los orbes [INT] en orbes [STR]",
         specialName: "[INT] Slot Change [STR]"
     },
     622: {
-        special: "Boosts RCV of all characters by 100 for 3 turns",
+        special: "Aumenta el RCV de todos los personajes en 100 unidades durante 3 turnos",
         specialName: "Patch Job"
     },
     623: {
-        special: "Recovers 3x character's RCV in HP at the end of each turn for 5 turns",
+        special: "Regenera 3x RCV en HP al final de cada turno durante 5 turnos",
         specialName: "Auto Repair"
     },
     624: {
-        special: "Slightly boosts chances of getting [PSY] orbs for 3 turns",
+        special: "Incrementa ligeramente la posibilidad de conseguir orbes [PSY] durante 3 turnos",
         specialName: "Slot Rate Up [PSY]"
     },
     625: {
-        special: "Slightly boosts chances of getting [INT] orbs for 3 turns",
+        special: "Incrementa ligeramente la posibilidad de conseguir orbes [INT] durante 3 turnos",
         specialName: "Slot Rate Up [INT]"
     },
     626: {
-        special: "Deals 13x character's ATK in character's type damage to all enemies",
+        special: "Hace 13x ATK en daño sin tipo a todos los enemigos",
         specialName: "Hyper Burst"
     },
     627: {
-        special: "Randomizes all orbs",
+        special: "Cambia aleatoriamente todos los orbes",
         specialName: "Slot Shuffle"
     },
     628: {
-        special: "Deals 15,000 fixed damage to one enemy",
+        special: "Hace 15000 en daño fijo a un enemigo",
         specialName: "Keel Crusher",
         specialNotes: "#{fixed}"
     },
     629: {
-        special: "Empties all slots including those with [BLOCK] orbs, deals random INT damage to all enemies",
+        special: "Vacía todas las ranuras incluyendo aquellas con orbes [BLOCK], hace una cantidad aleatoria de ATK en daño INT a todos los enemigos",
         specialName: "Master Nail",
-        captain: "Boosts ATK of characters with 3 or fewer stars by 2x"
+        captain: "Multiplica el ATK de los personajes con 2 estrellas o menos x2"
     },
     630: {
-        special: "Randomly changes all orbs into either [QCK] or [DEX] orbs, deals random QCK damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [QCK] o [DEX], hace una cantidad aleatoria de ATK en daño QCK a todos los enemigos",
         specialName: "Tempest Kick: Slaughter",
         captain: "Boosts ATK of Slasher characters by 1.5x"
     },
     631: {
-        special: "Randomly changes all orbs into either [QCK] or [DEX] orbs, deals random QCK damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [QCK] o [DEX], hace una cantidad aleatoria de ATK en daño QCK a todos los enemigos",
         specialName: "Tempest Kick: Slaughter",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica el ATK de los personajes Slasher x2"
     },
     632: {
-        special: "Randomly changes all orbs into either [STR], [PSY] or [INT] orbs, deals random STR damage to all enemies, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [PSY] o [INT], hace una cantidad aleatoria de ATK en daño STR a todos los enemigos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Finger Pistol: Yellow Lotus",
-        captain: "Boosts ATK of Fighter characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Fighter x1.5",
         specialNotes: "#{random : 2,000 : 20,000}"
     },
     633: {
-        special: "Randomly changes all orbs into either [STR], [PSY] or [INT] orbs, deals random STR damage to all enemies, reduces the defense of all enemies by 50% for 2 turns",
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [PSY] o [INT], hace una cantidad aleatoria de ATK en daño STR a todos los enemigos, reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Finger Pistol: Yellow Lotus",
-        captain: "Boosts ATK of Fighter characters by 2x",
+        captain: "Multiplica el ATK de los personajes Fighter x2",
         specialNotes: "#{random : 2,000 : 20,000}"
     },
     634: {
-        special: "Boosts chances of getting [QCK] and [PSY] orbs for 3 turns, boosts ATK of QCK and PSY characters by 1.2x for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] y [PSY] durante 3 turnos, multiplica el ATK de los personajes QCK y PSY x1.2 durante 3 turnos",
         specialName: "Guiding Mermaid Voice",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK and RCV of QCK and PSY characters by 1.25x"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK y el RCV de los personajes QCK y PSY x1.25"
     },
     635: {
-        special: "Boosts chances of getting [QCK] and [PSY] orbs for 3 turns, boosts ATK of QCK and PSY characters by 1.2x for 3 turns",
+        special: "Incrementa la posibilidad de conseguir orbes [QCK] y [PSY] durante 3 turnos, multiplica el ATK de los personajes QCK y PSY x1.2 durante 3 turnos",
         specialName: "Guiding Mermaid Voice",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK and RCV of QCK and PSY characters by 1.5x"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK y el RCV de los personajes QCK y PSY x1.5"
     },
     636: {
-        special: "Binds himself for 3 turns, reduces damage received by 50% for 3 turns, recovers 3.5x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Se encadena a sí mismo durante 3 turnos, reduce el daño recibido en un 50% durante 3 turnos, regenera 3.5x RCV al final de cada turno durante 3 turnos",
         specialName: "Wretched Ballade",
-        captain: "Boosts ATK of characters with cost 2 or less by 3x"
+        captain: "Multiplica el ATK de los personajes con un coste de 2 o inferior x3"
     },
     637: {
-        special: "Cuts the current HP of each enemy by 8%, boosts ATK against enemies with increased defense by 1.3x for 1 turn",
+        special: "Corta un 8% del HP actual de cada enemigo, multiplica el ATK contra los enemigos con defensa incrementada x1.3 durante 1 turno",
         specialName: "Hachi Ink Jet",
-        captain: "Recovers 618 HP at the end of each turn, boosts ATK of Slasher characters by 1.5x"
+        captain: "Regenera 618 HP al final de cada turno, multiplica el ATK de los personajes Slasher x1.5"
     },
     638: {
-        special: "Changes [PSY] and [INT] orbs into [QCK] orbs, reduces Bind duration by 1 turn",
+        special: "Cambia los orbes [PSY] y [INT] en orbes [QCK], reduce la duración de las cadenas en 1 turno",
         specialName: "Bohemian Reverse Slash",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Slasher characters by 2x",
-        sailor: "Restores his own special by 1 turn when it is rewinded",
-        sailorNotes: "Some enemies can increase your cooldown by 1/2 Turns, this Sailor Ability decreases that by 1 Turn"
+        captain: "Reduce la carga de todos los especiales en 1 turnos, multiplica el ATK de los personajes Slasher x2",
+        sailor: "Recupera 1 turno de carga de su especial cada vez que este es rebobinado",
+        sailorNotes: "Algunos enemigos pueden incrementar la carga de tus iniciales en 1/2 turnos, esta habilidad de tripulante reduce esto en 1 turno"
     },
     639: {
-        special: "Changes [PSY] and [INT] orbs into [QCK] orbs, reduces Bind duration by 1 turn",
+        special: "Cambia los orbes [PSY] y [INT] en orbes [QCK], reduce la duración de las cadenas en 1 turno",
         specialName: "Bohemian Reverse Slash",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Slasher characters by 2x",
-        sailor: "Restores his own special by 1 turn when it is rewinded",
-        sailorNotes: "Some enemies can increase your cooldown by 1/2 Turns, this Sailor Ability decreases that by 1 Turn"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Slasher x2",
+        sailor: "Recupera 1 turno de carga de su especial cada vez que este es rebobinado",
+        sailorNotes: "Algunos enemigos pueden incrementar la carga de tus iniciales en 1/2 turnos, esta habilidad de tripulante reduce esto en 1 turno"
     },
     640: {
-        special: "Changes own orb into [DEX], deals several times the character's ATK in DEX damage to one enemy",
-        specialNotes: "#{specialProportional : lower : 50 * ( 1 - (remaining HP) / (total HP) )}",
+        special: "Cambia su propio orbe a [DEX], hace varias veces el ATK en daño DEX a un enemigo",
+        specialNotes: "#{specialProportional : lower : 50 * ( 1 - (HP actual) / (HP total) )}",
         specialName: "Pirate Brothers: Twin Strike",
-        captain: "Boosts ATK of Fighter characters by 2x, deals 2x character's ATK in DEX damage to all enemies at the end of each turn",
-        sailor: "When HP is below x%, boosts ATK of Fighter Characters by 100"
+        captain: "Multiplica el ATK de los personajes Fighter x2, hace 2x ATK en daño DEX a todos los enemigos al final de cada turno",
+        sailor: "Cuando el HP está por debajo de x%, incrementa el ATK de los personajes Fighter en 100 unidades"
     },
     641: {
-        special: "Changes own orb into [DEX], deals several times the character's ATK in DEX damage to one enemy",
+        special: "Cambia su propio orbe a [DEX], hace varias veces el ATK en daño DEX a un enemigo",
         specialNotes: "#{specialProportional : lower : 50 * ( 1 - (remaining HP) / (total HP) )}",
         specialName: "Pirate Brothers: Twin Strike",
-        captain: "Boosts ATK of Fighter characters by 2.25x, deals 2x character's ATK in DEX damage to all enemies at the end of each turn",
-        sailor: "When HP is below x%, boosts ATK of Fighter Characters by 100"
+        captain: "Multiplica el ATK de los personajes Fighter x2.25, hace 2x ATK en daño DEX a todos los enemigos al final de cada turno",
+        sailor: "Cuando el HP está por debajo de x%, incrementa el ATK de los personajes Fighter en 100 unidades"
     },
     642: {
-        special: "Reduces crew's current HP by 30%, deals 10x character's ATK in fixed damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 30%, hace 10x ATK en daño fijo a un enemigo, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{fixed} #{orb : 1.75x}",
         specialName: "Raging Greatsword",
-        captain: "Boosts ATK of PSY characters by 2.5x if HP is below 30% at the start of the turn",
-        sailor: "Recovers 2 turns of Paralysis on self"
+        captain: "Multiplica el ATK de los personajes PSY x2.5 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Recupera 2 turnos de parálisis en sí mismo"
     },
     643: {
-        special: "Reduces crew's current HP by 30%, deals 10x character's ATK in fixed damage to one enemy, amplifies the effect of orbs by 1.75x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 30%, hace 10x ATK en daño fijo a un enemigo, amplifica el efecto de los orbes x1.75 durante 1 turno",
         specialNotes: "#{fixed} #{orb : 1.75x}",
         specialName: "Raging Greatsword",
-        captain: "Boosts ATK of PSY characters by 3x if HP is below 30% at the start of the turn",
-        sailor: "Recovers 2 turns of Paralysis on self"
+        captain: "Multiplica el ATK de los personajes PSY x3 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Recupera 2 turnos de parálisis en sí mismo"
     },
     644: {
-        special: "Reduces Bind and Despair duration by 2 turns, boosts ATK against delayed enemies by 1.2x for 3 turns",
+        special: "Reduce la duración de las cadenas y la anulación de capitán en 2 turnos, multiplica el ATK contra los enemigos retardados x1.2 durante 3 turnos",
         specialName: "Witch's Icebreaker",
-        captain: "Boosts ATK of INT characters by 2x",
-        sailor: "Boosts ATK and RCV of INT characters by 20"
+        captain: "Multiplica el ATK de los personajes INT x2",
+        sailor: "Incrementa el ATK y el RCV de los personajes INT en 20 unidades"
     },
     645: {
-        special: "Reduces Bind and Despair duration by 2 turns, boosts ATK against delayed enemies by 1.2x for 3 turns",
+        special: "Reduce la duración de las cadenas y la anulación de capitán en 2 turnos, multiplica el ATK contra los enemigos retardados x1.2 durante 3 turnos",
         specialName: "Witch's Icebreaker",
-        captain: "Boosts ATK of INT characters by 2.5x",
-        sailor: "Boosts ATK and RCV of INT characters by 20"
+        captain: "Multiplica el ATK de los personajes INT x2.5",
+        sailor: "Incrementa el ATK y el RCV de los personajes INT en 20 unidades"
     },
     646: {
-        special: "Deals 20x character's ATK in STR damage to all enemies, boosts chances of getting [STR] orbs for 3 turns",
+        special: "Hace 20x ATK en año STR a todos los enemigos, incrementa la posibilidad de conseguir orbes [STR] durante 3 turnos",
         specialName: "Vanguard Breaker",
-        captain: "Boosts ATK of Shooter characters by 2.5x if HP is below 30% at the start of the turn",
-        sailor: "Boosts ATK of STR characters by 30"
+        captain: "Multiplica el ATK de los personajes Shooter x2.5 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Incrementa el ATK de los personajes STR en 30 unidades"
     },
     647: {
-        special: "Deals 20x character's ATK in STR damage to all enemies, boosts chances of getting [STR] orbs for 3 turns",
+        special: "Hace 20x ATK en año STR a todos los enemigos, incrementa la posibilidad de conseguir orbes [STR] durante 3 turnos",
         specialName: "Vanguard Breaker",
-        captain: "Boosts ATK of Shooter characters by 2.75x if HP is below 30% at the start of the turn",
-        sailor: "Boosts ATK of STR characters by 30"
+        captain: "Multiplica el ATK de los personajes Shooter x2.75 si el HP está por debajo del 30% al principio del turno",
+        sailor: "Incrementa el ATK de los personajes STR en 30 unidades"
     },
     648: {
-        special: "Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Regenera 100x RCV en HP, amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Blue Flame Kick",
-        captain: "Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of QCK and PSY characters by 2.75x if HP is above 70% at the start the turn"
+        captain: "Reduce el daño recibido en un 30% si el HP es superior al 70% al inicio del turno, multiplica el ATK de los personajes QCK y PSY x2.75 si el HP es superior al 70% al inicio del turno"
     },
     649: {
-        special: "Recovers 100x character's RCV in HP, amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Regenera 100x RCV en HP, amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Blue Flame Kick",
-        captain: "Reduces damage received by 30% if HP is above 70% at the start of the turn, boosts ATK of QCK and PSY characters by 2.75x if HP is above 70% at the start the turn"
+        captain: "Reduce el daño recibido en un 30% si el HP es superior al 70% al inicio del turno, multiplica el ATK de los personajes QCK y PSY x2.75 si el HP es superior al 70% al inicio del turno"
     },
     650: {
-        special: "Deals 5,000 fixed damage to one enemy, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Hace 5000 en daño fijo a un enemigo, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{fixed} #{orb : 1.5x}",
         specialName: "Thunder Lance Tempo",
-        captain: "Boosts ATK of INT characters by 2x and their RCV by 1.5x"
+        captain: "Multiplica el ATK de los personajes INT x2 y su RCV x1.5"
     },
     651: {
-        special: "Deals 5,000 fixed damage to one enemy, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Hace 5000 en daño fijo a un enemigo, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{fixed} #{orb : 1.5x}",
         specialName: "Thunder Lance Tempo",
-        captain: "Boosts ATK of INT characters by 2x and their RCV by 1.5x"
+        captain: "Multiplica el ATK de los personajes INT x2 y su RCV x1.5"
     },
     652: {
         special: "Cuts the current HP of each enemy by 20%, reduces damage received by 50% for 1 turn",
