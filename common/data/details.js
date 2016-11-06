@@ -2932,234 +2932,234 @@ window.details = {
         captainNotes: "#{captainProportional : higher : 2 + 0.75 * (remaining HP) / (total HP) : 2.75 : 2}"
     },
     670: {
-        special: "Boosts ATK of Fighter characters by 1.75x for 1 turn",
+        special: "Multiplica el ATK de los personajes Fighter x1.75 durante 1 turno",
         specialName: "Fishman Karate! True Fist Thrust of the Revolutionaries",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     671: {
-        special: "Boosts ATK of Fighter characters by 1.75x for 1 turn",
+        special: "Multiplica el ATK de los personajes Fighter x1.75 durante 1 turno",
         specialName: "Fishman Karate! True Fist Thrust of the Revolutionaries",
-        captain: "Boosts ATK of Fighter characters by 2.25x and their RCV by 1.5x"
+        captain: "Multiplica el ATK de los personajes Fighter x2.25 y su RCV por 1.5"
     },
     672: {
-        special: "Cuts the current HP of each enemy by 20%, changes own orb into [STR]",
+        special: "Corta un 20% del HP actual de cada enemigo, cambia su propio orbe a [STR]",
         specialName: "Four Thousand Tile True Punch",
-        captain: "Boosts ATK of Fighter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Fighter x2"
     },
     673: {
-        special: "Cuts the current HP of each enemy by 20%, changes own orb into [STR]",
+        special: "Corta un 20% del HP actual de cada enemigo, cambia su propio orbe a [STR]",
         specialName: "Four Thousand Tile True Punch",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Fighter characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Fighter x2"
     },
     674: {
-        special: "Removes poison, reduces damage received by 50% for 2 turns, recovers 13x character's RCV in HP at the end of each turn for 2 turns",
+        special: "Elimina el envenenamiento, reduce el daño recibido en un 50% durante 2 turnos, regenera 13x RCV en HP al final de cada turno durante 2 turnos",
         specialName: "Emporio Healing Hormone",
-        captain: "Boosts ATK of Free Spirit characters by 2x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     675: {
-        special: "Removes poison, reduces damage received by 50% for 2 turns, recovers 13x character's RCV in HP at the end of each turn for 2 turns",
+        special: "Elimina el envenenamiento, reduce el daño recibido en un 50% durante 2 turnos, regenera 13x RCV en HP al final de cada turno durante 2 turnos",
         specialName: "Emporio Healing Hormone",
-        captain: "Boosts ATK of Free Spirit characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2.5"
     },
     676: {
-        special: "Reduces any damage received above 5,000 HP by 97% for 3 turns",
-        specialNotes: "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * 0.03",
+        special: "Reduce cualquier daño recibido por encima de 5000 en un 97% durante 3 turnos",
+        specialNotes: "La fórmula exacta para el daño recibido es: 5000 + ((daño total) - 5000) * 0.03",
         specialName: "KEEP OUT",
-        captain: "Boosts ATK of Slasher characters by 1.5x, deals 5x character's ATK in QCK damage to all enemies at the end of each turn"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5, hace 5x ATK en daño QCK a todos los enemigos al final de cada turno"
     },
     677: {
-        special: "Reduces any damage received above 5,000 HP by 97% for 3 turns",
-        specialNotes: "The exact formula for the damage received is: 5000 + ((total damage) - 5000) * 0.03",
+        special: "Reduce cualquier daño recibido por encima de 5000 en un 97% durante 3 turnos",
+        specialNotes: "La fórmula exacta para el daño recibido es: 5000 + ((daño total) - 5000) * 0.03",
         specialName: "KEEP OUT",
-        captain: "Boosts ATK of Slasher characters by 1.5x, deals 5x character's ATK in QCK damage to all enemies at the end of each turn"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5, hace 5x ATK en daño QCK a todos los enemigos al final de cada turno"
     },
     678: {
-        special: "Reduces damage received by 50% for 1 turn, locks all orbs for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, bloquea todos los orbes por 1 turno",
         specialName: "Cien Fleur Spider Net",
-        captain: "Boosts ATK and RCV of PSY characters by 1.2x, boosts chances of getting [PSY] orbs"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.2, incrementa la posibilidad de conseguir orbes [PSY]"
     },
     679: {
-        special: "Reduces damage received by 50% for 1 turn, locks all orbs for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno, bloquea todos los orbes por 1 turno",
         specialName: "Cien Fleur Spider Net",
-        captain: "Boosts ATK and RCV of PSY characters by 1.5x, boosts chances of getting [PSY] orbs"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.5, incrementa la posibilidad de conseguir orbes [PSY]"
     },
     680: {
-        special: "Recovers 5x character's RCV in HP, boosts ATK and RCV of DEX characters by 1.25x for 2 turns",
+        special: "Regenera 5x RCV en HP, multiplica el ATK y el RCV de los personajes DEX x1.25 durante 2 turnos",
         specialName: "Midsummer Relax Time"
     },
     681: {
-        special: "Recovers 5x character's RCV in HP, boosts ATK and RCV of DEX characters by 1.25x for 2 turns",
+        special: "Regenera 5x RCV en HP, multiplica el ATK y el RCV de los personajes DEX x1.25 durante 2 turnos",
         specialName: "Midsummer Relax Time",
-        captain: "Boosts ATK and RCV of Striker characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Striker x1.5"
     },
     682: {
-        special: "Recovers 2,561 HP, reduces damage received by 50% for 2 turns",
+        special: "Regenera 2,561 HP, reduce el daño recibido en un 50% durante 2 turnos",
         specialName: "Transcendental Serenity Healing"
     },
     683: {
-        special: "Recovers 2,561 HP, reduces damage received by 50% for 2 turns",
+        special: "Regenera 2,561 HP, reduce el daño recibido en un 50% durante 2 turnos",
         specialName: "Transcendental Serenity Healing",
-        captain: "Boosts ATK and RCV of Fighter characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Fighter x1.5"
     },
     684: {
-        special: "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn",
+        special: "Regenera 3x RCV en HP, reduce el daño recibido en un 80% durante 1 turno",
         specialName: "Romantic Ghost"
     },
     685: {
-        special: "Recovers 3x character's RCV in HP, reduces damage received by 80% for 1 turn",
+        special: "Regenera 3x RCV en HP, reduce el daño recibido en un 80% durante 1 turno",
         specialName: "Romantic Ghost",
-        captain: "Boosts ATK and RCV of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Shooter x1.5"
     },
     686: {
-        special: "Delays all enemies for 1 turn, recovers 3x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Retarda a todos los enemigos 1 turno, regenera 3x RCV en HP al final de cada turno durante 3 turnos",
         specialName: "Captivating Perfume Dance - Relaxation",
-        captain: "Boosts ATK and RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Slasher x1.5"
     },
     687: {
-        special: "Deals 13x character's ATK in STR damage to all enemies, boosts ATK of Free Spirit characters by 1.3x for 1 turn",
+        special: "Hace 13x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Free Spirit x1.3 durante 1 turno",
         specialName: "First Spear of the Battle",
-        captain: "Boosts ATK of Free Spirit characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x1.5"
     },
     688: {
-        special: "Deals 13x character's ATK in STR damage to all enemies, boosts ATK of Free Spirit characters by 1.3x for 1 turn",
+        special: "Hace 13x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Free Spirit x1.3 durante 1 turno",
         specialName: "First Spear of the Battle",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Free Spirit characters by 2x"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes Free Spirit x2"
     },
     689: {
-        special: "Amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Botanist's Great Discovery",
-        captain: "Boosts ATK and RCV of Slasher characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes Slasher x1.2"
     },
     690: {
-        special: "Amplifies the effect of orbs by 1.5x for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.5 durante 2 turnos",
         specialNotes: "#{orb : 1.5x}",
         specialName: "Botanist's Great Discovery",
-        captain: "Boosts ATK and RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Slasher x1.5"
     },
     691: {
-        special: "Changes [PSY] orbs into [DEX] orbs",
+        special: "Cambia los orbes [PSY] en orbes [DEX]",
         specialName: "[PSY] Slot Change [DEX]"
     },
     692: {
-        special: "Changes [PSY] orbs into [QCK] orbs",
+        special: "Cambia los orbes [PSY] en orbes [QCK]",
         specialName: "[PSY] Slot Change [QCK]"
     },
     693: {
-        special: "Changes [DEX] orbs into [PSY] orbs",
+        special: "Cambia los orbes [DEX] en  orbes [PSY]",
         specialName: "[DEX] Slot Change [PSY]"
     },
     694: {
-        special: "Deals 13x character's ATK in character's type damage to all enemies",
+        special: "Hace 13x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Burst"
     },
     695: {
-        special: "Cuts the current HP of each enemy by 5%",
+        special: "Corta un 5% del HP actual de cada enemigo",
         specialName: "Slight Break"
     },
     696: {
-        special: "Changes [PSY] orbs into [DEX] orbs",
+        special: "Cambia los orbes [PSY] en orbes [DEX]",
         specialName: "[PSY] Slot Change [DEX]",
-        captain: "Boosts ATK of Striker characters by 1.75x"
+        captain: "Multiplica el ATK de los personajes Striker x1.75"
     },
     697: {
-        special: "Changes [PSY] orbs into [QCK] orbs",
+        special: "Cambia los orbes [PSY] en orbes [QCK]",
         specialName: "[PSY] Slot Change [QCK]",
-        captain: "Boosts ATK of Shooter characters by 1.75x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.75"
     },
     698: {
-        special: "Changes [DEX] orbs into [PSY] orbs",
+        special: "Cambia los orbes [DEX] en orbes [PSY]",
         specialName: "[DEX] Slot Change [PSY]",
-        captain: "Boosts ATK of Slasher characters by 1.75x"
+        captain: "Multiplica el ATK de los personajes Slasher x1.75"
     },
     699: {
-        special: "Deals 13x character's ATK in character's type damage to all enemies",
+        special: "Hace 13x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Burst",
-        captain: "Boosts ATK of Shooter characters by 500, reduces damage received by 10%"
+        captain: "Aumenta el ATK de los personajes Shooter en 500 unidades, reduce el daño recibido en un 10%"
     },
     700: {
-        special: "Cuts the current HP of each enemy by 5%",
+        special: "Corta un 5% del HP actual de cada enemigo",
         specialName: "Slight Break",
-        captain: "Boosts ATK of Fighter characters by 1.75x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.75"
     },
     701: {
-        special: "Deals 15x character's ATK in PSY damage to all enemies, changes own orb into [PSY]",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos, cambia su propio orbe a [PSY]",
         specialName: "Oimo Press",
-        captain: "Boosts HP of PSY characters by 2.25x"
+        captain: "Multiplica el ATK de los personajes PSY x2.25"
     },
     702: {
-        special: "Seals himself for 5 turns, reduces damage received by 30% for 5 turns",
+        special: "Se encade a sí mismo por 5 turnos, reduce el daño recibido en un 30% durante 5 turnos",
         specialName: "Kashi Swing",
-        captain: "Boosts HP of INT characters by 2.25x"
+        captain: "Multiplica el HP de los personajes INT x2.25"
     },
     703: {
-        special: "Deals 5x character's ATK in QCK damage to all enemies",
+        special: "Hace 5x ATK en daño QCK a todos los enemigos",
         specialName: "Arm Claw of the Watchdog"
     },
     704: {
-        special: "Deals 9x character's ATK in STR damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
+        special: "Hace 9x ATK en daño STR a todos los enemigos, reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Companion's Guilt"
     },
     705: {
-        special: "Randomly changes [PSY], [INT], [TND], [RCV] and [EMPTY] orbs into [STR], [DEX] or [QCK] orbs",
+        special: "Cambia aleatoriamente los orbes [PSY], [INT], [TND], [RCV] y [EMPTY] en orbes [STR], [DEX] o [QCK]",
         specialName: "Guilty Verdict - \"Slow Death Penalty\"",
-        captain: "Boosts ATK and HP of STR characters, DEX characters and QCK characters by 1.25x"
+        captain: "Multiplica el ATK, HP y RCV de los personajes STR, DEX, y QCK x1.25"
     },
     706: {
-        special: "Changes own orb and the captain's orb into [STR]",
+        special: "Cambia su propio orbe y el del capitán en orbes [STR]",
         specialName: "Air Door",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     707: {
-        special: "Changes own orb and the captain's orb into [STR]",
+        special: "Cambia su propio orbe y el del capitán en orbes [STR]",
         specialName: "Air Door",
-        captain: "Boosts ATK and HP of STR characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes STR x1.5"
     },
     708: {
-        special: "Reduces Bind and Despair duration by 3 turns",
+        special: "Reduce la duración de las cadenas y la anulación de capitán en 3 turnos",
         specialName: "Cien Fleur - Wing",
-        captain: "Boosts ATK and RCV of PSY characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.2"
     },
     709: {
-        special: "Reduces Bind and Despair duration by 3 turns",
+        special: "Reduce la duración de las cadenas y la anulación de capitán en 3 turnos",
         specialName: "Cien Fleur - Wing",
-        captain: "Boosts ATK and RCV of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.5"
     },
     710: {
-        special: "Empties all slots with [BLOCK] orbs, boosts ATK of Shooter characters by 1.25x for 3 turns, deals 15x character's ATK in PSY damage to all enemies",
+        special: "Vacía todas las ranuras con orbes [BLOCK], multiplica el ATK de los Shooter x1.25 durante 3 turnos, hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Coup de Vent",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "c"
     },
     711: {
-        special: "Empties all slots with [BLOCK] orbs, boosts ATK of Shooter characters by 1.25x for 3 turns, deals 15x character's ATK in PSY damage to all enemies",
+        special: "Vacía todas las ranuras con orbes [BLOCK], multiplica el ATK de los Shooter x1.25 durante 3 turnos, hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Coup de Vent",
-        captain: "Boosts ATK of Shooter characters by 2x"
+        captain: "Multiplica el ATK de los personajes Shooter x2"
     },
     712: {
-        special: "Deals 15x character's ATK in QCK damage to one enemy, boosts ATK of the characters in the top row by 1.5x for 2 turns",
-        specialNotes: "The special boosts the attack of only the crew's captain and the currently selected friend captain.",
+        special: "Hace 15x ATK en daño QCK a un enemigo, multiplica el ATK de los personajes en la fila superior por 1.5 durante 2 turnos",
+        specialNotes: "El especial solo multiplica el ATK del capitán y el capitán amigo.",
         specialName: "Sky Knight's Javelin",
-        captain: "Boosts ATK of Striker characters by 2x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los Striker x2 si el HP está por encima del 50% al inicio del turno"
     },
     713: {
-        special: "Deals 15x character's ATK in QCK damage to one enemy, boosts ATK of the characters in the top row by 1.5x for 2 turns",
-        specialNotes: "The special boosts the attack of only the crew's captain and the currently selected friend captain.",
+        special: "Hace 15x ATK en daño QCK a un enemigo, multiplica el ATK de los personajes en la fila superior por 1.5 durante 2 turnos",
+        specialNotes: "El especial solo multiplica el ATK del capitán y el capitán amigo.",
         specialName: "Sky Knight's Javelin",
-        captain: "Boosts ATK of Striker characters by 2.5x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los Striker x2.5 si el HP está por encima del 50% al inicio del turno"
     },
     714: {
-        special: "Randomizes slots with [STR], [QCK], [INT] or [PSY] orbs",
+        special: "Cambia aleatoriamente todos los orbes que contienen orbes [STR], [QCK], [INT] o [PSY]",
         specialName: "Pegasus' Neigh"
     },
     715: {
-        special: "Boosts ATK and RCV of Free Spirit characters by 1.5x for 2 turns, seals herself for 3 turns",
+        special: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.5 durante 2 turnos, se encadena a sí misma durante 3 turnos",
         specialName: "Angel's Harp - Healing",
-        captain: "Boosts RCV of all characters by 2x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el RCV de todos los personajes x2 si el HP está por debajo del 30% al inicio del turno"
     },
     716: {
-        special: "Boosts ATK and RCV of Free Spirit characters by 1.5x for 2 turns, seals herself for 3 turns",
+        special: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.5 durante 2 turnos, se encadena a sí misma durante 3 turnos",
         specialName: "Angel's Harp - Healing",
-        captain: "Boosts RCV of all characters by 5x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el RCV de todos los personajes x5 si el HP está por debajo del 30% al inicio del turno"
     },
     717: {
         special: "Deals 50% of the damage dealt in the previous turn as typeless damage to all enemies",
