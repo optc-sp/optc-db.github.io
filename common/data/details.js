@@ -3833,167 +3833,167 @@ window.details = {
         special: "Hace 15x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Shooter x1.5 durante 1 turno. Si durante este turno todas las unidades aciertan Perfect, multiplica el ATK de los personajes Shooter, Striker y Slasher x1.5 en el siguiente turno."
     },
     845: {
-        captain: "Boosts ATK of all characters by 1.5x after the 11th hit in the chain, by 2.5x after the 22nd hit",
+        captain: "Multiplica el ATK de todos los personajes x1.5 después del golpe nº11 de la cadena, x2.5 después del nº22",
         specialName: "Gust: Matasaburo",
-        special: "Changes own orb into [QCK], randomizes every other orb"
+        special: "Cambia su propio orbe a [QCK], cambia aleatoriamente el resto de orbes"
     },
     846: {
-        captain: "Boosts ATK of all characters by 1.5x after the 11th hit in the chain, by 2.5x after the 22nd hit, by 2.75x after the 30th hit, by 3.5x after the 40th hit",
+        captain: "Multiplica el ATK de todos los personajes x1.5 después del golpe nº11 de la cadena, x2.5 después del nº22, x2.75 después del nº30, x3.5 después del nº40",
         specialName: "Gust: Matasaburo",
-        special: "Changes own orb into [QCK], randomizes every other orb"
+        special: "Cambia su propio orbe a [QCK], cambia aleatoriamente el resto de orbes"
     },
     847: {
-        captain: "Boosts ATK of all characters by 1.5x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de todos los personajes x1.5 si el HP está por debajo del 30% al inicio del turno",
         specialName: "Sturdy Boat: Launch",
-        special: "Reduces Despair duration by 5 turns, boosts ATK of all characters by 5% for 3 turns, reduces damage received by 10% for 3 turns, amplifies the effect of orbs by 1.15x for 3 turns, recovers 2x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Reduce la anulación de capitán en 5 turnos, incrementa el ATK de todos los personajes en un 5% durante 3 turnos, reduce el daño recibido en un 10% durante 3 turnos, amplifica el efecto de los orbes x1.15 durante 3 turnos, regenera 2x RCV en HP al final de cada turno durante 3 turnos",
         specialNotes: "#{orb : 1.15x}"
     },
     848: {
-        captain: "Boosts ATK of all characters by 2x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de todos los personajes x2 si el HP está por debajo del 30% al inicio del turno",
         specialName: "Sturdy Boat: Launch",
-        special: "Reduces Despair duration by 5 turns, boosts ATK of all characters by 5% for 3 turns, reduces damage received by 10% for 3 turns, amplifies the effect of orbs by 1.15x for 3 turns, recovers 2x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Reduce la anulación de capitán en 5 turnos, incrementa el ATK de todos los personajes en un 5% durante 3 turnos, reduce el daño recibido en un 10% durante 3 turnos, amplifica el efecto de los orbes x1.15 durante 3 turnos, regenera 2x RCV en HP al final de cada turno durante 3 turnos",
         specialNotes: "#{orb : 1.15x}"
     },
     849: {
-        captain: "Boosts ATK of Shooter characters by 1.75x",
+        captain: "Multiplica el ATK de los personajes Shooter x1.75",
         specialName: "Battle Franky 9",
-        special: "Deals 5 hits of random STR damage to random enemies, reduces the defense of all enemies by 50% for 2 turns"
+        special: "Hace 5 golpes de una cantidad de ATK aleatoria en daño STR a enemigos aleatorios, reduce la defensa de todos los enemigos en un 50% durante 2 turnos"
     },
     850: {
-        captain: "Boosts ATK of Striker and Cerebral characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Strikers y Cerebral x1.5",
         specialName: "First-class Assistant of the Passionate Worker",
-        special: "Changes the top right orb into [DEX], the middle right orb into [STR] and the bottom right orb into [QCK], seals himself for 3 turns"
+        special: "Cambia el orbe superior derecho a [DEX], el del medio derecho a [STR] y el inferior derecho a [QCK], se encadena a sí mismo por 3 turnos"
     },
     851: {
-        captain: "Boosts ATK of Driven characters by 1.5x",
+        captain: "Multiplica el ATK de los personajes Driven x1.5",
         specialName: "Snow Country Speciality: Snow Powder Makeup",
-        special: "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
+        special: "Hace 20x ATK en daño del tipo del personaje a un enemigo, bloquea todos los orbes por 1 turno"
     },
     852: {
-        captain: "Boosts ATK of Driven characters by 2x",
+        captain: "Multiplica el ATK de los personajes Driven x2",
         specialName: "Snow Country Speciality: Snow Powder Makeup",
-        special: "Deals 20x character's ATK in character's type damage to one enemy, locks all orbs for 1 turn"
+        special: "Hace 20x ATK en daño del tipo del personaje a un enemigo, bloquea todos los orbes por 1 turno"
     },
     853: {
         specialName: "Robson: Serious Mode",
-        special: "Following the activation of the special, if every unit scores a Perfect hit, boosts ATK of Powerhouse and Fighters characters by 1.2x for 3 turns"
+        special: "Tras activar el especial, si todas las unidades aciertan Perfect, multiplica el ATK de los personajes Powerhouse y Fighter x1.2 durante 3 turnos"
     },
     854: {
-        captain: "Boosts ATK of DEX chracters by 1.5x, reduces damage received by 10%",
+        captain: "Multiplica el ATK de los personajes DEX x1.5, reduce el daño recibido en un 10%",
         specialName: "Guard Point: Winter Coat",
-        special: "Redues damage received by 50% for 3 turns, slightly boosts chances of getting [DEX] orbs for 3 turns"
+        special: "Reduce el daño recibido en un 50% durante 3 turnos, incrementa ligeramente la posibilidad de conseguir orbes [DEX] durante 3 turnos"
     },
     855: {
-        captain: "Boosts ATK of Slasher characters by 2x",
+        captain: "Multiplica el ATK de los personajes Slasher x2",
         specialName: "Shambles: Holiday Toast",
-        special: "Changes captain's orb into [RCV], recovers 15x character's RCV in HP"
+        special: "Cambia el orbe del capitán a [RCV], regenera 15x RCV en HP"
     },
     856: {
-        captain: "Boosts ATK of Slasher characters by 2.5x",
+        captain: "Multiplica el ATK de los personajes Slasher x2.5",
         specialName: "Shambles: Holiday Toast",
-        special: "Changes captain's orb into [RCV], recovers 15x character's RCV in HP"
+        special: "Cambia el orbe del capitán a [RCV], regenera 15x RCV en HP"
     },
     857: {
-        captain: "Boosts ATK of PSY characters by 2x",
+        captain: "Multiplica el ATK de los personajes PSY x2",
         specialName: "Bonney's Holiday Feast",
-        special: "Changes adjacent orbs into [RCV] orbs, boosts RCV of PSY characters by 1.5x for 1 turn"
+        special: "Cambia los orbes adyacentes en orbes [RCV], multiplica el RCV de los personajes PSY x1.5 durante 1 turno"
     },
     858: {
-        captain: "Boosts ATK and RCV of PSY characters by 2x",
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x2",
         specialName: "Bonney's Holiday Feast",
-        special: "Changes adjacent orbs into [RCV] orbs, boosts RCV of PSY characters by 1.5x for 1 turn"
+        special: "Cambia los orbes adyacentes en orbes [RCV], multiplica el RCV de los personajes PSY x1.5 durante 1 turno"
     },
     859: {
-        captain: "Boosts ATK of Driven characters by 1.5x, reduces damage received up to 10% depending on the crew's current HP",
+        captain: "Multiplica el ATK de los personajes Driven x1.5, reduce el daño recibido hasta un 10% dependiendo del HP de la tripulación",
         specialName: "Pleading at the Risk of One's Life",
-        special: "Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn",
+        special: "Cambia los orbes adyacentes a orbes [RCV]; si el especial se activa con el HP superior al 50%, protege de la derrota durante 1 turno",
         specialNotes: "#{zombie}"
     },
     860: {
-        captain: "Boosts ATK of Driven characters by 2x, reduces damage received up to 30% depending on the crew's current HP",
+        captain: "Multiplica el ATK de los personajes Driven x2, reduce el daño recibido hasta un 30% dependiendo del HP de la tripulación",
         specialName: "Pleading at the Risk of One's Life",
-        special: "Changes adjacent orbs into [RCV] orbs; if the special is activated with more than 50% health remaining, protects from defeat for 1 turn",
+        special: "Cambia los orbes adyacentes a orbes [RCV]; si el especial se activa con el HP superior al 50%, protege de la derrota durante 1 turno",
         specialNotes: "#{zombie}"
     },
     861: {
         specialName: "Bewitching Lovely Iron Mace",
-        special: "Deals 13x character's ATK in QCK damage to one enemy, reduces damage received by 75% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Hace 13x ATK en daño QCK a un enemigo, reduce el daño recibido un 75% durante 1 turno, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     862: {
-        captain: "Boosts ATK of QCK characters by 2x, reduces damage received by 10%",
+        captain: "Multiplica el ATK de los personajes QCK x2, reduce el daño recibido en un 10%",
         specialName: "Bewitching Lovely Iron Mace",
-        special: "Deals 13x character's ATK in QCK damage to one enemy, reduces damage received by 75% for 1 turn, amplifies the effect of orbs by 1.5x for 1 turn",
+        special: "Hace 13x ATK en daño QCK a un enemigo, reduce el daño recibido un 75% durante 1 turno, amplifica el efecto de los orbes x1.5 durante 1 turno",
         specialNotes: "#{orb : 1.5x}"
     },
     863: {
-        captain: "Boosts ATK of QCK characters by 1.75x, recovers 2x character's RCV in HP at the end of each turn",
+        captain: "Multiplica el ATK de los personajes QCK x1.75, regenera 2x RCV en HP al final de cada turno",
         specialName: "Snow Crystal Clima-Tact",
-        special: "Reduces the defense of all enemies by 50% for 2 turns, reduces the ATK of all enemies by 10% for 2 turns"
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 2 turnos, reduce el ATK de todos los enemigos en un 10% durante 2 turnos"
     },
     864: {
-        captain: "Boosts ATK of Free Spirit characters by 2x",
+        captain: "Multiplica el ATK de los personajes Free Spirit x2",
         specialName: "Slave Arrow",
-        special: "Locks the chain multiplier at 2.5x for 2 turns, delays all enemies for 1 turn"
+        special: "Bloquea el multiplicador de cadena en 2.5 durante 2 turnos, retarda a todos los enemigos 1 turno"
     },
     865: {
-        captain: "Boosts ATK and HP of Free Spirit characters by 2x",
+        captain: "Multiplica el ATK y el HP de los personajes Free Spirit x2",
         specialName: "Slave Arrow",
-        special: "Locks the chain multiplier at 2.5x for 2 turns, delays all enemies for 1 turn"
+        special: "Bloquea el multiplicador de cadena en 2.5 durante 2 turnos, retarda a todos los enemigos 1 turno"
     },
     866: {
-        captain: "Boosts ATK of Cerebral characters by 2x",
+        captain: "Multiplica el ATK de los personajes Cerebral x2",
         specialName: "Cien Fleur Wing: The Storm",
-        special: "Boosts ATK of Slasher and Cerebral characters by 1.3x for 2 turns, reduces Bind duration by 2 turns"
+        special: "Multiplica el ATK de los personajes Slasher y Cerebral x1.3 durante 2 turnos, reduce la duración de las cadenas en 2 turnos"
     },
     867: {
-        captain: "Boosts ATK of all characters by 1.5x after the 12th hit in the chain",
+        captain: "Multiplica el ATK de todos los personajes x1.5 después del golpe nº12 de la cadena",
         specialName: "Tabasco Star: The Storm",
-        special: "Delays all enemies for 2 turns, deals 9x character's ATK in DEX damage to all enemies"
+        special: "Retarda a todos los enemigos 2 turnos, hace 9x ATK en daño DEX a todos los enemigos"
     },
     868: {
-        captain: "Boosts ATK of all characters by 1.2x, recovers 1,000 HP at the end of the turn",
+        captain: "Multiplica el ATK de todos los personajes x1.2, regenera 1000 HP al final de cada turno",
         specialName: "Heavy Gong: The Storm",
-        special: "Deals 15x character's ATK in STR damage to one enemy, reduces Bind duration by 3 turns"
+        special: "Hace 15x ATK en daño STR a un enemigo, reduce la duración de las cadenas en 3 turnos"
     },
     869: {
-        captain: "Boosts ATK of Driven characters by 3x until the first hit other than Perfect",
+        captain: "Multiplica el ATK de los personajes Driven x3 hasta el primer golpe distinto de Perfect",
         specialName: "Black Knight",
-        special: "Changes adjacent orbs into matching orbs, amplifies the effect of orbs by 2x for 1 turn",
+        special: "Cambia los orbes adyacentes a orbes beneficiosos, amplifica el efecto de los orbes x2 durante 1 turno",
         specialNotes: "#{orb : 2x}"
     },
     870: {
-        captain: "Boosts ATK of Driven characters by 3x until the first hit other than Perfect",
+        captain: "Multiplica el ATK de los personajes Driven x3 hasta el primer golpe distinto de Perfect",
         specialName: "Black Knight",
-        special: "Changes adjacent orbs into matching orbs, amplifies the effect of orbs by 2x for 1 turn",
+        special: "Cambia los orbes adyacentes a orbes beneficiosos, amplifica el efecto de los orbes x2 durante 1 turno",
         specialNotes: "#{orb : 2x}"
     },
     871: {
-        captain: "Boosts ATK and RCV of QCK characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x1.5",
         specialName: "Hobby-Hobby Fruit",
-        special: "Removes all enemies with HP below 20%",
-        specialNotes: "The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."
+        special: "Elimina a todos los enemigos con un HP inferior al 20%",
+        specialNotes: "El especial ignora todos los elementos defensivos conocidos. Si el enemigo puede revivir, sin embargo, el especial solo reducirá el HP del enemigo a 0 y este revivirá."
     },
     872: {
-        captain: "Boosts ATK and RCV of QCK characters by 2x",
+        captain: "Multiplica el ATK y el RCV de los personajes QCK x2",
         specialName: "Hobby-Hobby Fruit",
-        special: "Removes all enemies with HP below 20%",
-        specialNotes: "The special bypasses all known protective buffs. If the enemy can revive after being defeated, however, the special will only reduce the enemy's HP to 0 and trigger their revive effect."
+        special: "Elimina a todos los enemigos con un HP inferior al 20%",
+        specialNotes: "El especial ignora todos los elementos defensivos conocidos. Si el enemigo puede revivir, sin embargo, el especial solo reducirá el HP del enemigo a 0 y este revivirá."
     },
     873: {
-        captain: "Boosts ATK of Fighter characters by 2.5x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Fighter x2.5 si el HP está por debajo del 30% al principio del turno",
         specialName: "Nyan Nyan Swim",
         special: [
             {
-                "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.5x for 1 turn",
+                "description": "Cambia su propio orbe a [PSY], amplifica el efecto de los orbes x1.5 durante 1 turno",
                 "cooldown": [
                     13,
                     8
                 ]
             },
             {
-                "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.75x for 1 turn",
+                "description": "Cambia su propio orbe a [PSY], amplifica el efecto de los orbes x1.75 durante 1 turno",
                 "cooldown": [
                     19,
                     14
@@ -4003,18 +4003,18 @@ window.details = {
         specialNotes: "#{orb: 1.5x or 1.75x} #{stages}"
     },
     874: {
-        captain: "Boosts ATK of Fighter characters by 3x if HP is below 30% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Fighter x3 si el HP está por debajo del 30% al principio del turno",
         specialName: "Nyan Nyan Swim",
         special: [
             {
-                "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.5x for 1 turn",
+                "description": "Cambia su propio orbe a [PSY], amplifica el efecto de los orbes x1.5 durante 1 turno",
                 "cooldown": [
                     13,
                     8
                 ]
             },
             {
-                "description": "Changes own orb into [PSY], amplifies the effect of orbs by 1.75x for 1 turn",
+                "description": "Cambia su propio orbe a [PSY], amplifica el efecto de los orbes x1.75 durante 1 turno",
                 "cooldown": [
                     19,
                     14
@@ -4024,89 +4024,89 @@ window.details = {
         specialNotes: "#{orb: 1.5x or 1.75x} #{stages}"
     },
     875: {
-        captain: "Boosts ATK of Cerebral and Driven characters by 2x",
+        captain: "Multiplica el ATK de los personajes Cerebral y Driven x2",
         specialName: "Beto Launcher",
-        special: "Changes the captain's orb into a matching orb, locks all orbs for 1 turn, deals 13x character's ATK in INT damage to all enemies"
+        special: "Cambia el orbe del capitán en un orbe beneficioso, bloquea todos los orbes durante 1 turno, hace 13x ATK en daño INT a todos los enemigos"
     },
     876: {
-        captain: "Boosts ATK of Cerebral and Driven characters by 2.25x, makes [TND] and [RCV] orbs \"beneficial\" to Cerebral and Driven characters",
-        captainNotes: "\"Beneficial\" orbs grant the same ATK boost as matching orbs while retaining their original function.",
+        captain: "Multiplica el ATK de los personajes Cerebral y Driven x2.25, hace a los orbes [TND] y [RCV] \"beneficiosos\" para los personajes Cerebral y Driven",
+        captainNotes: "Los orbes \"beneficiosos\" otorgan el mismo multiplicador de ATK al mismo tiempo que conservan todas sus características.",
         specialName: "Beto Launcher",
-        special: "Changes the captain's orb into a matching orb, locks all orbs for 1 turn, deals 13x character's ATK in INT damage to all enemies"
+        special: "Cambia el orbe del capitán en un orbe beneficioso, bloquea todos los orbes durante 1 turno, hace 13x ATK en daño INT a todos los enemigos"
     },
     877: {
-        captain: "Boosts amount of beli received by 2x",
+        captain: "Multiplica la cantidad de beli recibida x2",
         specialName: "Heaven's Do Art",
-        special: "Reduces any damage received above 2,000 HP by 88% for 2 turns",
-        specialNotes: "The exact formula for the damage received is: 2000 + ((total damage) - 2000) * 0.12"
+        special: "Reduce todo daño recibido por encima de 2000 HP en un 88% durante 2 turnos",
+        specialNotes: "La fórmula exacta para calcular el daño recibido es: 2000 + ((daño total) - 2000) * 0.12"
     },
     878: {
-        captain: "Boosts ATK of all characters by 1.5x, boosts amount of beli received by 2x",
+        captain: "Multiplica el ATK de todos los personajes x1.5, multiplica la cantidad de beli recibida x2",
         specialName: "Heaven's Do Art",
-        special: "Reduces any damage received above 2,000 HP by 88% for 2 turns",
-        specialNotes: "The exact formula for the damage received is: 2000 + ((total damage) - 2000) * 0.12"
+        special: "Reduce todo daño recibido por encima de 2000 HP en un 88% durante 2 turnos",
+        specialNotes: "La fórmula exacta para calcular el daño recibido es: 2000 + ((daño total) - 2000) * 0.12"
     },
     879: {
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Fighter characters by 1.75x",
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de los personajes Fighter x1.75",
         specialName: "Battle Preservation Fist: Manki Kayaku",
-        special: "Changes all orbs including [BLOCK] orbs into [G] orbs, deals random typeless damage to all enemies",
+        special: "Cambia todos los orbes incluyendo orbes [BLOCK] en orbes [G], hace una cantidad aleatoria de ATK en daño sin tipo a todos los enemigos",
         specialNotes: "#{gOrbs}"
     },
     880: {
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight, boosts ATK of Fighter characters by 2x",
+        captain: "Reduce la carga de todos los especiales en 3 turnos, multiplica el ATK de los personajes Fighter x2",
         specialName: "Battle Preservation Fist: Manki Kayaku",
-        special: "Changes all orbs including [BLOCK] orbs into [G] orbs, deals random typeless damage to all enemies",
+        special: "Cambia todos los orbes incluyendo orbes [BLOCK] en orbes [G], hace una cantidad aleatoria de ATK en daño sin tipo a todos los enemigos",
         specialNotes: "#{gOrbs}"
     },
     881: {
-        captain: "Boosts ATK of Shooter and Free Spirit characters by 2x following a chain of Good > Great > Perfect hits",
+        captain: "Multiplica el ATK de los personajes Shooter y Free Spirit x2 siguiendo una cadena de golpes de Good > Great > Perfect",
         specialName: "Fighting Music: Conflict Chekera",
-        special: "Doubles damage received for 2 turns, reduces RCV by 90% for 2 turns, boosts ATK of Shooter and Free Spirit characters by 1.75x for 1 turn"
+        special: "Dobla el daño recibido durante 2 turnos, reduce el RCV en un 90% durante 2 turnos, multiplica el ATK de los personajes Shooter y Free Spirit x1.75 durante 1 turno"
     },
     882: {
-        captain: "Boosts ATK of Shooter and Free Spirit characters by 3x following a chain of Good > Great > Perfect hits",
+        captain: "Multiplica el ATK de los personajes Shooter y Free Spirit x3 siguiendo una cadena de golpes de Good > Great > Perfect",
         specialName: "Fighting Music: Conflict Chekera",
-        special: "Doubles damage received for 2 turns, reduces RCV by 90% for 2 turns, boosts ATK of Shooter and Free Spirit characters by 1.75x for 1 turn"
+        special: "Dobla el daño recibido durante 2 turnos, reduce el RCV en un 90% durante 2 turnos, multiplica el ATK de los personajes Shooter y Free Spirit x1.75 durante 1 turno"
     },
     883: {
-        captain: "Boosts ATK and HP of Powerhouse characters by 1.25x",
+        captain: "Multiplica el ATK y el HP de los personajes Powerhouse x1.25",
         specialName: "Hakoku Sovereignity",
-        special: "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
+        special: "Hace 20x ATK en daño del tipo del personaje a todos los enemigos, multiplica el ATK de los personajes Powerhouse x1.5 durante 1 turno. Si \"Hakoku Sovereignity\" es usado de nuevo en el mismo turno que se activó el especial, multiplica el ATK de los personajes Powerhouse x2 en su lugar."
     },
     884: {
-        captain: "Boosts ATK and HP of Powerhouse characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes Powerhouse x1.5",
         specialName: "Hakoku Sovereignity",
-        special: "Deals 20x character's ATK in character's type damage to all enemies, boosts ATK of Powerhouse characters by 1.5x for 1 turn. If \"Hakoku Sovereignity\" is used again in the same turn the special is activated in, boosts ATK of Powerhouse characters by 2x instead."
+        special: "Hace 20x ATK en daño del tipo del personaje a todos los enemigos, multiplica el ATK de los personajes Powerhouse x1.5 durante 1 turno. Si \"Hakoku Sovereignity\" es usado de nuevo en el mismo turno que se activó el especial, multiplica el ATK de los personajes Powerhouse x2 en su lugar."
     },
     885: {
-        captain: "Boosts ATK of Fighter characters by 2x, reduces damage received by 10%",
+        captain: "Multiplica el ATK de los personajes Fighter x2, reduce el daño recibido en un 10%",
         specialName: "Arabesque Brick Fist: Sun",
-        special: "Cuts the current HP of each enemy by 10%, boosts ATK of Fighter characters by 1.5x for 1 turn if HP is below 30% when the special is activated"
+        special: "Corta un 10% del HP actual de cada enemigo, multiplica el ATK de los personajes Fighter x1.5 durant 1 turno si el HP está por debajo del 30% cuando se activa el especial"
     },
     886: {
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Slasher characters by 2x",
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes Slasher x2",
         specialName: "Daisy Blade: First",
-        special: "Deals 15x character's ATK in STR damage to all enemies, boosts ATK of Slasher characters by 1.5x for 1 turn if HP is below 30% when the special is activated"
+        special: "Hace 15x ATK en daño STR a todos los enemigos, multiplica el ATK de los personajes Slasher x1.5 durante 1 turno si el HP está por debajo del 30% cuando se activa el especial"
     },
     887: {
-        captain: "Boosts ATK of Driven characters by 1.5x, boosts amount of beli received by 1.2x",
+        captain: "Multiplica el ATK de los personajes Driven x1.5, multiplica la cantidad de beli recibido x1.2",
         specialName: "Special Muggy Ball: Flashy",
-        special: "Reduces the defense of all enemies by 80% for 1 turn, deals 15x character's ATK in QCK damage to all enemies"
+        special: "Reduce la defensa de todos los enemigos en un 80% durante 1 turno, hace 15x ATK en daño QCK a un enemigo"
     },
     888: {
         specialName: "Negative Ghost",
-        special: "Slightly reduces the ATK of all enemies by 10% for 3 turns",
-        specialNotes: "The reduction does not apply to damage from specials"
+        special: "Reduce el ATK de todos los enemigos en un 10% durante 3 turnos",
+        specialNotes: "La reducción no incluye al daño de los especiales"
     },
     889: {
-        captain: "Boosts ATK and RCV of DEX characters by 1.2x",
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.2",
         specialName: "Ghost Rap",
-        special: "Changes [STR] orbs into [DEX] orbs, deals 10x character's ATK in DEX damage to all enemies"
+        special: "Cambia los orbes [STR] en orbes [DEX], hace 10x ATK en daño DEX a todos los enemigos"
     },
     890: {
-        captain: "Boosts ATK and RCV of DEX characters by 1.5x",
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.5",
         specialName: "Ghost Rap",
-        special: "Changes [STR] orbs into [DEX] orbs, deals 10x character's ATK in DEX damage to all enemies"
+        special: "Cambia los orbes [STR] en orbes [DEX], hace 10x ATK en daño DEX a todos los enemigos"
     },
     891: {
         captain: "Boosts ATK and RCV of Powerhouse characters by 1.75x",
