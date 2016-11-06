@@ -3176,147 +3176,147 @@ window.details = {
         captainNotes: "Un golpe por debajo de Good o un Miss multiplicará el ATK de la siguiente unidad x2, un Good x2.25, un Great x2.5 y un Perfect x2.75. Este aumento solo se aplica a personajes Slasher."
     },
     719: {
-        special: "Boosts ATK of Cerebral characters by a variable factor for 1 turn, deals 20x character's ATK in DEX damage to all enemies",
-        specialNotes: "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 30% HP, the multiplier used is 1.5x; below 30% HP, it's 2x.",
+        special: "Multiplica el ATK de los personajes Cerebral por un factor variable durante 1 turno, hace 20x ATK en daño DEX a todos los enemigos",
+        specialNotes: "El multiplicador exacto es elegido basándose en el HP de la tripulación en el momento en el que se activa el especial: por encima del 30%, el multiplicador usado es x1.5; por debajo del 30%, es x2.",
         specialName: "Sables: Pesado",
-        captain: "Boosts ATK of Cerebral characters proportionally to the crew's current HP",
-        captainNotes: "#{captainProportional : lower : 1.5 + 1.75 * (1 - (remaining HP) / (total HP)) : 1.5 : 3.25}"
+        captain: "Multiplica el ATK de los personajes Cerebral proporcionalmente al HP de la tripulación",
+        captainNotes: "#{captainProportional : lower : 1.5 + 1.75 * (1 - (HP restante) / (HP total)) : 1.5 : 3.25}"
     },
     720: {
-        special: "Boosts ATK of Cerebral characters by a variable factor for 1 turn, deals 20x character's ATK in DEX damage to all enemies",
-        specialNotes: "The exact multiplier used is chosen based on the crew's current HP at the time the special is activated: above 30% HP, the multiplier used is 1.5x; below 30% HP, it's 2x.",
+        special: "Multiplica el ATK de los personajes Cerebral por un factor variable durante 1 turno, hace 20x ATK en daño DEX a todos los enemigos",
+        specialNotes: "El multiplicador exacto es elegido basándose en el HP de la tripulación en el momento en el que se activa el especial: por encima del 30%, el multiplicador usado es x1.5; por debajo del 30%, es x2.",
         specialName: "Sables: Pesado",
-        captain: "Boosts ATK of Cerebral characters proportionally to the crew's current HP",
-        captainNotes: "#{captainProportional : lower : 1.5 + 1.75 * (1 - (remaining HP) / (total HP)) : 1.5 : 3.25}"
+        captain: "Multiplica el ATK de los personajes Cerebral proporcionalmente al HP de la tripulación",
+        captainNotes: "#{captainProportional : lower : 1.5 + 1.75 * (1 - (HP restante) / (HP total)) : 1.5 : 3.25}"
     },
     721: {
-        special: "Randomizes all orbs, including [BLOCK] orbs",
+        special: "Cambia aleatoriamente todos los orbes, incluyendo los orbes [BLOCK]",
         specialName: "Screw Drop Kick",
-        captain: "Boosts ATK of Fighter characters by 1.5x if HP is is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x1.5 si el HP está por encima del 99% al inicio del turno"
     },
     722: {
-        special: "Randomizes all orbs, including [BLOCK] orbs",
+        special: "Cambia aleatoriamente todos los orbes, incluyendo los orbes [BLOCK]",
         specialName: "Screw Drop Kick",
-        captain: "Boosts ATK of Fighter characters by 2x if HP is is above 99% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x2 si el HP está por encima del 99% al inicio del turno"
     },
     723: {
-        special: "Reduces crew's current HP by 80%, deals 5x the amount of HP subtracted in typeless damage to all enemies, reduces damage received by 90% for 1 turn",
+        special: "Reduce el HP de la tripulación en un 80%, hace 5x la cantidad de HP sustraída en daño sin tipo a todos los enemigos, reduce el daño recibido en un 90% durante 1 turno",
         specialName: "Right Angle Flying Bird: Bone Phoenix",
-        captain: "Boosts ATK of Slasher characters by 1.5x, recovers 1.2x character's RCV in HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes Slasher x1.5, regenera 1.2x RCV en HP al final de cada turno"
     },
     724: {
-        special: "Reduces crew's current HP by 80%, deals 5x the amount of HP subtracted in typeless damage to all enemies, reduces damage received by 90% for 1 turn",
+        special: "Reduce el HP de la tripulación en un 80%, hace 5x la cantidad de HP sustraída en daño sin tipo a todos los enemigos, reduce el daño recibido en un 90% durante 1 turno",
         specialName: "Right Angle Flying Bird: Bone Phoenix",
-        captain: "Boosts ATK of Slasher characters by 1.75x, recovers 1.5x character's RCV in HP at the end of each turn"
+        captain: "Multiplica el ATK de los personajes Slasher x1.75, regenera 1.5x RCV en HP al final de cada turno"
     },
     725: {
-        special: "Changes [TND] orbs into [QCK] orbs, switches orbs between slots twice",
+        special: "Cambia los orbes [TND] en orbes [QCK], cambia orbes entre ranuras libremente dos veces",
         specialName: "Peacock String Slasher",
-        captain: "Recovers 1,000 HP at the end of each turn"
+        captain: "Regenera 1000 HP al final de cada turno"
     },
     726: {
-        special: "Changes [TND] orbs into [QCK] orbs, switches orbs between slots twice",
+        special: "Cambia los orbes [TND] en orbes [QCK], cambia orbes entre ranuras libremente dos veces",
         specialName: "Peacock String Slasher",
-        captain: "Recovers 2,000 HP at the end of each turn"
+        captain: "Regenera 2000 HP al final de cada turno"
     },
     727: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies, reduces the defense of all enemies by 50% for 1 turn",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos, reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Gum-Gum Gatling",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight, boosts ATK of Free Spirit and Fighter characters by 1.75x"
+        captain: "Reduce la carga de todos los especiales en 2 turnos, multiplica el ATK de los personajes Free Spirit y Fighter x1.75"
     },
     728: {
-        special: "Randomizes all orbs, recovers 6x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Cambia aleatoriamente todos los orbes, regenera 6x RCV en HP al final de cada turno durante 3 turnos",
         specialName: "Sheep Cloud Relaxing Bubbles",
-        captain: "Boosts ATK and RCV of DEX characters by 1.2x, slightly boosts chances of getting [DEX] orbs"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.2, incrementa ligeramente la posibilidad de conseguir orbes [DEX]"
     },
     729: {
-        special: "Randomizes all orbs, recovers 6x character's RCV in HP at the end of each turn for 3 turns",
+        special: "Cambia aleatoriamente todos los orbes, regenera 6x RCV en HP al final de cada turno durante 3 turnos",
         specialName: "Sheep Cloud Relaxing Bubbles",
-        captain: "Boosts ATK and RCV of DEX characters by 1.2x, boosts chances of getting [DEX] orbs"
+        captain: "Multiplica el ATK y el RCV de los personajes DEX x1.2, incrementa la posibilidad de conseguir orbes [DEX]"
     },
     730: {
-        special: "Reduces crew's current HP by 99%, deals 2x the amount of HP subtracted in INT damage to all enemies, boosts ATK of INT characters by 1.5x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 99%, hace 2x la cantidad de HP sustraída en daño INT a todos los enemigos, multiplica el ATK de los personajes INT x1.5 durante 1 turno",
         specialName: "Rankyaku - Lupus Fall",
-        captain: "Boosts ATK and HP of INT characters by 1.2x, deals 9 HP as fixed damage to all enemies at the end of each turn",
+        captain: "Multiplica el ATK y el HP de los personajes INT x1.2, hace 9 en daño fijo a todos los enemigos al final de cada turno",
         captainNotes: "#{fixed}"
     },
     731: {
-        special: "Reduces crew's current HP by 99%, deals 2x the amount of HP subtracted in INT damage to all enemies, boosts ATK of INT characters by 1.5x for 1 turn",
+        special: "Reduce el HP de la tripulación en un 99%, hace 2x la cantidad de HP sustraída en daño INT a todos los enemigos, multiplica el ATK de los personajes INT x1.5 durante 1 turno",
         specialName: "Rankyaku - Lupus Fall",
-        captain: "Boosts ATK and HP of INT characters by 1.5x, deals 9 HP as fixed damage to all enemies at the end of each turn",
+        captain: "Multiplica el ATK y el HP de los personajes INT x1.5, hace 9 en daño fijo a todos los enemigos al final de cada turno",
         captainNotes: "#{fixed}"
     },
     732: {
-        special: "Deals 13x character's ATK in STR damage to one enemy, reduces damage received by 50% for 1 turn",
+        special: "Hace 13x ATK en daño STR a un enemigo, reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Tekkai Dama",
-        captain: "Boosts ATK of STR characters by 1.5x, reduces damage received by 10%"
+        captain: "Multiplica el ATK de los personajes STR x1.5, reduce el daño recibido en un 10%"
     },
     733: {
-        special: "Deals 13x character's ATK in STR damage to one enemy, reduces damage received by 50% for 1 turn",
+        special: "Hace 13x ATK en daño STR a un enemigo, reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Tekkai Dama",
-        captain: "Boosts ATK of STR characters by 1.5x, reduces damage received by 20%"
+        captain: "Multiplica el ATK de los personajes STR x1.5, reduce el daño recibido en un 20%"
     },
     734: {
-        special: "For 1 turn, boosts the amount healed by RCV orbs by 1.5x, then 2x, then 2.5x from the third crew member onward",
+        special: "Durante 1 turno, multiplica la cantidad curada por los orbes [RCV] x1.5, luego x2, luego x2.5 del tercer miembro en adelante",
         specialName: "Life Return - Digestion, Absorption",
-        captain: "Boosts ATK and RCV of PSY characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.2"
     },
     735: {
-        special: "For 1 turn, boosts the amount healed by RCV orbs by 1.5x, then 2x, then 2.5x from the third crew member onward",
+        special: "Durante 1 turno, multiplica la cantidad curada por los orbes [RCV] x1.5, luego x2, luego x2.5 del tercer miembro en adelante",
         specialName: "Life Return - Digestion, Absorption",
-        captain: "Boosts ATK and RCV of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes PSY x1.5"
     },
     736: {
-        special: "Deals 20x character's ATK in STR damage to all enemies, changes [QCK] orbs into [STR] orbs",
+        special: "Hace 20x ATK en daño STR a todos los enemigos, cambia los orbes [QCK] a orbes [STR]",
         specialName: "Fierce Smash",
-        captain: "Boosts ATK of Slasher characters by 2.5x if HP is above 50% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Slasher si el HP está por encima del 50% al inicio del turno"
     },
     737: {
-        special: "Changes [RCV] orbs into [QCK] orbs, changes adjacent orbs into [QCK] orbs",
+        special: "Cambia los orbes [RCV] en orbes [QCK], cambia los orbes adyacentes a orbes [QCK]",
         specialName: "Shigan - Bachi",
-        captain: "Boosts ATK of Fighter characters by 2.75x if HP is below 30% at the start of the turn"
+        captain: "Multiplica el ATK de los personajes Fighter x2.75 si el HP está por debajo del 30% al inicio del turno"
     },
     738: {
-        special: "Deals 200x character's ATK in INT damage to one enemy",
+        special: "Hace 200x ATK en daño INT a un enemigo",
         specialName: "Ivory Rush",
-        captain: "Boosts ATK of characters with cost 21 or more by 2x"
+        captain: "Multiplica el ATK de los personajes con un coste de 21 o superior x2"
     },
     739: {
-        special: "Reduces Bind duration by 5 turns, randomizes all orbs",
+        special: "Reduce la duración de las cadenas en 5 turnos, cambia aleatoriamente todos los orbes",
         specialName: "Coup de Boo",
-        captain: "Boosts ATK of Free Spirit characters by 2x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     740: {
-        special: "Deals 10x character's ATK in QCK damage to all enemies, boosts ATK against enemies with increased defense by 1.3x for 2 turns",
+        special: "Hace 10x ATK en daño QCK a todos los enemigos, multiplica el ATK contra los enemigos con defensa incrementada x1.3 durante 2 turnos",
         specialName: "Rankyaku - Sen",
-        captain: "Reduces cooldown of all specials by 2 turns at the start of the fight"
+        captain: "Reduce el tiempo de carga de todos los especiales en 2 turnos"
     },
     741: {
-        special: "Deals 10x character's ATK in QCK damage to all enemies, boosts ATK against enemies with increased defense by 1.3x for 2 turns",
+        special: "Hace 10x ATK en daño QCK a todos los enemigos, multiplica el ATK contra los enemigos con defensa incrementada x1.3 durante 2 turnos",
         specialName: "Rankyaku - Sen",
-        captain: "Reduces cooldown of all specials by 3 turns at the start of the fight"
+        captain: "Reduce el tiempo de carga de todos los especiales en 3 turnos"
     },
     742: {
-        special: "Amplifies the effect of orbs by 1.25x for 2 turns, reduces the defense of all enemies by 80% for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.25 durante 2 turnos, reduce la defensa de todos los enemigos en un 80% durante 2 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Ramen Beam",
-        captain: "Boosts ATK and RCV of Free Spirit characters by 1.2x"
+        captain: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.2"
     },
     743: {
-        special: "Amplifies the effect of orbs by 1.25x for 2 turns, reduces the defense of all enemies by 80% for 2 turns",
+        special: "Amplifica el efecto de los orbes x1.25 durante 2 turnos, reduce la defensa de todos los enemigos en un 80% durante 2 turnos",
         specialNotes: "#{orb : 1.25x}",
         specialName: "Ramen Beam",
-        captain: "Boosts ATK and RCV of Free Spirit characters by 1.5x"
+        captain: "Multiplica el ATK y el RCV de los personajes Free Spirit x1.5"
     },
     744: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "Flame Fence",
-        captain: "Boosts ATK of Free Spirit characters by 2x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     745: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "Flame Fence",
-        captain: "Boosts ATK of Free Spirit characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes Free Spirit x2"
     },
     746: {
         special: "Deals 10x character's ATK in QCK damage to all enemies, protects from defeat as long as HP is above 50% for 1 turn",
