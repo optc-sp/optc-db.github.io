@@ -4575,23 +4575,23 @@ window.details = {
     },
     968:{
         specialName: "High Heat Ray Laser",
-        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
+        special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     969:{
         specialName: "High Heat Ray Laser",
-        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
+        special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     970:{
         specialName: "High Heat Ray Laser",
-        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
+        special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     971:{
         specialName: "High Heat Ray Laser",
-        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
+        special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     972:{
         specialName: "High Heat Ray Laser",
-        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
+        special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     973:{
         captain: "Boosts ATK of Powerhouse Characters by 2x if HP is above 99% at the start of the turn",
