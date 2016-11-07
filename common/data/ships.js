@@ -5,7 +5,7 @@ window.ships = [
     { // 0
         name: 'Dinghy',
         thumb: 'ship_0001_c.png',
-        description: 'Boosts HP by 1.3x, boosts captain\'s RCV by 120 units',
+        description: 'Multiplica el HP x1.3, incrementa el RCV del capitán en 120 unidades',
         hp: function(p) {
             return p.boatLevel < 6  ? 1.0  :
                    p.boatLevel < 10 ? 1.1 :
@@ -20,7 +20,7 @@ window.ships = [
     { // 1
         name: 'Merry Go',
         thumb: 'ship_0002_c.png',
-        description: 'Boosts ATK by 1.5x, boosts captain\'s HP by 300 units',
+        description: 'Multiplica el ATK x1.5, incrementa el HP del capitán en 300 unidades',
         hpStatic: function(p) {
             return p.slot != 1 ? 0 :
                 [ 100, 130, 150, 170, 190, 210, 230, 250, 270, 300 ][p.boatLevel - 1];
@@ -35,7 +35,7 @@ window.ships = [
     { // 2
         name: 'Navy Ship',
         thumb: 'ship_0003_c.png',
-        description: 'Boosts HP by 1.5x, boosts ATK of Shooter characters by 100 units',
+        description: 'Multiplica el HP x1.5, incrementa el ATK de los personajes Shooter en 100 unidades',
         atkStatic: function(p) {
             return !p.unit.class.has('Shooter') ? 0 :
                 [ 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 ][p.boatLevel -1];
@@ -50,7 +50,7 @@ window.ships = [
     { // 3
         name: 'Baratie',
         thumb: 'ship_0004_c.png',
-        description: 'Boosts captain\'s HP by 2000 units',
+        description: 'Incrementa el HP del capitán en 2000 unidades',
         hpStatic: function(p) {
             return p.slot != 1 ? 0 :
                 [ 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 2000 ][p.boatLevel - 1];
@@ -60,7 +60,7 @@ window.ships = [
     { // 4
         name: 'Coffin Boat',
         thumb: 'ship_0005_c.png',
-        description: 'Boosts ATK and HP of Slasher characters by 1.5x, reduces captain\'s RCV by 700 units',
+        description: 'Multiplica el ATK y el HP de los personajes Slasher x1.5, reduce el RCV del capitán en 700 unidades',
         atk: function(p) {
             return !p.unit.class.has('Slasher') ? 1 :
                 [ 1.1, 1.1, 1.2, 1.2, 1.3, 1.3, 1.3, 1.4, 1.4, 1.5 ][p.boatLevel - 1];
@@ -77,7 +77,7 @@ window.ships = [
     { // 5
         name: 'Miss Love Duck',
         thumb: 'ship_0006_c.png',
-        description: 'Reduces damage received by 10%, boosts ATK of Striker characters by 100 units',
+        description: 'Reduce el daño recibido en un 10%, incrementa el ATK de los personajes Striker en 100 unidades',
         atkStatic: function(p) {
             return !p.unit.class.has('Striker') ? 0 : [ 0, 0, 0, 0, 0, 0, 50, 50, 50, 100 ][p.boatLevel -1];
         }
@@ -86,7 +86,7 @@ window.ships = [
     { // 6
         name: 'Merry Go Flying',
         thumb: 'ship_0007_c.png',
-        description: 'Boosts ATK by 1.2x, recovers 350 HP at the end of the turn',
+        description: 'Multiplica el ATK x1.2, regenera 350 HP al final de cada turno',
         atk: function(p) {
             return p.boatLevel < 7 ? 1 : [ 1.1, 1.1, 1.1, 1.2 ][p.boatLevel - 7];
         },
@@ -98,7 +98,7 @@ window.ships = [
     { // 7
         name: 'Moby Dick',
         thumb: 'ship_0008_c1.png',
-        description: 'Boosts ATK by 1.5x, boosts HP by 1.4x, reduces HP by 50% at the start of the fight',
+        description: 'Multiplica el ATK x1.5, multiplica el HP x1.4, reduce el HP en un 50% al inicio de la batalla',
         atk: function(p) {
             return [ 1.2, 1.2, 1.25, 1.3, 1.3, 1.35, 1.4, 1.4, 1.4, 1.5 ][p.boatLevel - 1];
         },
@@ -110,7 +110,7 @@ window.ships = [
     { // 8
         name: 'Big Top',
         thumb: 'ship_0009_c1.png',
-        description: 'Boosts ATK of characters with 20 cost or less by 1.5x, boosts HP of characters with 4 stars and below by 1.4x',
+        description: 'Multiplica el ATK de los personajes con un coste de 20 o inferior x1.5, multiplica el HP de los personajes con 4 estrellas o menos x1.4',
         atk: function(p) {
             var matching = p.unit.cost <= 15 || (p.unit.cost <= 20 && p.boatLevel >= 6);
             return matching ? [ 1.1, 1.1, 1.2, 1.2, 1.2, 1.2, 1.3, 1.3, 1.4, 1.5 ][p.boatLevel - 1] : 1;
@@ -123,7 +123,7 @@ window.ships = [
     { // 9
         name: 'Bezan Black',
         thumb: 'ship_0010_c1.png',
-        description: 'Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of QCK characters by 1.4x and their HP by 1.3x',
+        description: 'Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes QCK x1.4 y su HP x1.3',
         atk: function(p) {
             return p.unit.type != 'QCK' ? 1 : [ 1.1, 1.1, 1.15, 1.2, 1.2, 1.2, 1.25, 1.3, 1.3, 1.4 ][p.boatLevel - 1];
         },
@@ -135,7 +135,7 @@ window.ships = [
     { // 10
         name: 'Aokiji\'s Bike',
         thumb: 'ship_0011_c1.png',
-        description: 'Boosts ATK and HP of Striker characters by 1.5x, greatly reduces the appearance of RCV orbs',
+        description: 'Multiplica el ATK y el HP de los personajes Striker x1.5, reduce altamente la aparición de orbes RCV',
         atk: function(p) {
             return !p.unit.class.has('Striker') ? 1 :
                 [ 1.2, 1.2, 1.2, 1.2, 1.3, 1.3, 1.3, 1.4, 1.4, 1.5 ][p.boatLevel - 1];
@@ -149,7 +149,7 @@ window.ships = [
     { // 11
         name: 'Ace\'s Striker',
         thumb: 'ship_0012_c1.png',
-        description: 'Boosts ATK of Shooter characters by 1.5x and their HP by 1.3x, reduces cooldown of all specials by 1 turn at the start of the fight',
+        description: 'Multiplica el ATK de los personajes Shooter x1.5 y su HP x1.3, reduce la carga de todos los especiales en 1 turno',
         atk: function(p) {
             return !p.unit.class.has('Shooter') ? 1 :
                 [ 1.2, 1.2, 1.2, 1.25, 1.25, 1.3, 1.3, 1.4, 1.4, 1.5 ][p.boatLevel - 1];
@@ -163,7 +163,7 @@ window.ships = [
     { // 12
         name: 'Dreadnaught Sabre',
         thumb: 'ship_0014_c1.png',
-        description: 'Boosts HP by 1.5x, deals 5,000 typeless damage at the end of the turn',
+        description: 'Multiplica el HP x1.5, hace 5000 en daño sin tipo al final de cada turno',
         hp: function(p) {
             return [ 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.5][p.boatLevel - 1];
         }
@@ -172,7 +172,7 @@ window.ships = [
     { // 13
         name: 'Thousand Sunny',
         thumb: 'ship_0013_c.png',
-        description: 'Boosts ATK by 1.5x. Special: deals 50,000 typeless damage to all enemies (cooldown: 15 turns).',
+        description: 'Multiplica el ATK x1.5. Especial: hace 50000 en daño sin tipo a todos los enemigos (carga: 15 turnos).',
         atk: function(p) {
             return [ 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.5 ][p.boatLevel - 1];
         }
@@ -181,7 +181,7 @@ window.ships = [
     { //14
         name: 'Kuja Pirate Ship',
         thumb: 'ship_0015_c1.png',
-        description: 'Boosts ATK of Free Spirit characters by 1.5x and their HP by 1.35x, reduces the HP of everyone else by 99%. Special: heals the crew by 6,500HP (cooldown: 15 turns).',
+        description: 'Multiplica el ATK de los personajes Free Spirit x1.5 y su HP x1.35, reduce el HP de cualquier otro personaje en un 99%. Especial: Cura 6500 HP (carga: 15 turnos).',
         atk: function(p) {
             return !p.unit.class.has('Free Spirit') ? 1 :
             [ 1.2, 1.2, 1.2, 1.2, 1.2, 1.3, 1.3, 1.3, 1.4, 1.5 ][p.boatLevel - 1];
@@ -195,7 +195,7 @@ window.ships = [
     { //15
         name: 'Ark Maxim',
         thumb: 'ship_0016_c1.png',
-        description: 'Boosts ATK of QCK and PSY characters by 1.5x and their HP by 1.2x. Special: Deals 56560 fixed Damage to all enemies (cooldown: 17 Turns)',
+        description: 'Multiplica el ATK de los personajes QCK y PSY x1.5 y su HP x1.2. Especial: Hace 56560 en daño fijo a todos los enemigos (carga: 17 Turnos)',
         atk: function(p) {
             return p.unit.type == "PSY" || p.unit.type == "QCK" ? [ 1.2, 1.2, 1.2, 1.2, 1.2, 1.3, 1.3, 1.3, 1.4, 1.5 ][p.boatLevel - 1] : 1;
         },
@@ -207,7 +207,7 @@ window.ships = [
     { // 16
         name: 'Red Force',
         thumb: 'ship_0017_c1.png',
-        description: 'Boosts ATK of Cerebral characters by 1.5x and their HP by 1.35x, Increased Orb Rate for Cerebral characters.',
+        description: 'Multiplica el ATK de los personajes Cerebral x1.5 y su HP x1.35, incrementa la posibilidad de conseguir orbe beneficioso en los personajes Cerebral.',
         atk: function(p) {
             return  !p.unit.class.has('Cerebral') ? 1 : [ 1.0, 1.2, 1.2, 1.2, 1.25, 1.3, 1.4, 1.4, 1.4, 1.5 ][p.boatLevel - 1];
         },
@@ -219,14 +219,14 @@ window.ships = [
     { // 17
         name: '2nd Anniversary Thousand Sunny',
         thumb: 'ship_0018_c1.png',
-        description: 'Boosts ATK by 1.2x.',
+        description: 'Multiplica el ATK x1.2.',
         atk: function(p) { return 1.2; },
     }, 
     
     { // 18
         name: 'Sun Pirates Ship',
         thumb: 'ship_0019_c.png',
-        description: 'Boosts ATK and HP of Fighter characters depending on the number of Fighters on the team. Sharply reduces ATK and HP of non-Fighter units.',
+        description: 'Multiplica el ATK y el HP de los personajes Fighter dependiendo del número de personajes Fighter en el equipo. Reduce enormemente el ATK y el HP de los personajes No-Fighter.',
         atk: function(p) {
             return !p.unit.class.has('Fighter') ? .05 :
                 [ p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.01 : p.classCount.Fighter == 3 ? 1.02 : p.classCount.Fighter == 4 ? 1.03 : p.classCount.Fighter == 5 ? 1.04 : p.classCount.Fighter == 6 ? 1.05 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.02 : p.classCount.Fighter == 3 ? 1.03 : p.classCount.Fighter == 4 ? 1.04 : p.classCount.Fighter == 5 ? 1.05 : p.classCount.Fighter == 6 ? 1.1 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.02 : p.classCount.Fighter == 3 ? 1.03 : p.classCount.Fighter == 4 ? 1.05 : p.classCount.Fighter == 5 ? 1.1 : p.classCount.Fighter == 6 ? 1.15 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.02 : p.classCount.Fighter == 3 ? 1.05 : p.classCount.Fighter == 4 ? 1.1 : p.classCount.Fighter == 5 ? 1.15 : p.classCount.Fighter == 6 ? 1.2 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.05 : p.classCount.Fighter == 3 ? 1.1 : p.classCount.Fighter == 4 ? 1.15 : p.classCount.Fighter == 5 ? 1.2 : p.classCount.Fighter == 6 ? 1.25 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.05 : p.classCount.Fighter == 3 ? 1.1 : p.classCount.Fighter == 4 ? 1.15 : p.classCount.Fighter == 5 ? 1.2 : p.classCount.Fighter == 6 ? 1.3 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.1 : p.classCount.Fighter == 3 ? 1.15 : p.classCount.Fighter == 4 ? 1.2 : p.classCount.Fighter == 5 ? 1.25 : p.classCount.Fighter == 6 ? 1.35 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.1 : p.classCount.Fighter == 3 ? 1.15 : p.classCount.Fighter == 4 ? 1.2 : p.classCount.Fighter == 5 ? 1.3 : p.classCount.Fighter == 6 ? 1.4 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.1 : p.classCount.Fighter == 3 ? 1.15 : p.classCount.Fighter == 4 ? 1.2 : p.classCount.Fighter == 5 ? 1.3 : p.classCount.Fighter == 6 ? 1.45 : 0, p.classCount.Fighter == 1 ? 1 : p.classCount.Fighter == 2 ? 1.1 : p.classCount.Fighter == 3 ? 1.2 : p.classCount.Fighter == 4 ? 1.3 : p.classCount.Fighter == 5 ? 1.4 : p.classCount.Fighter == 6 ? 1.5 : 0][p.boatLevel - 1];
@@ -240,7 +240,7 @@ window.ships = [
     { // 19
         name: "Doflamingo Ship",
         thumb: null,
-        description: 'Boosts ATK of Driven Characters by 1.5x and their HP by 1.35x. Makes Perfects easier to Hit for Driven characters. Special: Adds 0.2 to Chain  (cooldown: 15 Turns)',
+        description: 'Multiplica el ATK de los personajes Driven x1.5 y su HP x1.35. Hace los Perfect más fáciles de acertar para los personajes Driven. Especial: Añade 0.2 a la cadena  (carga: 15 Turnos)',
         atk: function(p) { return !p.unit.class.has('Driven') ? 1 : [ 1.2, 1.2, 1.3, 1.3, 1.3, 1.3, 1.4, 1.4, 1.4, 1.5][p.boatLevel - 1]},
         hp: function(p) { return !p.unit.class.has('Driven') ? 1 : [ 1.1, 1.1, 1.1, 1.15, 1.2, 1.2, 1.2, 1.2, 1.2, 1.35][p.boatLevel - 1]}
     },
@@ -248,7 +248,7 @@ window.ships = [
     { // 20
         name: 'The Rocket Man',
         thumb: null,
-        description: 'Boosts ATK of Powerhouse characters by 1.55x, and heals at the end of every turn for a variable amount depending on the number of Powerhouse characters on the team. (At MAX, heals 900 per turn with 6 Powerhouse characters) Sharply reduces HP of non-Powerhouse units. Special: Deals 99,999 typeless damage to one unit.  (cooldown MAX: 17 Turns)',
+        description: 'Multiplica el ATK de los personajes Powerhouse x1.55, cura al final de cada turno una cantidad variable que depende del número de personajes Powerhouse en el equipo. (Al MÁXIMO, cura 900 por turno con 9 personajes Powerhouse) Reduce enormemente el HP de los personajes No-Powerhouse. Especial: Deals 99999 en daño sin tipo a una unidad.  (carga: 17 Turnos)',
         atk: function(p) {
             return !p.unit.class.has('Powerhouse') ? 1 : [ 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.4, 1.55 ][p.boatLevel - 1];
         },
@@ -260,7 +260,7 @@ window.ships = [
     { // 21
         name: 'Burning Whitebeard Ship',
         thumb: null,
-        description: 'Boosts HP by 1.3x',
+        description: 'Multiplica el HP x1.3',
         hp: function(p) {
             return 1.3;
         },
@@ -269,7 +269,7 @@ window.ships = [
     { // 22
         name: 'Garp Ship',
         thumb: null,
-        description: 'Boosts ATK of [STR] and [PSY] characters by 1.5x, and their HP by 1.25x',
+        description: 'Multiplica el ATK de los personajes [STR] y [PSY] x1.5, y su HP x1.25',
         atk: function(p) {
             return p.unit.type == "PSY" || p.unit.type == "STR" ? [ 1.2, 1.25, 1.25, 1.3, 1.35, 1.35, 1.4, 1.4, 1.45, 1.5 ][p.boatLevel - 1] : 1;
         },
