@@ -4435,14 +4435,14 @@ window.details = {
         special: "Reduce la duración de las cadenas para un personaje completamente. Para los personajes Striker y Cerebral, cambia los orbes negativos en beneficiosos"
     },
     940: {
-        captain: "Boosts ATK and HP of [DEX] Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes [DEX] x1.5",
         specialName: "Sure Kill! Exploding Star!!",
-        special: "Deals 13x ATK as [DEX] damage to all enemies, and boosts ATK of [DEX] characters by 1.75x for 1 turn"
+        special: "Hace 13x ATK en daño DEX a todos los enemigos, y multiplica el ATK de los personajes [DEX] x1.75 durante 1 turno"
     },
     941: {
-        captain: "Boosts ATK of [DEX] Characters by 1.75x and their HP by 2.25x",
+        captain: "Multiplica el ATK de los personajes [DEX] x1.75 y su HP x2.25",
         specialName: "Sure Kill! Exploding Star!!",
-        special: "Deals 13x ATK as [DEX] damage to all enemies, and boosts ATK of [DEX] characters by 1.75x for 1 turn"
+        special: "Hace 13x ATK en daño DEX a todos los enemigos, y multiplica el ATK de los personajes [DEX] x1.75 durante 1 turno"
     },
     942: {
         captain: "Boosts ATK and HP of [STR] Characters by 1.5x",
