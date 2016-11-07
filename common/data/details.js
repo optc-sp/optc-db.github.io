@@ -4445,153 +4445,153 @@ window.details = {
         special: "Hace 13x ATK en daño DEX a todos los enemigos, y multiplica el ATK de los personajes [DEX] x1.75 durante 1 turno"
     },
     942: {
-        captain: "Boosts ATK and HP of [STR] Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes [STR] x1.5",
         specialName: "Future Country's Big Incident: The Nightmare of Baldimore",
-        special: "Reduces damage received from [QCK] enemies by 100% for 1 turn"
+        special: "Reduce el daño recibido de los enemigos [QCK] en un 100% durante 1 turno"
     },
     943: {
-        captain: "Boosts ATK of [STR] Characters by 2.25x and their HP by 1.75x",
+        captain: "Multiplica el ATK de los personajes [STR] x2.25 y su HP x1.75",
         specialName: "Future Country's Big Incident: The Nightmare of Baldimore",
-        special: "Reduces damage received from [QCK] enemies by 100% for 1 turn"
+        special: "Reduce el daño recibido de los enemigos [QCK] en un 100% durante 1 turno"
     },
     944: {
-        captain: "Boosts ATK and RCV of Driven Characters by 1.2x",
+        captain: "Multiplica el ATK y el HP de los personajes Driven x1.2",
         specialName: "Spiritual Bouquet",
-        special: "Boosts ATK and RCV of Driven Characters by 1.5x for 1 turn"
+        special: "Multiplica el ATK y el RCV de los personajes Driven x1.5 durante 1 turno"
     },
     945: {
-        captain: "Boosts ATK and RCV of Driven Characters by 1.75x",
+        captain: "Multiplica el ATK y el HP de los personajes Driven x1.75",
         specialName: "Spiritual Bouquet",
-        special: "Boosts ATK and RCV of Driven Characters by 1.5x for 1 turn"
+        special: "Multiplica el ATK y el RCV de los personajes Driven x1.5 durante 1 turno"
     },
     946: {
         specialName: "Lock-on Iron Ball",
-        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, boosts ATK of Striker Characters by 1.75x",
-        special: "Change Friend Captain and changes own orb into [INT]"
+        captain: "Reduce la carga de todos los especiales en 1 turno, multiplica el ATK de los personajes Striker x1.75",
+        special: "Cambia el orbe del capitán amigo y su propio orbe a [INT]"
     },
     947: {
-        captain: "Boosts ATK of [INT] Characters by 1.5x, Boosts damage of [INT] specials by 1.5x",
+        captain: "Multiplica el ATK de los personajes [INT] x1.5, multiplica el daño de los especiales [INT] x1.5",
         specialName: "Flame Flash",
-        special: "[STR] and [INT] Characters gain 1.3x ATK for 1 turn. Deals 10x character's ATK in [INT] damage to all enemies",
+        special: "Los personajes [STR] y [INT] ganan 1.3x ATK durante 1 turno. Hace 10x ATK en daño [INT] a todos los enemigos",
         captainNotes: "#{noFixedPerc}"
     },
     948: {
-        captain: "Boosts ATK of Shooter Characters by 1.5x and their RCV by 1.2x",
+        captain: "Multiplica el ATK de los personajes Shooter x1.5 y su RCV x1.2",
         specialName: "Twin Cannons",
-        special: "Randomly changes all orbs to either [STR] or [INT]. Deals random [STR] damage"
+        special: "Cambia aleatoriamente todos los orbes en [STR] o [INT]. Hace una cantidad aleatoria de ATK en daño [STR]"
     },
     949: {
-        captain: "Boosts ATK of Slasher Characters by 2x, recovers 2x character's RCV in HP at the end of each turn",
+        captain: "Multiplica el ATK de los personajes Slasher x2, regenera 2x RCV en HP al final de cada turno",
         specialName: "Ties with Ace",
-        special: "Reduces Silence duration by 3 turns, and recovers 4,000 HP",
-        specialNotes: "Silence will refer to effects that prevent you from activating Special Abilities"
+        special: "Reduce la duración del silencio de especiales en 3 turnos, y regenera 4000 HP",
+        specialNotes: "El silencio se refiere al efecto que te impide el uso de habilidades especiales"
     },
     950: {
-        captain: "Boosts ATK of Fighter and Free Spirit Characters by 2.5x after scoring 3 Perfects in a row",
+        captain: "Multiplica el ATK de los personajes Fighter y Free Spirit x2.5 después de acertar 3 Perfect seguidos",
         specialName: "Flame Commandment: Fire Pillar",
-        special: "Reduces Special Cooldown of Fighter and Free Spirit Characters by 1 turn. Reduces damage received by 50% for 1 turn.",
-        specialNotes: "Reducing Special Cooldown works as if you took an extra turn"
+        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turo. Reduce el daño recibido en un 50% durante 1 turno.",
+        specialNotes: "Reducir el tiempo de carga de los especiales funciona como si esperaras un turno extra"
     },
     951: {
-        captain: "Boosts ATK of Fighter and Free Spirit Characters by 2.75x after scoring 3 Perfects in a row",
+        captain: "Multiplica el ATK de los personajes Fighter y Free Spirit x2.75 después de acertar 3 Perfect seguidos",
         specialName: "Flame Commandment: Fire Pillar",
-        special: "Reduces Special Cooldown of Fighter and Free Spirit Characters by 1 turn. Reduces damage received by 50% for 1 turn.",
-        specialNotes: "Reducing Special Cooldown works as if you took an extra turn"
+        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turo. Reduce el daño recibido en un 50% durante 1 turno.",
+        specialNotes: "Reducir el tiempo de carga de los especiales funciona como si esperaras un turno extra"
     },
     952: {
-        captain: "Boosts ATK and HP of Shooter and Striker Characters by 1.2x",
+        captain: "Multiplica el ATK y el HP de los personajes Shooter y Free Spirit x1.2",
         specialName: "Life-saving Gunstock Blow",
-        special: "Deals 13x ATK in [DEX] Damage to one enemy. Changes Captain's orb into matching."
+        special: "Hace 13x ATK en daño [DEX] a un enemigo. Cambia el orbe del capitán a beneficioso."
     },
     953: {
-        captain: "Boosts ATK and HP of Shooter and Striker Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes Shooter y Free Spirit x1.5",
         specialName: "Life-saving Gunstock Blow",
-        special: "Deals 13x ATK in [DEX] Damage to one enemy. Changes Captain's orb into matching."
+        special: "Hace 13x ATK en daño [DEX] a un enemigo. Cambia el orbe del capitán a beneficioso."
     },
     954:{
-        captain: "Boosts ATK and HP of [QCK] Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes [QCK] x1.5",
         specialName: "Goldfish Fencing! I'll Dye the Sea Red with Your Blood",
-        special: "Reduces the defense of all enemies by 80% for 2 turns"
+        special: "Reduce la defensa de todos los enemigos en un 80% durante 2 turnos"
     },
     955:{
-        captain: "Boosts ATK and HP of [PSY] Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes [PSY] x1.5",
         specialName: "Get Rich Quick Scheme! We're All Gonna Be Rich",
-        special: "Boosts ATK against enemies with reduced defense by 1.2x for 2 turns"
+        special: "Multiplica el ATK contra los enemigos con la defensa reducida x1.2 durante 2 turnos"
     },
     956:{
-        captain: "Boosts ATK and HP of [INT] Characters by 1.5x",
+        captain: "Multiplica el ATK y el HP de los personajes [INT] x1.5",
         specialName: "Fishman karate! I'll Finish You",
-        special: "Boosts ATK of Powerhouse characters by 1.2x for 2 turns"
+        special: "Multiplica el ATK de los personajes Powerhouse x1.2 durante 2 turnos"
     },
     957:{
         specialName: "First Aid",
-        special: "Recover 2,000 HP"
+        special: "Regenera 2000 HP"
     },
     958:{
         specialName: "Bind Purge",
-        special: "Reduces Bind duration by 2 turns"
+        special: "Reduce la duración de las cadenas en 2 turnos"
     },
     959:{
         specialName: "Captain Soul Recovery",
-        special: "Reduces Despair duration by 2 turns"
+        special: "Reduce la anulación del capitán en 2 turnos"
     },
     960:{
         specialName: "Slot Color Shuffle",
-        special: "Randomly changes all orbs into either [STR], [DEX], [QCK], [PSY] or [INT] orbs"
+        special: "Cambia aleatoriamente todos los orbes en orbes [STR], [DEX], [QCK], [PSY] o [INT]"
     },
     961:{
         specialName: "Slot Power Light",
-        special: "Amplifies the effect of orbs by 1.25x for 1 turn"
+        special: "Amplifica el efecto de los orbes x1.25 durante 1 turno"
     },
     962:{
         specialName: "Captain Slot Change RCV",
-        special: "Changes captain's orb into [RCV]"
+        special: "Cambia el orbe del capitán a [RCV]"
     },
     963:{
-        captain: "Boosts ATK of characters with cost between 50 and 55 by 2x",
+        captain: "Multiplica el ATK de los personajes con un coste de entre 50 y 55 x2",
         specialName: "Saint Charloss' Stroll",
-        special: "Reduces the defense of all enemies by 100% for 1 turn and randomizes all orbs"
+        special: "Reduce la defensa de todos los enemigos en un 100% y cambia aleatoriamente todos los orbes"
     },
     964:{
-        captain: "Boosts ATK, HP, and RCV of characters with cost between 50 and 55 by 1.5x",
+        captain: "Multiplica el ATK, HP y RCV de los personajes con un coste de entre 50 y 55 x1.5",
         specialName: "Wrath of the Creator Bloodline",
-        special: "Boosts ATK of all characters by 1.1x for 1 turn. If \"Wrath of the Creator Bloodline\" is used again in the same turn the special is activated in, boosts ATK of all characters by 1.5x instead."
+        special: "Multiplica el ATK de todos los personajes x1.1. Si \"Wrath of the Creator Bloodline\" se usa de nuevo en el mismo turno en el que se activa el especial, multiplica el ATK de todos los personajes x1.5."
     },
     965:{
-        captain: "Boosts ATK of characters with cost between 50 and 55 by 1.5x, recovers 500 HP at the end of each turn",
+        captain: "Multiplica el ATK de los personajes con un coste entre 50 y 55 x1.5, regenera 500 HP al final de cada turno",
         specialName: "Wrath of the Creator Bloodline",
-        special: "Boosts ATK of all characters by 1.1x for 1 turn. If \"Wrath of the Creator Bloodline\" is used again in the same turn the special is activated in, boosts ATK of all characters by 1.5x instead."
+        special: "Multiplica el ATK de todos los personajes x1.1. Si \"Wrath of the Creator Bloodline\" se usa de nuevo en el mismo turno en el que se activa el especial, multiplica el ATK de todos los personajes x1.5."
     },
     966:{
-        captain: "Boosts ATK of Driven Characters by 2.25x",
+        captain: "Multiplica el ATK de los personajes Driven x2.25",
         specialName: "Repel",
-        special: "Empties slots with [QCK] orbs, deals [QCK] damage based on number of [QCK] slots emptied to all enemies",
-        specialNotes: "The exact multiplier used is chosen based on the number of [QCK] orbs consumed: 0 orbs - Can't activate; 1 orb - 14x ATK; 2 orbs - 21x ATK; 3 orbs - 35x ATK; 4 orbs - 49x ATK; 5 orbs - 91x ATK; 6 orbs - 140x ATK."
+        special: "Vacía todos las ranuras con orbes [QCK], hace daño [QCK] basado en el número de orbes [QCK] vacíados a todos los enemigos",
+        specialNotes: "El multiplicador exacto es elegido en base al número de orbes [QCK] consumidos: 0 orbes - No se puede activar; 1 orbe - 14x ATK; 2 orbes - 21x ATK; 3 orbes - 35x ATK; 4 orbes - 49x ATK; 5 orbes - 91x ATK; 6 orbes - 140x ATK."
     },
     967:{
-        captain: "Boosts ATK of Free Spirit Characters by 2.25x",
+        captain: "Multiplica el ATK de los personajes Free Spirit x2.25",
         specialName: "Surgeon of Death's First Aid Surgery",
-        special: "Recovers 20x character's RCV in HP. Switches orbs between slots twice"
+        special: "Regenera 20x RCV en HP. Cambia orbes entre ranuras libremente dos veces"
     },
     968:{
         specialName: "High Heat Ray Laser",
-        special: "Deals 25x ATK to one enemy. Changes own orb into matching orb"
+        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
     },
     969:{
         specialName: "High Heat Ray Laser",
-        special: "Deals 25x ATK to one enemy. Changes own orb into matching orb"
+        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
     },
     970:{
         specialName: "High Heat Ray Laser",
-        special: "Deals 25x ATK to one enemy. Changes own orb into matching orb"
+        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
     },
     971:{
         specialName: "High Heat Ray Laser",
-        special: "Deals 25x ATK to one enemy. Changes own orb into matching orb"
+        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
     },
     972:{
         specialName: "High Heat Ray Laser",
-        special: "Deals 25x ATK to one enemy. Changes own orb into matching orb"
+        special: "Hace 25x ATK a un enemigo. Cambia el propio orbe a orbe beneficioso"
     },
     973:{
         captain: "Boosts ATK of Powerhouse Characters by 2x if HP is above 99% at the start of the turn",
