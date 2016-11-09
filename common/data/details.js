@@ -4594,67 +4594,67 @@ window.details = {
         special: "Hace 25x ATK a un enemigo. Cambia el orbe propio a orbe beneficioso"
     },
     973:{
-        captain: "Boosts ATK of Powerhouse Characters by 2x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2 si el HP es superior al 99%",
         specialName: "Ironclad Thrust: Dwarf Guard of the World",
-        special: "Deals 20,000 fixed damage to one enemy. Changes friend captain's orb into Matching orb"
+        special: "Hace 20000 en daño fijo a un enemigo. Cambia el orbe del capitán amigo a orbe beneficioso"
     },
     974:{
-        captain: "Boosts ATK of Powerhouse Characters by 2.5x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.5 si el HP es superior al 99%",
         specialName: "Ironclad Thrust: Dwarf Guard of the World",
-        special: "Deals 20,000 fixed damage to one enemy. Changes friend captain's orb into Matching orb"
+        special: "Hace 20000 en daño fijo a un enemigo. Cambia el orbe del capitán amigo a orbe beneficioso"
     },
     975:{
-        captain: "Reduces damage received by 10%",
+        captain: "Reduce el daño recibido en un 10%",
         specialName: "A Threat That Puts Adults to Shame",
-        special: "Boosts the ATK of Striker and Driven Characters by 1.3x for 1 turn. Protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Multiplica el ATK de los personajes Striker y Driven x1.3 durante 1 turno. Protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialNotes: "#{zombie}"
     },
     976:{
-        captain: "Boosts ATK of Driven Characters by 2x. Reduces damage received by 10%",
+        captain: "Multiplica el ATK de los personajes Driven x2. Reduce el daño recibido en un 10%",
         specialName: "A Threat That Puts Adults to Shame",
-        special: "Boosts the ATK of Striker and Driven Characters by 1.3x for 1 turn. Protects from defeat as long as HP is above 50% for 1 turn",
+        special: "Multiplica el ATK de los personajes Striker y Driven x1.3 durante 1 turno. Protege de la derrota mientras el HP se sitúe por encima del 50% durante 1 turno",
         specialNotes: "#{zombie}"
     },
     977:{
-        captain: "Boosts ATK of Shooter characters by 2x",
+        captain: "Multiplica el ATK de los personajes Shooter x2",
         specialName: "Yata no Kagami (Sacred Mirror)",
         special: [
             {
-                "description": "Changes own orb into [QCK]. Reduces Special Cooldown of Shooters and Fighters by 1 turn",
+                "description": "Cambia su propio orbe a [QCK]. Reduce la carga de los especiales de personajes Shooter y Fighter en 1 turno",
                 "cooldown": [ 19, 5 ]
             },
             {
-                "description": "Changes own orb into [QCK]. Reduces Special Cooldown of Shooters and Fighters by 1 turn. Adds .5x to Chain multiplier for 2 turns",
+                "description": "Cambia su propio orbe a [QCK]. Reduce la carga de los especiales de personajes Shooter y Fighter en 1 turno. Añade 0.5 a la cadena durante 2 turnos",
                 "cooldown": [ 25, 11 ]
             }
         ],
         specialNotes: "#{stages}"
     },
     978:{
-        captain: "Reduces cooldown of Shooter specials by 2 turns at the start of the fight, boosts ATK of Shooter characters by 2.25x and boosts HP of Shooter characters by 1.5x",
+        captain: "Reduce la carga de los especiales de personajes Shooter en 2 turnos, multiplica el ATK de los personajes Shooter x2.25 y su HP x1.5",
         specialName: "Yata no Kagami (Sacred Mirror)",
         special: [
             {
-                "description": "Changes own orb into [QCK]. Reduces Special Cooldown of Shooters and Fighters by 1 turn",
+                "description": "Cambia su propio orbe a [QCK]. Reduce la carga de los especiales de personajes Shooter y Fighter en 1 turno",
                 "cooldown": [19,5]
             },
             {
-                "description": "Changes own orb into [QCK]. Reduces Special Cooldown of Shooters and Fighters by 1 turn. Adds .5x to Chain multiplier for 2 turns",
+                "description": "Cambia su propio orbe a [QCK]. Reduce la carga de los especiales de personajes Shooter y Fighter en 1 turno. Añade 0.5 a la cadena durante 2 turnos",
                 "cooldown": [25,11]
             }
         ],
         specialNotes: "#{stages}"
     },
     979: {
-        captain: "Boosts ATK of [PSY] and [DEX] characters by 1.75x and their RCV by 1.2x",
+        captain: "Multiplica el ATK de los personajes [PSY] y [DEX] x1.75 y su RCV x1.2",
         specialName: "Flintlock Barrage",
-        special: "Randomly changes all orbs into either [PSY] or [DEX] orbs, deals random PSY damage to all enemies",
+        special: "Cambia aleatoriamente todos los orbes en orbes [PSY] o [DEX], hace una cantidad aleatoria de ATK en daño PSY a todos los enemigos",
         specialNotes: "Random Damage is currently unknown"
     },
     980: {
-        captain: "Boosts ATK of [DEX] and [STR] characters by 1.75x and their RCV by 1.2x",
+        captain: "Multiplica el ATK de los personajes [DEX] y [STR] x1.75 y su RCV x1.2",
         specialName: "Hidden King Mallet",
-        special: "Changes own orb into [DEX] and randomizes every other orb"
+        special: "Cambia su propio orbe a [DEX] y cambia aleatoriamente el resto de orbes"
     },
     981: {
         captain: "Boosts ATK of Fighters and Powerhouse characters by 2x and sharply reduces their RCV",
