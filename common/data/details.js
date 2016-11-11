@@ -4753,14 +4753,14 @@ window.details = {
         sailorNotes: "Algunos enemigos pueden incrementar el tiempo de carga de tu especial en 1/2 turno, esta habilidad reduce esto en 1 turno"
     },
     996: {
-        captain: "Boosts ATK of Powerhouse characters by 2x",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2",
         special: [
             {
-                "description": "For Powerhouse characters, changes Bad orbs into matching orbs.",
+                "description": "Para los personajes Powerhouse, cambia los orbes perjudiciales en beneficiosos.",
                 "cooldown": 11
             },
             {
-                "description": "For all characters, changes Bad orbs into matching orbs.",
+                "description": "Para todos los personajes, cambia los orbes perjudiciales en beneficiosos.",
                 "cooldown": 20
             }
         ],
@@ -4768,15 +4768,15 @@ window.details = {
         specialNotes: "#{stages}"
     },
     997: {
-        captain: "Boosts ATK of Powerhouse characters by 2.25x, makes [TND] and [RCV] orbs \"beneficial\" to Powerhouse characters",
-        captainNotes: "\"Beneficial\" orbs grant the same ATK boost as matching orbs while retaining their original function.",
+        captain: "Multiplica el ATK de los personajes Powerhouse x2.25, hace a los obes [TND] y [RCV] \"beneficiosos\" para los personajes Powerhouse",
+        captainNotes: "Los orbes \"beneficiosos\" tienen las mismas características que cualquier orbe que corresponde con el color del personaje.",
         special: [
             {
-                "description": "For Powerhouse characters, changes Bad orbs into matching orbs.",
+                "description": "Para los personajes Powerhouse, cambia los orbes perjudiciales en beneficiosos.",
                 "cooldown": 11
             },
             {
-                "description": "For all characters, changes Bad orbs into matching orbs.",
+                "description": "Para todos los personajes, cambia los orbes perjudiciales en beneficiosos.",
                 "cooldown": 20
             }
         ],
