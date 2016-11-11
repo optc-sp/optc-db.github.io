@@ -4489,13 +4489,13 @@ window.details = {
     950: {
         captain: "Multiplica el ATK de los personajes Fighter y Free Spirit x2.5 después de acertar 3 Perfect seguidos",
         specialName: "Flame Commandment: Fire Pillar",
-        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turo. Reduce el daño recibido en un 50% durante 1 turno.",
+        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turno. Reduce el daño recibido en un 50% durante 1 turno.",
         specialNotes: "Reducir el tiempo de carga de los especiales funciona como si esperaras un turno extra"
     },
     951: {
         captain: "Multiplica el ATK de los personajes Fighter y Free Spirit x2.75 después de acertar 3 Perfect seguidos",
         specialName: "Flame Commandment: Fire Pillar",
-        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turo. Reduce el daño recibido en un 50% durante 1 turno.",
+        special: "Reduce el tiempo de carga de los especiales en personajes Fighter Y Free Spirit en 1 turno. Reduce el daño recibido en un 50% durante 1 turno.",
         specialNotes: "Reducir el tiempo de carga de los especiales funciona como si esperaras un turno extra"
     },
     952: {
@@ -4657,100 +4657,100 @@ window.details = {
         special: "Cambia su propio orbe a [DEX] y cambia aleatoriamente el resto de orbes"
     },
     981: {
-        captain: "Boosts ATK of Fighters and Powerhouse characters by 2x and sharply reduces their RCV",
+        captain: "Multiplica el ATK de los personajes Fighter y Powerhouse x2 y reduce ampliamente su RCV",
         captainNotes: "The RCV Reduction is around 90%",
         specialName: "Martial Art Diving Fist",
-        special: "Boosts own ATK by 1.75x for 1 turn and deals 800 fixed damage to one enemy",
+        special: "Multiplica su propio ATK x1.75 durante 1 turno y hace 800 en daño fijo a un enemigo",
         specialNotes: "#{fixed}"
     },
     982: {
-        captain: "Boosts ATK of Slasher characters by 2x",
+        captain: "Multiplica el ATK de los personajes Slasher x2",
         specialName: "Flower Sword Straight Cut",
-        special: "Deals 25x character's ATK to one enemy, changes bottom row orbs into matching orbs"
+        special: "Hace 25x ATK a un ememigo, cambia los orbes de abajo a orbe beneficioso"
     },
     983: {
-        captain: "Boosts ATK of Slasher characters by 2.25x, makes [RCV] and [TND] orbs \"beneficial\" to Slasher characters",
-        captainNotes: "\"Beneficial\" orbs grant the same ATK boost as matching orbs.",
+        captain: "Multiplica el ATK de los personajes Slasher x2.25, hace a los orbes [RCV] y [TND] \"beneficiosos\" para los personajes Slasher",
+        captainNotes: "Los orbes \"beneficiosos\" dan un x2 de ATK.",
         specialName: "Flower Sword Straight Cut",
-        special: "Deals 25x character's ATK to one enemy, changes bottom row orbs into matching orbs"
+        special: "Hace 25x ATK a un enemigo, cambia los orbes de abajo a orbe beneficioso"
     },
     984: {
-        captain: "Boosts ATK of Striker characters by 2.25x",
+        captain: "Multiplica el ATK de los personajes Striker x2.25",
         specialName: "Shrouds and Rattling Knot",
-        special: "Delays all enemies for 1 turn, Locks all orbs for 1 turn"
+        special: "Retarda a todos los enemigos 1 turno, bloquea todos los orbes 1 turno"
     },
     985:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Funciona como una Daimyo Turtle y otorga 15k EXP"  
     },
     986:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Funciona como una Daimyo Turtle y otorga 15k EXP"  
     },
     987:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Funciona como una Daimyo Turtle y otorga 15k EXP"  
     },
     988:{
-      captainNotes: "Acts as a Daimyo Turtle and thus gives 15k EXP"  
+      captainNotes: "Funciona como una Daimyo Turtle y otorga 15k EXP"  
     },
     989:{
-        captain: "Boosts ATK of characters with cost above 20 and below 30 by 2.5x, but reduces the HP of every character by 90%",
-        special: "Changes the orbs in the left column into [G], [QCK] and [DEX], the orbs in the right column into [STR], [PSY] and [INT]",
+        captain: "Multiplica el ATK de los persoajes con un coste superior a 20 y por debajo de 30 x2.5, pero reduce el HP de cada personaje en un 90%",
+        special: "Cambia los orbes de la columna izquierda en orbes [G], [QCK] y [DEX], y los orbes de la columna derecha en orbes [STR], [PSY] y [INT]",
         specialName: "Bluff Piracy"
     },
     990: {
-        captain: "Boosts ATK of Free Spirit characters by 2.5x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Free Spirit x2.5 si el HP es superior al 99% al inicio del turno",
         specialName: "10,000 Ton Vise of Hell",
-        special: "Changes [RCV] orbs into matching orbs"
+        special: "Cambia los orbes [RCV] a orbes beneficiosos"
     },
     991: {
-        captain: "Boosts ATK of Free Spirit characters by 2.75x if HP is above 99% at the start of the turn",
+        captain: "Multiplica el ATK de los personajes Free Spirit x2.75 si el HP es superior al 99% al inicio del turno",
         specialName: "10,000 Ton Vise of Hell",
-        special: "Changes [RCV] orbs into matching orbs"
+        special: "Cambia los orbes [RCV] a orbes beneficiosos"
     },
     992: {
-        captain: "Boosts ATK of [QCK] characters by 2x",
-        special: "Cuts the current HP of each enemy by 20% and changes own orb into [QCK]",
+        captain: "Multiplica el ATK de los personajes [QCK] x2",
+        special: "Corta un 20% del HP actual de cada enemigo y cambia su propio orbe a [QCK]",
         specialName: "Punc Rock Fest"
     },
     993: {
-        captain: "Boosts ATK of [QCK] characters by 2.5x",
-        special: "Cuts the current HP of each enemy by 20% and changes own orb into [QCK]",
+        captain: "Multiplica el ATK de los personajes [QCK] x2.5",
+        special: "Corta un 20% del HP actual de cada enemigo y cambia su propio orbe a [QCK]",
         specialName: "Punc Rock Fest"
     },
     994: {
-        captain: "Boosts amount of beli received by 2x",
-        special: "Reduces Special Cooldown of Cerebral and Fighter characters, and shows the stats of enemies",
+        captain: "Multiplica la cantidad de Beli recibida x2",
+        special: "Reduce la carga de todos los especiales de personajes Cerebral y Fighters, y muestra las estadísticas del enemigo",
         specialName: "Peeping Mind",
         special: [
             {
-                "description": "Reduces Special Cooldown of Cerebral and Fighters by 1 turn. Shows Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns', and 'Effect after Death'",
+                "description": "Reduce la carga de todos los especiales de personajes Cerebral y Fighters en 1 turno. Muestra el ATK enemigo, su defensa, sus golpes de combo, su HP actual y total, su intervalo de ATK, sus 'especiales basados en turnos', y sus 'efectos después de morir'",
                 "cooldown": [ 13, 7 ]
             },
             {
-                "description": "Reduces Special Cooldown of Cerebral and Fighters by 2 turn. Shows Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns', and 'Effect after Death'",
+                "description": "Reduce la carga de todos los especiales de personajes Cerebral y Fighters en 2 turnos. Muestra el ATK enemigo, su defensa, sus golpes de combo, su HP actual y total, su intervalo de ATK, sus 'especiales basados en turnos', y sus 'efectos después de morir'",
                 "cooldown": [ 20, 14 ]
             }
         ],
         specialNotes: "#{stages}",
-        sailor: "Restores her own special by 1 turn when it is rewinded",
-        sailorNotes: "Some enemies can increase your cooldown by 1/2 Turns, this Sailor Ability decreases that by 1 Turn"
+        sailor: "Restaura su propio especial en 1 turno cuando este es rebobinado",
+        sailorNotes: "Algunos enemigos pueden incrementar el tiempo de carga de tu especial en 1/2 turno, esta habilidad reduce esto en 1 turno"
     },
     995:{
-        captain: "Boosts amount of beli received by 3x",
-        special: "Reduces Special Cooldown of Cerebral and Fighter characters, and shows the stats of enemies",
+        captain: "Multiplica la cantidad de Beli recibida x3",
+        special: "Reduce la carga de todos los especiales de personajes Cerebral y Fighters, y muestra las estadísticas del enemigo",
         specialName: "Peeping Mind",
         special: [
             {
-                "description": "Reduces Special Cooldown of Cerebral and Fighters by 1 turn. Shows Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns', and 'Effect after Death'",
+                "description": "Reduce la carga de todos los especiales de personajes Cerebral y Fighters en 1 turno. Muestra el ATK enemigo, su defensa, sus golpes de combo, su HP actual y total, su intervalo de ATK, sus 'especiales basados en turnos', y sus 'efectos después de morir'",
                 "cooldown": [ 13, 7 ]
             },
             {
-                "description": "Reduces Special Cooldown of Cerebral and Fighters by 2 turn. Shows Enemy Attack, Defense, Combo Hits, Current / Total HP, Attack Interval, 'Specials based on turns', and 'Effect after Death'",
+                "description": "Reduce la carga de todos los especiales de personajes Cerebral y Fighters en 2 turnos. Muestra el ATK enemigo, su defensa, sus golpes de combo, su HP actual y total, su intervalo de ATK, sus 'especiales basados en turnos', y sus 'efectos después de morir'",
                 "cooldown": [ 20, 14 ]
             }
         ],
         specialNotes: "#{stages}",
-        sailor: "Restores her own special by 1 turn when it is rewinded",
-        sailorNotes: "Some enemies can increase your cooldown by 1/2 Turns, this Sailor Ability decreases that by 1 Turn"
+        sailor: "Restaura su propio especial en 1 turno cuando este es rebobinado",
+        sailorNotes: "Algunos enemigos pueden incrementar el tiempo de carga de tu especial en 1/2 turno, esta habilidad reduce esto en 1 turno"
     },
     996: {
         captain: "Boosts ATK of Powerhouse characters by 2x",
