@@ -240,11 +240,7 @@ window.ships = [
     { // 19
         name: "Doflamingo Ship",
         thumb: null,
-<<<<<<< HEAD
-        description: 'Multiplica el ATK de los personajes Driven x1.5 y su HP x1.35. Hace los Perfect más fáciles de acertar para los personajes Driven. Especial: Añade 0.2 a la cadena  (carga: 15 Turnos)',
-=======
         description: 'Boosts ATK of Driven Characters by 1.5x and their HP by 1.35x. Makes Perfects easier to Hit for Driven characters. Special: Adds 0.2 to Chain  (cooldown MAX: 15 Turns)',
->>>>>>> refs/remotes/optc-db/master
         atk: function(p) { return !p.unit.class.has('Driven') ? 1 : [ 1.2, 1.2, 1.3, 1.3, 1.3, 1.3, 1.4, 1.4, 1.4, 1.5][p.boatLevel - 1]},
         hp: function(p) { return !p.unit.class.has('Driven') ? 1 : [ 1.1, 1.1, 1.1, 1.15, 1.2, 1.2, 1.2, 1.2, 1.2, 1.35][p.boatLevel - 1]}
     },
