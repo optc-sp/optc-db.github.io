@@ -7003,5 +7003,55 @@ window.details = {
         special: "Switches orbs between slots twice. Makes Badly Matching and [BLOCK] orbs not reduce damage for 2 turns",
         specialName: "Tonta Knowledge",
     },
+    1331: {//Mansherry
+        captain: "Recovers 2x character's RCV in HP at the end of each turn",
+        special: [
+            {
+                "description": "Reduces Bind duration for one character by 4 turns. Recovers 7x character's RCV in HP.",
+                "cooldown": [ 18, 11 ],
+            },
+            {
+                "description": "Reduces Bind duration for one character by 7 turns. Recovers 15x character's RCV in HP.",
+                "cooldown": [ 24, 17 ],
+            },
+        ],
+        specialName: "Mansherry Special",
+    },
+    1332: {//Mansherry
+        captain: "Recovers 3x character's RCV in HP at the end of each turn",
+        special: [
+            {
+                "description": "Reduces Bind duration for one character by 4 turns. Recovers 7x character's RCV in HP.",
+                "cooldown": [ 18, 11 ],
+            },
+            {
+                "description": "Reduces Bind duration for one character by 7 turns. Recovers 15x character's RCV in HP.",
+                "cooldown": [ 24, 17 ],
+            },
+        ],
+        specialName: "Mansherry Special",
+    },
+    1333: {//Kabu
+        captain: "Boosts ATK of [STR] and Powerhouse characters by 1.4x",
+        captainNotes: "The bonus is cumulative. [STR] Powerhouse characters get a 1.96x bonus.",
+        special: "Slightly boosts chances of getting [STR] orbs and boosts own ATK by 1.2x for 2 turns",
+        specialName: "Kabu Special",
+    },
+    1334: {//Bian
+        captain: "Boosts ATK of [DEX] and Free Spirit characters by 1.4x",
+        captainNotes: "The bonus is cumulative. [DEX] Free Spirit characters get a 1.96x bonus.",
+        special: "Poisons all enemies and randomizes all orbs",
+        specialName: "Kabu Special",
+    },
+    1335: {//Wedding Sabo
+        captain: "Reduces cooldown of Free Spirit specials by 3 turns at the start of the fight. Boosts ATK of Free Spirit characters by 2x.",
+        special: "Changes Friend Captain orb into matching. Adds .5x to Chain multiplier for 1 turn",
+        specialName: "Wedding Sabo Special",
+    },
+    1336: {//Wedding Sabo
+        captain: "Reduces cooldown of Free Spirit specials by 3 turns at the start of the fight. Boosts ATK of Free Spirit characters by 2x.",
+        special: "Changes Friend Captain orb into matching. Adds .5x to Chain multiplier for 1 turn",
+        specialName: "Wedding Sabo Special",
+    },
 };
 
