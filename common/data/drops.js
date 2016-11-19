@@ -1209,7 +1209,7 @@ window.drops = {
             name: "Tontatta Kingdom Island Part 2: Mansherry",
             thumb: 1332,
             condition: "Striker characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (70% on 30 stamina)",
-            "All Difficulties": [ -720, -1186, -1190, -756, -1188, -1151, -1153, -738 ]
+            "All Difficulties": [ 1331, 1333, 1334, -720, -1186, -1190, -756, -1188, -1151, -1153, -738 ]
         },
         
     ],
