@@ -1,52 +1,76 @@
-window.tandems = [
-    {
-        "name": "Gum-Gum Mouton Triple-Sword Meteor",
-        "desc": "Deals 1,000 fixed damage to all enemies",
-        "units": [ 17, 2, 5, 13 ]
     },
     {
-        "name": "Gum-Gum Dragon Epaule Whip Twister Shot",
-        "desc": "Deals 3 times the ATK of the last character in the tandem to the enemies in the front column",
-        "units": [ 3, 6, 18 ]
+        "name": "Super Trinity Attack",
+        "desc": "Deals 2 times the cumulative ATK of all the characters in the tandem to all enemies, boosts ATK of PSY characters by 1.4x until the end of the current turn",
+        "units": [ 338, 339, 337 ]
     },
     {
-        "name": "Three-Sword Style Gum-Gum Diable Jambe Mouton Jet 600 Pound Cannon",
-        "desc": "Deals 3 times the ATK of the last character in the tandem to all enemies",
-        "units": [ 8, 20, 4 ]
+        "name": "Super Quartet Attack",
+        "desc": "Deals 2 times the cumulative ATK of all the characters in the tandem to all enemies, boosts ATK of PSY characters by 1.5x until the end of the current turn",
+        "units": [ 339, 338, 614, 337 ]
     },
     {
-        "name": "Trinity Slash",
-        "desc": "Deals 3 times the ATK of the last character in the tandem to the enemies in the front column",
-        "units": [ 47, 48, 5 ]
+        "name": "Maiden's Awakening: Do you like floral prints?",
+        "desc": "Deals the cumulative ATK of all the characters in the tandem to all enemies, recovers 1,180 HP, boosts ATK of all characters by 1.2x until the end of the current turn",
+        "units": [ 436, 433, 434, 390 ]
     },
     {
-        "name": "Tornado Tabasco Pound Phoenix",
-        "desc": "Deals 3 times the ATK of the last character in the tandem to the enemies in the back column",
-        "units": [ 10, 14, 7 ]
+        "name": "Light Shandia's Fire!",
+        "desc": "Deals 1,000 fixed damage to all enemies, boosts ATK of all characters by 1.3x until the end of the current turn",
+        "units": [ 466, 581, 582, 544 ]
     },
     {
-        "name": "Weak Trio/Guts Attack",
-        "desc": "Deals 2 times the ATK of the last character in the tandem to the enemies in the front column",
-        "units": [ 9, 13, 21 ]
+        "name": "Blessings of Vearth",
+        "desc": "Recovers 2,000 HP",
+        "units": [ 544, 583, 584 ]
     },
     {
-        "name": "Golden Mirage Shot",
-        "desc": "Deals 2 times the ATK of the last character in the tandem to all enemies",
-        "units": [ 15, 11, 19 ]
+        "name": "Monster Burger",
+        "desc": "Deals 3,000 fixed damage to all enemies, amplifies the effect of orbs by 1.25x for 1 turn",
+        "units": [ 565, 566, 567 ]
     },
     {
-        "name": "Thunder Horn Fire Bird Star",
-        "desc": "Deals 3 times the ATK of the last character in the tandem to the enemies in the back column",
-        "units": [ 12, 25, 16 ]
+        "name": "Everything Cannon",
+        "desc": "Deals 3 times the ATK of the last character in the tandem to the enemies in the front column, reduces damage received by 20% for 1 turn",
+        "units": [ 615, 616, 617, 614 ]
     },
     {
-        "name": "600,000,000 Beli Jackpot",
-        "desc": "Cuts the current HP of each enemy by 5%",
-        "units": [ 709, 739, 20, 8, 4 ]
+        "name": "Super Everything Cannon",
+        "desc": "Deals 7 times the ATK of the last character in the tandem to all enemies",
+        "units": [ 614, 615, 616, 617, 629 ]
     },
     {
-        "name": "Penguin Reindeer Triangle",
-        "desc": "Deals 2 times the ATK of the last character in the tandem to the enemies in the back column",
+        "name": "Fishman Fearsome Triple Combo",
+        "desc": "Deals 2 times the cumulative ATK of all the characters in the tandem to all enemies, boosts the ATK of STR characters by 1.3x for 1 turn",
+        "units": [ 657, 658, 656 ]
+    },
+    {
+        "name": "Absolute Justice Divine Punishment",
+        "desc": "Deals 3,000 fixed damage to all enemies",
+        "units": [ 696, 697, 698, 699, 700 ]
+    },
+    {
+        "name": "Lightning Bone Sword: Gavotte Bond en Avant",
+        "desc": "Cuts the current HP of each enemy by 4%",
+        "units": [ 12, 15, 709, 896 ]
+    },
+    {
+        "name": "Giant Pirates' Charge",
+        "desc": "Deals 3 times the cumulative ATK of all the characters in the tandem to all enemies, boosts ATK of Powerhouse characters by 1.4x until the end of the current turn",
+        "units": [ 884, 903 ]
+    },
+    {
+        "name": "Kidnapping Trio Rampage",
+        "desc": "Deals 3,000 fixed damage to all enemies",
+        "units": [ 954, 955, 956 ]
+    },
+    {
+        "name": "Snake Pit Dance",
+        "desc": "Deals 3 times the cumulative ATK of all the characters in the tandem to all enemies, boosts ATK of Powerhouse characters by 1.3x until the end of the current turn",
+        "units": [ 1056, 1058 ]
+    },
+];
+
         "units": [ 81, 82, 23 ]
     },
     {
