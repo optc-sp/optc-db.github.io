@@ -3687,4 +3687,95 @@ window.captains = {
     1353:{
         atk: function(p) { return p.unit.class.has("Cerebral") ? 2.5 : 1; },
     }
+1354: {
+        chainModifier: function(p) { return 2; }
+    },
+    1355: {
+        chainModifier: function(p) { return 3; }
+    },
+    1356:{
+        atk: function(p) { return p.unit.class.has("Powerhouse") ? 1.5 : 1; },
+    },
+    1357:{
+        atk: function(p) { return p.unit.class.has("Powerhouse") ? 1.5 : 1; },
+        hp: function(p) { return p.unit.class.has("Powerhouse") ? 1.5 : 1; },
+        rcv: function(p) { return p.unit.class.has("Powerhouse") ? 1.5 : 1; }
+    },
+    1358: {
+        atk: function(p) { return p.unit.class.has("Cerebral") ? 1.5 : 1; },
+        hp: function(p) { return p.unit.class.has("Striker") ? 1.5 : 1; }
+    },
+    1359: {
+        atk: function(p) { return p.unit.class.has("Cerebral") ? 1.75 : 1; },
+        hp: function(p) { return p.unit.class.has("Striker") ? 1.75 : 1; }
+    },
+    1360: {
+        atk: function(p) { return p.unit.cost <= 30 ? 2 : 1; },
+        hp: function(p) { return p.unit.cost <= 30 ? 1.2 : 1; }
+    },
+    1361: {
+        atk: function(p) { return p.unit.class.has("Slasher") ? p.classCount.Slasher>=5 ? Math.max(2.5, 2.5 + .5 * Math.min(p.turnCounter,1)) : 1 : 1; },
+        hp: function(p) { return p.unit.class.has("Slasher") ?
+            p.classCount.Slasher>=5 ? 1.5 : 1 : 1; },
+    },
+    1362: {
+        atk: function(p) { return p.unit.class.has("Slasher") ? p.classCount.Slasher>=5 ? Math.max(2.5, 2.5 + .5 * Math.min(p.turnCounter,1)) : 1 : 1; },
+        hp: function(p) { return p.unit.class.has("Slasher") ?
+            p.classCount.Slasher>=5 ? 1.5 : 1 : 1; },
+    },
+    1363: {
+        atk: function(p) { return p.unit.type == "PSY" ? 2 : 1; }
+    },
+    1364: {
+        atk: function(p) { return p.unit.type == "PSY" ? 2.5 : 1; }
+    },
+    1365: {
+        atk: function(p) { return p.unit.class.has("Cerebral") ? 1.5 : 1; },
+        rcv: function(p) { return p.unit.class.has("Cerebral") ? 1.5 : 1; }
+    },
+    1366: {
+        atk: function(p) { return !p.unit.class.has("Cerebral") ? 1 : (p.orb == 2.0 ? 2.75 : 1.5); },
+        rcv: function(p) { return p.unit.class.has("Cerebral") ? 1.5 : 1; }
+    },
+    1367: {
+        atk: function(p) { return p.unit.type == "STR" ? 2 : 1; }
+    },
+    1368: {
+        atk: function(p) { return !(p.unit.type == "STR") ? 1 : p.percHP <= 30.0 ? 3 : 2.5; }
+    },
+    1369: {
+        atk: function(p) { return p.unit.type == "QCK" ? 1.5 : 1; },
+        hp: function(p) { return p.unit.type == "QCK" ? 1.2 : 1; },
+        rcv: function(p) { return p.unit.type == "QCK" ? 1.2 : 1; }
+    },
+    1370: {
+        atk: function(p) { return p.unit.type == "QCK" ? 2 : 1; },
+        hp: function(p) { return p.unit.type == "QCK" ? 1.2 : 1; },
+        rcv: function(p) { return p.unit.type == "QCK" ? 1.2 : 1; }
+    },
+    1371: {
+        damageSorter: function(d) { return CrunchUtils.classSort(d, 4, [ "Slasher", "Powerhouse" ]); },
+        hitAtk: function(p) {
+            if (!p.unit.class.has("Slasher") && !p.unit.class.has("Powerhouse")) return 1;
+            return p.modifiers.slice(0, p.chainPosition).subcontains(["Perfect", "Perfect", "Perfect", "Perfect", "Perfect"]) ? 2.5 : p.modifiers.slice(0, p.chainPosition).subcontains(["Perfect", "Perfect", "Perfect"]) ? 2.25 : 2;
+        },
+        hitModifiers: ["Perfect", "Perfect", "Perfect", "Perfect", "Perfect", "Perfect"]
+    },
+    1372: {
+        damageSorter: function(d) { return CrunchUtils.classSort(d, 4, [ "Slasher", "Powerhouse" ]); },
+        hitAtk: function(p) {
+            if (!p.unit.class.has("Slasher") && !p.unit.class.has("Powerhouse")) return 1;
+            return p.modifiers.slice(0, p.chainPosition).subcontains(["Perfect", "Perfect", "Perfect", "Perfect", "Perfect"]) ? 3 : p.modifiers.slice(0, p.chainPosition).subcontains(["Perfect", "Perfect", "Perfect"]) ? 2.5 : 2;
+        },
+        hitModifiers: ["Perfect", "Perfect", "Perfect", "Perfect", "Perfect", "Perfect"]
+    },
+    1373: {
+        atk: function(p) { return p.unit.type == "INT" ? 1.5 : 1; },
+        hp: function(p) { return p.unit.type == "INT" ? 1.2 : 1; },
+    },
+    1374: {
+        atk: function(p) { return p.unit.type == "INT" ? 2.25 : 1; },
+        hp: function(p) { return p.unit.type == "INT" ? 1.5 : 1; },
+    },
 };
+
