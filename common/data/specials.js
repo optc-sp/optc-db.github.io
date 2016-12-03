@@ -461,7 +461,7 @@ window.specials = {
             window.specials[668].multiplier = [1.5, 2][n];
             p.scope.notify({
                 text: 'Using the ' + [1.5, 2][n] + 'x ATK multiplier. To switch to the ' + [2, 1.5][n] + 'x multiplier, disable and re-enable this special',
-                name: '667warning'
+                name: '668warning'
             });
         }
     },
@@ -473,7 +473,7 @@ window.specials = {
             window.specials[669].multiplier = [1.5, 2][n];
             p.scope.notify({
                 text: 'Using the ' + [1.5, 2][n] + 'x ATK multiplier. To switch to the ' + [2, 1.5][n] + 'x multiplier, disable and re-enable this special',
-                name: '668warning'
+                name: '669warning'
             });
         }
     },
@@ -1772,10 +1772,10 @@ window.specials = {
         affinity: function(p){ return p.unit.class.has("Fighter") || p.unit.class.has("Free Spirit") ? 1.25 : 1; }
     },
     1335: {
-        chainAddition: function(p){ return 0.5;}
+        chainAddition: function(p){ return 0.5; }
     },
     1336: {
-        chainAddition: function(p){ return 0.5;}
+        chainAddition: function(p){ return 0.5; }
     },
     1339: {
         chainAddition: function(p) {
@@ -1791,5 +1791,76 @@ window.specials = {
                 name: '1339warning'
             });
         }
+    },
+    1343: {
+        atk: function(p) { return p.defenseDown ? 1.3 : 1; },
+        type: "condition"
+    },
+    1344: {
+        atk: function(p) { return p.unit.class.has("Driven") ? 1.3 : 1; },
+        type: "class"
+    },
+    1348: {
+        atk: function(p) { return 1.2; },
+        type: "class",
+        orb: function(p) { return CrunchUtils.getOrbMultiplier(p.orb, 1, 1.2); },
+    },
+    1349: {
+        atk: function(p) { return p.unit.class.has("Cerebral") ? 1.2 : 1; },
+        type: "class"
+    },
+    1351: {
+        def: function(p) { return 0.5; }
+    },
+    1353: {
+        chainAddition: function(p){ return 0.5; }
+    },
+    1354: {
+        orb: function(p) { return CrunchUtils.getOrbMultiplier(p.orb, 1, 1.5); },
+    },
+    1355: {
+        orb: function(p) { return CrunchUtils.getOrbMultiplier(p.orb, 1, 1.5); },
+    },
+    1358: {
+        rcv: function(p){ return 1.75; }
+    },
+    1359: {
+        rcv: function(p){ return 1.75; }
+    },
+    1361: {
+        atk: function(p) { return !p.unit.class.has('Slasher') ? 1 : p.sourceSlot < 2 ? 2 : 1.75 ; },
+        type: "class",
+    },
+    1362: {
+        atk: function(p) { return !p.unit.class.has('Slasher') ? 1 : p.sourceSlot < 2 ? 2 : 1.75 ; },
+        type: "class",
+    },
+    1363: {
+        orb: function(p) { return p.unit.type == "PSY" ? CrunchUtils.getOrbMultiplier(p.orb, 1, 2) : CrunchUtils.getOrbMultiplier(p.orb, 1, 1); },	
+    },
+    1364: {
+        orb: function(p) { return p.unit.type == "PSY" ? CrunchUtils.getOrbMultiplier(p.orb, 1, 2) : CrunchUtils.getOrbMultiplier(p.orb, 1, 1); },	
+    },
+    1367:{
+        orb: function(p) { return CrunchUtils.getOrbMultiplier(p.orb, 1, window.specials[1367].multiplier); },
+        onActivation: function(p) {
+            var n = (window.specials[1367].multiplier == 1.5 ? 1 : 0);
+            window.specials[1367].multiplier = [1.5, 1.75][n];
+            p.scope.notify({
+                text: 'Using the ' + [1.5, 1.75][n] + 'x Orb boost. To switch to the ' + [1.75, 1.5][n] + 'x Orb boost, disable and re-enable this special',
+                name: '1367warning'
+            });
+        },
+    },
+    1368:{
+        orb: function(p) { return CrunchUtils.getOrbMultiplier(p.orb, 1, window.specials[1368].multiplier); },
+        onActivation: function(p) {
+            var n = (window.specials[1368].multiplier == 1.5 ? 1 : 0);
+            window.specials[1368].multiplier = [1.5, 1.75][n];
+            p.scope.notify({
+                text: 'Using the ' + [1.5, 1.75][n] + 'x Orb boost. To switch to the ' + [1.75, 1.5][n] + 'x Orb boost, disable and re-enable this special',
+                name: '1368warning'
+            });
+        },
     },
 };
