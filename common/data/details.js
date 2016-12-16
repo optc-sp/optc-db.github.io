@@ -7341,4 +7341,93 @@ window.details = {
         specialName: "Poison Dragon",
         specialNotes: "Toxic starts at 0.5x character's attack and increases by 3x at the end of every turn until 1,500,000 damage per turn.",
     },
+    1375: {//Dellinger
+        captain: "Boosts ATK of Powerhouse characters by 2.5x, reduces crew's HP by 50%, Increases damage recieved by 2x",
+        special: "Deals 20x character's ATK in [QCK] damage to one enemy, Boosts Dellinger's ATK by 1.5x for 1 turn, amplifies the effect of Dellinger's orb by 1.5x for 1 turn, and changes own orb to [QCK].",
+        specialNotes: "Boosted ATK and Orb Effectivess only works for the Dellinger who uses his Special.",
+        specialName: "Deadly Fangs of Rage",
+    },
+    1376: {//Dellinger
+        captain: "Boosts ATK of Powerhouse characters by 2.75x, reduces crew's HP by 20%, Increases damage recieved by 2x",
+        special: "Deals 20x character's ATK in [QCK] damage to one enemy, Boosts Dellinger's ATK by 1.5x for 1 turn, amplifies the effect of Dellinger's orb by 1.5x for 1 turn, and changes own orb to [QCK].",
+        specialNotes: "Boosted ATK and Orb Effectivess only works for the Dellinger who uses his Special.",
+        specialName: "Deadly Fangs of Rage",
+    },
+    1377: {//Marguerite
+        captain: "Boosts ATK and RCV of Slasher and Shooter characters by 1.3x",
+        special: "Recovers 18x character's RCV in HP. Reduces damage received by 50% for 1 turn",
+        sailor: "Boosts amount healed from [RCV] orbs by 150 each",
+        specialName: "Sincere Devotion",
+    },
+    1378: {//Marguerite
+        captain: "Boosts ATK and RCV of Slasher and Shooter characters by 1.75x",
+        special: "Recovers 18x character's RCV in HP. Reduces damage received by 50% for 1 turn",
+        sailor: "Boosts amount healed from [RCV] orbs by 150 each",
+        specialName: "Sincere Devotion",
+    },
+    1379: {//Shanks
+        captain: "Boosts chances of getting Matching orbs, boosts ATK of Cerebral characters by 2x",
+        special: "Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs \"beneficial\" to Cerebral and Free Spirit characters for 1 turns.",
+        specialName: "A Decision Made over Sake",
+        specialNotes: "#{orb : 2x}",
+    },
+    1380: {//Shanks
+        captain: "Boosts chances of getting Matching orbs, boosts ATK of Cerebral characters by 2.5x",
+        special: "Reduces Paralysis duration by 3 turns. For Cerebral and Free Spirit characters, amplifies the effects of orbs by 2x for 1 turn. Makes [RCV] and [TND] orbs \"beneficial\" to Cerebral and Free Spirit characters for 1 turns.",
+        specialName: "A Decision Made over Sake",
+        specialNotes: "#{orb : 2x}",
+    },
+    1381: {//Christmas Tashigi
+        captain: "Boosts ATK and RCV of Slasher and Cerebral characters by 1.2x",
+        special: "Reduces Silence duration by 1 turn, and recovers 12,240 HP",
+        specialName: "Tashigi Special",
+    },
+    1382: {//Christmas Tashigi
+        captain: "Boosts ATK and RCV of Slasher and Cerebral characters by 1.75x",
+        special: "Reduces Silence duration by 1 turn, and recovers 12,240 HP",
+        specialName: "Tashigi Special",
+    },
+    1383: {//Soldier-San
+        captain: "Boosts ATK of Striker characters by 2x. Increases damage recieved by 1.5x",
+        special: "Reduces Paralysis, Bind, Despair, and Silence duration by 1 turn. Randomizes all Badly Matching, [BLOCK], or [EMPTY] orbs",
+        specialName: "Angry Extermination of Bugs",
+    },
+    1384: {//Soldier-San
+        captain: "Boosts ATK of Striker characters by 2.5x. Increases damage recieved by 1.5x",
+        special: "Reduces Paralysis, Bind, Despair, and Silence duration by 1 turn. Randomizes all Badly Matching, [BLOCK], or [EMPTY] orbs",
+        specialName: "Angry Extermination of Bugs",
+    },
+    1385: {//Rebecca
+        captain: "Reduces damage received by 20%",
+        special: "Removes blindness",
+        specialName: "Mother's Promise",
+    },
+    1386: {//Rebecca
+        captain: "Reduces damage received by 25%",
+        special: "Removes blindness",
+        specialName: "Mother's Promise",
+    },
+    1388: {//Zoro 5+
+        captain: "Boosts ATK of [DEX] characters by 2.5x",
+        special: "Cuts the current HP of each enemy by 10%. Reduces special cooldown of [DEX] specials by 1 turn.",
+        specialName: "Ittoriyu - Hong Kong Bird",
+    },
+    1389: {//Nami 5+
+        captain: "Reduces cooldown of all specials by 1 turn at the start of the fight, Boosts ATK of [INT] characters by 2x and their RCV by 1.5x.",
+        special: "Deals 20x character's ATK in [INT] damage to all enemies. Amplifies the effect of orbs for [INT] characters by 1.75x for 1 turn",
+        specialName: "Thunder Breed Tempo",
+        specialNotes: "#{orb : 1.75x}",
+    },
+    1390: {//Buggy Legend
+        captain: "Boosts ATK of characters with cost 40 or less by 1.5x and reduces the HP and ATK of chatacters with cost 41 and greater by 0.5x. Gurantees duplicating a drop upon completion of the island.",
+        captainNotes: "Does not work if he was not your captain upon starting the island. Stacks with other addional drop captains, giving you two chances of getting an extra drop.",
+        special: "Randomizes all orbs. Boosts ATK of characters with cost 40 or less by 1.75x for 2 turns",
+        specialName: "Chop-Chop Clown Car",
+    },
+    1391: {//Buggy Legend
+        captain: "Boosts ATK of characters with cost 40 or less by 1.5x and reduces the HP and ATK of chatacters with cost 41 and greater by 0.5x. Gurantees duplicating a drop upon completion of the island.",
+        captainNotes: "Does not work if he was not your captain upon starting the island. Stacks with other addional drop captains, giving you two chances of getting an extra drop.",
+        special: "Randomizes all orbs. Boosts ATK of characters with cost 40 or less by 1.75x for 2 turns",
+        specialName: "Chop-Chop Clown Car",
+    },
 };
